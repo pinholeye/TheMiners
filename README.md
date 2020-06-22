@@ -2,10 +2,10 @@
 The aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.
 
 # Data sets
-1. The Skin Cancer MNIST: HAM10000 data set [1][2]
+1. The Skin Cancer MNIST: HAM10000 data set [1],[2] \\
 The first data set was downloaded with the following link: https://www.kaggle.com/kmader/skin-cancer-mnistham10000?select=HAM10000_images_part_2
 
-2. The MED-NODE data set [3]
+2. The MED-NODE data set [3]\\s
 The second data set was downloaded with the following link: http://www.cs.rug.nl/~imaging/databases/melanoma_naevi/
 
 [1] Noel C. F. Codella, Veronica Rotemberg, Philipp Tschandl, M. Emre Celebi,Stephen W. Dusza, David Gutman, Brian Helba, Aadi Kalloo, KonstantinosLiopyris,  Michael  A.  Marchetti,  Harald  Kittler,  and  Allan  Halpern.   Skinlesion  analysis  toward  melanoma  detection  2018:   A  challenge  hosted  bythe international skin imaging collaboration (ISIC).CoRR, abs/1902.03368,2019.
