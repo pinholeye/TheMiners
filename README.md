@@ -27,4 +27,5 @@ The pretrained VAE can be found here: [4], [5]
 [3]  Philipp  Tschandl,  Cliff  Rosendahl,  and  Harald  Kittler.    The  ham10000dataset, a large collection of multi-source dermatoscopic images of commonpigmented skin lesions.Scientific data, 5:180161, 2018
 
 [4] Codella, Noel CF, et al. "Collaborative Human-AI (CHAI): Evidence-based interpretable melanoma classification in dermoscopic images." Understanding and Interpreting Machine Learning in Medical Image Computing Applications. Springer, Cham, 2018. 97-105.
+
 [5] Diederik P Kingma and Max Welling. Auto-encoding variational Bayes. ICLR, 2014.
