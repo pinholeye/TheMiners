@@ -7,7 +7,9 @@ The first data set was downloaded with the following link: https://www.kaggle.co
 
 2. The MED-NODE data set [3] <br>
 The second data set was downloaded with the following link: http://www.cs.rug.nl/~imaging/databases/melanoma_naevi/
+<br>
 
+The merged data set can be found here : https://hessenbox-a10.rz.uni-frankfurt.de/getlink/fi93s2yg4wY6v7d18RKJppTQ/ (Just merge nv, nv1 and nv2 together)
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
 1. Merging data sets: DataScienceProjektMergingData.ipynb
