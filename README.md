@@ -16,6 +16,8 @@ The Code is aviable via Jupyter Nodebooks: <br>
 
 The pretrained VAE can be found here: [4]
 
+
+# References
 [1] Noel C. F. Codella, Veronica Rotemberg, Philipp Tschandl, M. Emre Celebi,Stephen W. Dusza, David Gutman, Brian Helba, Aadi Kalloo, KonstantinosLiopyris,  Michael  A.  Marchetti,  Harald  Kittler,  and  Allan  Halpern.   Skinlesion  analysis  toward  melanoma  detection  2018:   A  challenge  hosted  bythe international skin imaging collaboration (ISIC).CoRR, abs/1902.03368,2019.
 
 [2]  S.  Land  M.  Biehl  M.F.  Jonkman  I.  Giotis,  N.  Molders  and  N.  Petkov.Med-node:   A  computer-assisted  melanoma  diagnosis  system  using  non-dermoscopic images.Expert Systems with Applications, 42:6578–6585, 2015.
