@@ -10,8 +10,10 @@ The first data set was downloaded with the following link: https://offenedaten.f
 The second data set was downloaded with the following link: https://opendata.dresden.de/DreiD/
 
 The merged data set: MergedDataFrankfurtDresden.csv
+The merged data set: MergedCataFrankfurtMünchenDresden.csv
 
-
+https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bundestagswahlen/2017
+https://www.muenchen.de/rathaus/Stadtinfos/Statistik/Wahlen/Bundestagswahl-2017/Zweitstimmen.html
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
 1. Merging data sets: 
