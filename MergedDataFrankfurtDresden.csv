@@ -1,0 +1,525 @@
+Stadt,Jahr,Wahlart,Kolumna1,Stadtteil zus.,Wahlberechtigte,Wahlberechtigte mit WS,Wähler,Wähler mit WS,Stimmen gültig,Stimmen CDU,Stimmen SPD,Stimmen Die Linke,Stimmen Grüne,Stimmen FDP,Stimmen AfD,Stimmen Piraten,Stimmen ungültig
+Dresden,2017,Bundestagswahl,,01 Innere Altstadt,0,0,411,411,410,110,51,81,44,51,51,0,1
+Dresden,2017,Bundestagswahl,,01 Innere Altstadt,1328,422,642,0,637,134,73,141,44,100,108,0,5
+Dresden,2017,Bundestagswahl,,02 Pirnaische Vorstadt,0,0,694,694,690,213,85,125,45,63,94,4,4
+Dresden,2017,Bundestagswahl,,02 Pirnaische Vorstadt,0,0,424,424,422,110,67,87,33,40,49,3,2
+Dresden,2017,Bundestagswahl,,02 Pirnaische Vorstadt,1433,346,691,0,684,130,84,173,62,40,124,8,7
+Dresden,2017,Bundestagswahl,,02 Pirnaische Vorstadt,1775,453,828,3,814,184,76,173,60,64,170,12,14
+Dresden,2017,Bundestagswahl,,02 Pirnaische Vorstadt,1422,369,655,1,647,189,85,106,28,53,158,3,8
+Dresden,2017,Bundestagswahl,,03 Seevorstadt-Ost,0,0,596,596,596,151,74,110,56,75,83,4,0
+Dresden,2017,Bundestagswahl,,03 Seevorstadt-Ost,0,0,809,809,806,260,82,131,59,88,132,13,3
+Dresden,2017,Bundestagswahl,,03 Seevorstadt-Ost,1259,282,596,2,587,132,77,101,33,66,125,1,9
+Dresden,2017,Bundestagswahl,,03 Seevorstadt-Ost,1258,332,643,2,636,140,79,130,26,56,150,12,7
+Dresden,2017,Bundestagswahl,,03 Seevorstadt-Ost,1126,272,606,1,599,175,79,99,30,63,116,4,7
+Dresden,2017,Bundestagswahl,,03 Seevorstadt-Ost,1932,569,965,4,954,234,121,147,58,93,243,5,11
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,0,0,1023,1023,1015,287,112,209,81,114,147,8,8
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,0,0,717,717,715,184,96,161,38,68,115,7,2
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,1151,405,538,1,538,102,69,82,62,103,77,6,0
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,1239,337,541,1,534,122,61,107,43,62,104,4,7
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,1299,309,671,0,657,141,85,122,32,50,171,6,14
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,1153,295,509,0,502,113,72,97,30,42,122,4,7
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,1013,214,558,0,548,111,53,141,24,30,147,8,10
+Dresden,2017,Bundestagswahl,,04 Wilsdruffer Vs./Seevs.-West,938,229,536,0,533,123,53,129,24,43,136,4,3
+Dresden,2017,Bundestagswahl,,05 Friedrichstadt,0,0,757,757,755,168,72,152,110,73,80,18,2
+Dresden,2017,Bundestagswahl,,05 Friedrichstadt,0,0,589,589,588,144,59,110,73,52,68,15,1
+Dresden,2017,Bundestagswahl,,05 Friedrichstadt,1944,447,969,1,955,199,112,168,95,96,183,7,14
+Dresden,2017,Bundestagswahl,,05 Friedrichstadt,1412,359,634,7,629,81,65,171,72,58,82,16,5
+Dresden,2017,Bundestagswahl,,05 Friedrichstadt,1648,402,820,6,812,139,83,179,123,89,118,8,8
+Dresden,2017,Bundestagswahl,,05 Friedrichstadt,1083,218,511,3,507,68,51,113,34,42,123,12,4
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,0,0,517,517,513,134,52,121,34,48,82,6,4
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,0,0,850,850,845,186,107,196,126,78,77,6,5
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,0,0,848,848,846,220,97,160,110,89,113,2,2
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,1032,180,671,0,666,166,71,139,21,52,171,4,5
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,1129,234,574,3,566,104,71,129,57,29,140,3,8
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,828,127,412,1,408,74,54,91,8,30,117,5,4
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,1170,275,640,1,634,147,82,126,56,41,141,5,6
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,1772,603,961,3,957,195,128,196,128,87,147,11,4
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,1478,373,692,1,679,148,88,137,61,59,133,9,13
+Dresden,2017,Bundestagswahl,,06 Johannstadt-Nord,1738,516,724,10,719,164,77,135,97,80,116,5,5
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,0,0,824,824,821,265,82,137,44,84,148,6,3
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,0,0,682,682,675,204,77,140,21,67,145,1,7
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,0,0,829,829,822,213,94,190,49,79,144,5,7
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,1170,288,638,0,629,175,84,139,25,44,128,5,9
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,940,226,544,0,532,145,53,100,17,44,146,3,12
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,1240,331,655,1,644,187,75,110,25,63,138,3,11
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,966,206,569,0,564,137,52,101,17,49,178,3,5
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,648,172,290,0,280,81,42,53,6,23,68,1,10
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,1274,322,610,0,600,130,69,121,22,52,164,5,10
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,956,274,466,0,460,97,62,94,13,41,135,2,6
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,890,209,466,2,457,84,44,129,19,17,128,4,9
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,979,165,528,1,523,118,57,114,21,33,154,3,5
+Dresden,2017,Bundestagswahl,,07 Johannstadt-Süd,971,212,528,0,517,151,52,97,11,45,137,0,11
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),0,0,959,959,956,127,93,281,251,64,48,16,3
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),0,0,832,832,829,128,99,220,168,73,33,14,3
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),0,0,1234,1234,1230,167,146,361,327,59,38,14,4
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),0,0,972,972,968,115,122,283,246,66,37,16,4
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1657,558,779,2,776,80,74,248,185,51,44,7,3
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1311,457,685,10,684,78,84,197,139,51,38,17,1
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1333,370,743,8,737,93,83,210,129,64,62,17,6
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1768,511,947,1,937,117,89,277,172,57,80,21,10
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1548,495,865,5,861,110,76,250,207,46,64,16,4
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1177,334,726,7,720,80,67,239,176,42,42,8,6
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1403,471,793,9,787,79,89,243,197,56,42,12,6
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1404,454,798,3,795,75,86,241,198,34,64,12,3
+Dresden,2017,Bundestagswahl,,11 Äußere Neustadt (Antonstadt),1577,562,792,7,789,84,88,251,164,41,56,10,3
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,0,0,585,585,582,143,62,123,129,44,41,7,3
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,0,0,1133,1133,1129,280,130,213,153,116,149,15,4
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,949,293,557,5,554,99,59,123,132,42,61,8,3
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,1085,316,668,2,667,141,69,121,125,73,90,10,1
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,1127,381,606,3,603,146,64,108,95,58,99,3,3
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,1097,320,587,2,583,121,57,123,69,65,92,7,4
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,875,265,490,2,486,109,34,104,56,64,80,2,4
+Dresden,2017,Bundestagswahl,,12 Radeberger Vorstadt,1362,210,724,1,709,119,56,181,47,49,176,11,15
+Dresden,2017,Bundestagswahl,,13 Innere Neustadt,0,0,779,779,772,181,90,190,94,73,86,8,7
+Dresden,2017,Bundestagswahl,,13 Innere Neustadt,0,0,945,945,942,258,101,169,190,91,71,9,3
+Dresden,2017,Bundestagswahl,,13 Innere Neustadt,1351,454,686,5,682,135,81,128,100,79,94,12,4
+Dresden,2017,Bundestagswahl,,13 Innere Neustadt,1194,364,569,2,561,142,76,129,21,36,118,7,8
+Dresden,2017,Bundestagswahl,,13 Innere Neustadt,1333,389,728,8,724,111,79,184,120,72,74,9,4
+Dresden,2017,Bundestagswahl,,13 Innere Neustadt,1665,589,798,3,795,161,96,201,106,59,107,9,3
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,0,0,1225,1225,1219,162,110,399,262,75,45,17,6
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,0,0,603,603,601,76,65,172,148,25,38,11,2
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,0,0,593,593,585,121,59,122,95,40,85,11,8
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,960,253,518,2,514,58,48,163,64,26,87,5,4
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,1695,475,943,7,935,78,86,359,167,52,73,14,8
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,1735,552,943,4,935,77,86,340,178,40,52,19,8
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,1271,324,757,9,752,77,61,252,148,25,59,15,5
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,1209,312,749,4,745,90,76,238,160,41,49,7,4
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,1506,328,922,5,910,134,89,230,162,64,125,13,12
+Dresden,2017,Bundestagswahl,,14 Leipziger Vorstadt,1244,294,736,3,733,162,66,142,48,62,199,10,3
+Dresden,2017,Bundestagswahl,,15 Albertstadt,0,0,602,602,598,143,53,102,85,87,86,2,4
+Dresden,2017,Bundestagswahl,,15 Albertstadt,1496,424,648,3,645,159,70,122,104,53,78,10,3
+Dresden,2017,Bundestagswahl,,15 Albertstadt,855,205,496,3,493,105,53,95,67,36,89,3,3
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,0,0,903,903,900,182,77,212,156,69,91,7,3
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,0,0,930,930,924,178,76,225,145,84,104,9,6
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,1248,306,678,1,672,89,55,201,107,49,80,9,6
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,1323,274,728,2,722,105,67,185,74,60,146,17,6
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,1644,364,904,4,893,171,94,180,108,71,154,15,11
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,1550,326,856,5,850,116,91,193,119,55,156,18,6
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,1482,352,762,0,750,125,78,177,99,37,143,12,12
+Dresden,2017,Bundestagswahl,,21 Pieschen-Süd,1486,292,800,3,793,128,68,173,96,61,180,15,7
+Dresden,2017,Bundestagswahl,,22 Mickten,0,0,895,895,885,236,86,152,74,77,167,12,10
+Dresden,2017,Bundestagswahl,,22 Mickten,0,0,987,987,983,259,82,165,78,91,212,7,4
+Dresden,2017,Bundestagswahl,,22 Mickten,1569,311,919,2,908,165,98,196,80,59,227,9,11
+Dresden,2017,Bundestagswahl,,22 Mickten,1328,266,723,1,714,135,75,123,30,52,217,12,9
+Dresden,2017,Bundestagswahl,,22 Mickten,1241,215,662,0,655,134,56,138,30,42,169,7,7
+Dresden,2017,Bundestagswahl,,22 Mickten,922,138,527,0,515,108,55,86,10,40,170,2,12
+Dresden,2017,Bundestagswahl,,22 Mickten,1212,270,722,3,710,170,54,104,31,74,222,6,12
+Dresden,2017,Bundestagswahl,,22 Mickten,1673,351,943,2,936,184,88,165,74,84,230,7,7
+Dresden,2017,Bundestagswahl,,22 Mickten,1081,196,666,2,661,128,65,114,28,57,206,5,5
+Dresden,2017,Bundestagswahl,,22 Mickten,1085,213,666,2,653,130,62,108,19,56,233,7,13
+Dresden,2017,Bundestagswahl,,23 Kaditz,0,0,816,816,813,276,57,106,38,86,187,5,3
+Dresden,2017,Bundestagswahl,,23 Kaditz,1109,226,611,0,605,121,47,92,36,62,197,2,6
+Dresden,2017,Bundestagswahl,,23 Kaditz,1237,243,636,1,631,96,55,116,40,59,201,5,5
+Dresden,2017,Bundestagswahl,,23 Kaditz,1056,213,662,4,657,202,44,66,33,61,212,0,5
+Dresden,2017,Bundestagswahl,,23 Kaditz,1077,161,691,1,674,147,75,94,18,62,226,4,17
+Dresden,2017,Bundestagswahl,,24 Trachau,0,0,1022,1022,1018,276,117,184,106,110,146,4,4
+Dresden,2017,Bundestagswahl,,24 Trachau,0,0,796,796,793,242,96,134,63,58,151,2,3
+Dresden,2017,Bundestagswahl,,24 Trachau,951,174,583,5,578,126,62,111,39,45,144,5,5
+Dresden,2017,Bundestagswahl,,24 Trachau,1161,298,733,4,730,161,86,151,75,79,131,1,3
+Dresden,2017,Bundestagswahl,,24 Trachau,1039,282,625,6,616,149,63,115,63,48,129,4,9
+Dresden,2017,Bundestagswahl,,24 Trachau,1322,302,801,1,798,177,84,148,75,83,177,2,3
+Dresden,2017,Bundestagswahl,,24 Trachau,1543,333,911,2,899,204,97,171,37,74,255,5,12
+Dresden,2017,Bundestagswahl,,24 Trachau,1082,203,628,0,622,151,54,120,39,42,169,2,6
+Dresden,2017,Bundestagswahl,,24 Trachau,1019,284,596,1,592,150,61,81,38,59,174,1,4
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,0,0,1084,1084,1078,288,115,204,105,99,149,12,6
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,0,0,956,956,952,253,114,161,87,95,149,4,4
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,1486,298,778,4,770,155,58,187,62,56,166,10,8
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,1205,223,664,13,659,122,73,136,71,54,112,9,5
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,1401,258,837,2,828,201,87,119,29,65,254,7,9
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,1751,360,915,1,907,180,89,171,72,67,204,14,8
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,1706,375,872,2,861,180,82,182,63,73,194,6,11
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,832,236,441,1,437,96,44,76,42,48,94,1,4
+Dresden,2017,Bundestagswahl,,25 Pieschen-N/Trachenberge,1562,392,826,0,817,175,82,163,64,76,217,3,9
+Dresden,2017,Bundestagswahl,,31 Klotzsche,0,0,786,786,783,215,82,150,43,76,176,0,3
+Dresden,2017,Bundestagswahl,,31 Klotzsche,0,0,846,846,843,260,66,114,90,109,149,6,3
+Dresden,2017,Bundestagswahl,,31 Klotzsche,0,0,684,684,681,211,59,113,40,66,146,0,3
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1586,338,957,5,949,265,80,141,82,98,226,4,8
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1379,282,754,2,746,167,93,125,38,66,220,2,8
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1048,194,655,2,647,151,48,131,24,59,188,4,8
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1303,346,814,3,805,202,70,104,61,113,197,5,9
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1099,244,729,7,722,175,76,97,70,83,182,5,7
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1186,287,741,1,741,178,77,98,69,110,152,4,0
+Dresden,2017,Bundestagswahl,,31 Klotzsche,1045,261,692,2,686,201,57,87,62,81,153,2,6
+Dresden,2017,Bundestagswahl,,31 Klotzsche,935,174,505,2,495,114,38,104,24,55,130,6,10
+Dresden,2017,Bundestagswahl,,31 Klotzsche,929,148,611,1,606,137,63,116,25,50,184,8,5
+Dresden,2017,Bundestagswahl,,31 Klotzsche,860,123,513,0,506,98,40,114,21,27,160,2,7
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,0,0,417,417,415,138,41,42,17,43,112,0,2
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,0,0,726,726,726,230,69,111,74,77,117,3,0
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,1389,292,894,0,887,233,49,105,45,98,309,4,7
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,859,151,580,4,572,148,36,58,24,65,213,1,8
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,801,194,428,0,426,107,35,70,14,50,131,1,2
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,943,237,611,3,605,169,60,82,52,65,154,0,6
+Dresden,2017,Bundestagswahl,,32 Hellerau/Wilschdorf,1140,317,711,0,703,160,75,118,85,63,165,4,8
+Dresden,2017,Bundestagswahl,,35 Weixdorf,0,0,902,902,902,279,68,141,54,105,196,2,0
+Dresden,2017,Bundestagswahl,,35 Weixdorf,1298,308,813,2,811,222,76,96,52,109,213,8,2
+Dresden,2017,Bundestagswahl,,35 Weixdorf,1099,206,748,1,746,220,58,91,49,60,236,8,2
+Dresden,2017,Bundestagswahl,,35 Weixdorf,1208,208,822,3,812,181,70,97,55,105,249,6,10
+Dresden,2017,Bundestagswahl,,35 Weixdorf,976,199,615,2,603,178,44,59,26,72,203,1,12
+Dresden,2017,Bundestagswahl,,35 Weixdorf,217,21,137,0,137,38,7,21,3,15,43,1,0
+Dresden,2017,Bundestagswahl,,36 Langebrück/Schönborn,0,0,735,735,731,213,75,104,72,96,126,5,4
+Dresden,2017,Bundestagswahl,,36 Langebrück/Schönborn,973,182,662,2,658,179,68,69,37,63,204,2,4
+Dresden,2017,Bundestagswahl,,36 Langebrück/Schönborn,1287,278,814,2,812,211,78,106,75,119,172,4,2
+Dresden,2017,Bundestagswahl,,36 Langebrück/Schönborn,792,249,468,3,466,110,49,71,41,54,124,0,2
+Dresden,2017,Bundestagswahl,,36 Langebrück/Schönborn,385,54,290,1,286,66,19,40,15,25,101,2,4
+Dresden,2017,Bundestagswahl,,41 Loschwitz/Wachwitz,0,0,750,750,748,220,67,101,108,125,100,0,2
+Dresden,2017,Bundestagswahl,,41 Loschwitz/Wachwitz,0,0,654,654,652,209,58,78,68,123,94,1,2
+Dresden,2017,Bundestagswahl,,41 Loschwitz/Wachwitz,1329,433,748,0,745,167,63,106,97,122,157,1,3
+Dresden,2017,Bundestagswahl,,41 Loschwitz/Wachwitz,1207,346,721,5,713,229,73,99,80,87,114,3,8
+Dresden,2017,Bundestagswahl,,41 Loschwitz/Wachwitz,818,297,446,0,443,114,43,42,64,77,86,1,3
+Dresden,2017,Bundestagswahl,,41 Loschwitz/Wachwitz,1055,393,541,4,538,115,37,77,73,74,135,4,3
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,0,0,814,814,811,269,74,113,112,107,93,4,3
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,0,0,618,618,613,192,83,88,63,64,84,3,5
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,0,0,906,906,904,305,75,125,90,110,150,2,2
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,1449,423,877,7,869,248,93,136,112,114,115,4,8
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,1428,436,836,4,829,217,75,108,124,107,158,5,7
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,1227,350,705,3,700,198,78,93,75,83,131,4,5
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,1160,288,749,2,742,219,74,110,65,61,174,3,7
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,1009,281,597,1,595,174,48,72,65,68,143,1,2
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,1150,304,690,7,685,166,57,100,58,84,184,3,5
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,730,176,470,2,469,143,47,62,47,42,103,3,1
+Dresden,2017,Bundestagswahl,,42 Bühlau/Weißer Hirsch,690,180,387,4,382,99,32,67,36,50,82,2,5
+Dresden,2017,Bundestagswahl,,43 Hosterwitz/Pillnitz,0,0,681,681,678,195,77,92,86,65,135,0,3
+Dresden,2017,Bundestagswahl,,43 Hosterwitz/Pillnitz,520,131,317,1,315,65,18,46,34,45,93,0,2
+Dresden,2017,Bundestagswahl,,43 Hosterwitz/Pillnitz,1496,417,871,3,864,188,94,103,87,96,244,3,7
+Dresden,2017,Bundestagswahl,,43 Hosterwitz/Pillnitz,743,172,462,6,455,106,46,69,29,37,142,2,7
+Dresden,2017,Bundestagswahl,,45 Weißig,0,0,920,920,918,311,78,123,60,103,178,7,2
+Dresden,2017,Bundestagswahl,,45 Weißig,1022,212,689,0,687,201,75,84,43,82,174,2,2
+Dresden,2017,Bundestagswahl,,45 Weißig,1067,201,631,1,623,174,66,64,18,51,217,4,8
+Dresden,2017,Bundestagswahl,,45 Weißig,1129,197,589,1,584,143,62,85,24,50,175,3,5
+Dresden,2017,Bundestagswahl,,45 Weißig,820,185,520,2,511,142,42,57,32,64,148,2,9
+Dresden,2017,Bundestagswahl,,45 Weißig,581,152,347,4,345,111,29,31,23,37,94,2,2
+Dresden,2017,Bundestagswahl,,46 Gönnsdorf/Pappritz,0,0,758,758,757,260,59,66,67,121,147,5,1
+Dresden,2017,Bundestagswahl,,46 Gönnsdorf/Pappritz,847,232,533,1,528,159,48,56,31,93,122,1,5
+Dresden,2017,Bundestagswahl,,46 Gönnsdorf/Pappritz,852,208,558,1,551,132,41,63,21,79,181,1,7
+Dresden,2017,Bundestagswahl,,46 Gönnsdorf/Pappritz,699,175,448,0,445,118,51,62,28,62,104,1,3
+Dresden,2017,Bundestagswahl,,46 Gönnsdorf/Pappritz,751,169,474,0,468,114,33,45,27,60,161,4,6
+Dresden,2017,Bundestagswahl,,47 Schönfeld/Schullwitz,0,0,539,539,539,165,32,64,35,76,131,1,0
+Dresden,2017,Bundestagswahl,,47 Schönfeld/Schullwitz,994,210,598,1,592,180,45,60,34,63,178,1,6
+Dresden,2017,Bundestagswahl,,47 Schönfeld/Schullwitz,1078,253,619,0,613,156,40,55,16,60,260,0,6
+Dresden,2017,Bundestagswahl,,47 Schönfeld/Schullwitz,551,102,337,1,332,89,19,31,24,37,116,0,5
+Dresden,2017,Bundestagswahl,,51 Blasewitz,0,0,1172,1172,1171,384,130,169,111,165,164,0,1
+Dresden,2017,Bundestagswahl,,51 Blasewitz,0,0,1000,1000,998,323,115,158,115,105,127,3,2
+Dresden,2017,Bundestagswahl,,51 Blasewitz,1360,440,763,10,760,218,73,106,74,102,145,4,3
+Dresden,2017,Bundestagswahl,,51 Blasewitz,1566,446,860,7,848,266,97,105,83,118,136,7,12
+Dresden,2017,Bundestagswahl,,51 Blasewitz,1136,337,670,3,663,188,61,86,65,94,131,3,7
+Dresden,2017,Bundestagswahl,,51 Blasewitz,1231,351,720,2,718,156,79,116,103,87,133,4,2
+Dresden,2017,Bundestagswahl,,51 Blasewitz,1193,298,797,0,790,212,82,117,90,96,154,1,7
+Dresden,2017,Bundestagswahl,,51 Blasewitz,1477,378,864,1,857,207,72,143,123,89,163,9,7
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,0,0,1264,1264,1260,380,138,173,178,144,162,7,4
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,0,0,799,799,797,219,87,107,159,99,75,6,2
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,0,0,998,998,994,296,85,147,175,108,100,6,4
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1135,357,695,2,690,169,79,89,150,89,82,2,5
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1334,369,845,5,841,198,92,134,145,105,118,6,4
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1488,463,880,5,876,219,99,153,170,78,121,5,4
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1394,402,862,2,861,235,90,127,118,106,126,3,1
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1465,428,878,1,873,201,107,111,117,119,162,5,5
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,898,262,541,0,540,135,53,74,87,78,85,4,1
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1232,333,733,4,732,181,74,105,96,76,144,6,1
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1070,230,568,3,554,147,64,98,53,59,105,3,14
+Dresden,2017,Bundestagswahl,,52 Striesen-Ost,1272,321,691,1,685,187,77,87,51,76,167,3,6
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,0,0,1090,1090,1088,299,140,183,106,117,165,2,2
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,0,0,767,767,761,224,113,132,54,75,130,2,6
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,0,0,515,515,513,145,63,90,45,45,84,3,2
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,1089,339,668,6,663,181,79,101,80,80,108,2,5
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,976,279,507,1,504,109,56,95,59,50,100,4,3
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,1784,526,844,4,833,156,72,192,57,89,209,10,11
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,1395,343,808,1,798,192,116,139,32,69,215,2,10
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,1381,462,679,1,673,161,78,111,47,82,157,3,6
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,1200,295,625,6,620,118,56,105,43,64,185,1,5
+Dresden,2017,Bundestagswahl,,53 Striesen-Süd,1042,247,574,3,566,127,53,113,50,60,120,7,8
+Dresden,2017,Bundestagswahl,,54 Striesen-West,0,0,876,876,874,296,100,139,89,88,103,5,2
+Dresden,2017,Bundestagswahl,,54 Striesen-West,0,0,1054,1054,1047,290,122,168,95,125,168,12,7
+Dresden,2017,Bundestagswahl,,54 Striesen-West,0,0,794,794,792,238,82,133,79,86,122,6,2
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1716,485,963,3,950,230,129,156,96,96,178,14,13
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1286,327,756,3,747,152,79,131,102,92,121,11,9
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1341,361,729,0,712,171,104,121,35,75,161,5,17
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1502,419,853,2,843,228,86,127,47,93,205,2,10
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1497,404,884,4,878,253,98,122,67,97,186,5,6
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1573,389,963,0,956,258,110,135,73,126,190,6,7
+Dresden,2017,Bundestagswahl,,54 Striesen-West,1640,422,906,0,884,206,107,161,72,76,206,4,22
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,0,0,935,935,931,271,97,168,64,75,189,5,4
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,0,0,978,978,974,241,135,166,60,101,203,6,4
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1128,275,650,6,648,147,53,97,52,62,182,4,2
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1117,262,698,1,693,134,62,126,78,65,183,4,5
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1053,278,593,3,587,131,64,97,33,51,166,3,6
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1581,383,867,3,855,219,90,129,30,81,252,0,12
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1065,173,577,0,566,112,61,104,6,34,209,6,11
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1671,341,888,1,877,187,91,145,42,108,236,13,11
+Dresden,2017,Bundestagswahl,,55 Tolkewitz/Seidnitz-Nord,1455,301,806,3,795,184,82,119,40,90,221,6,11
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,0,0,1166,1166,1158,336,114,196,49,121,260,8,8
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,0,0,989,989,984,265,96,183,58,95,213,8,5
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,1548,387,800,3,791,148,86,121,30,90,254,5,9
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,858,118,466,0,454,76,52,74,11,42,157,5,12
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,1334,242,797,1,787,182,80,137,37,70,226,1,10
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,738,170,430,2,425,80,33,58,28,53,144,4,5
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,1525,297,940,0,931,212,87,149,42,90,297,5,9
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,876,156,502,0,493,112,32,91,24,38,164,3,9
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,1427,271,866,2,847,197,85,125,33,87,264,3,19
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,989,225,496,0,489,115,41,62,21,50,162,2,7
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,853,171,494,2,490,118,57,95,19,28,142,3,4
+Dresden,2017,Bundestagswahl,,56 Seidnitz/Dobritz,995,201,564,0,560,123,58,128,14,40,152,5,4
+Dresden,2017,Bundestagswahl,,57 Gruna,0,0,973,973,972,269,107,195,89,80,155,8,1
+Dresden,2017,Bundestagswahl,,57 Gruna,0,0,832,832,827,271,103,140,59,83,132,2,5
+Dresden,2017,Bundestagswahl,,57 Gruna,0,0,927,927,923,273,76,155,84,109,157,5,4
+Dresden,2017,Bundestagswahl,,57 Gruna,1340,357,636,0,622,159,31,123,46,58,161,9,14
+Dresden,2017,Bundestagswahl,,57 Gruna,1539,393,852,5,847,165,95,173,72,75,202,2,5
+Dresden,2017,Bundestagswahl,,57 Gruna,909,182,563,1,560,130,62,91,34,60,149,9,3
+Dresden,2017,Bundestagswahl,,57 Gruna,767,197,485,2,478,91,54,96,27,63,125,0,7
+Dresden,2017,Bundestagswahl,,57 Gruna,1234,260,754,0,745,162,77,135,60,55,208,8,9
+Dresden,2017,Bundestagswahl,,57 Gruna,1287,351,686,0,678,127,60,164,41,56,182,4,8
+Dresden,2017,Bundestagswahl,,57 Gruna,1289,288,720,3,714,153,81,135,35,78,184,3,6
+Dresden,2017,Bundestagswahl,,57 Gruna,927,321,466,3,464,101,43,76,51,38,122,2,2
+Dresden,2017,Bundestagswahl,,57 Gruna,1397,476,703,0,698,188,65,104,49,94,167,3,5
+Dresden,2017,Bundestagswahl,,61 Leuben,0,0,911,911,896,255,86,147,34,87,224,5,15
+Dresden,2017,Bundestagswahl,,61 Leuben,0,0,665,665,661,192,58,129,22,41,156,5,4
+Dresden,2017,Bundestagswahl,,61 Leuben,926,146,546,0,536,150,66,101,16,47,128,2,10
+Dresden,2017,Bundestagswahl,,61 Leuben,1043,198,621,2,617,166,39,69,38,59,195,6,4
+Dresden,2017,Bundestagswahl,,61 Leuben,1628,249,920,2,904,237,75,171,35,82,254,8,16
+Dresden,2017,Bundestagswahl,,61 Leuben,997,125,592,2,589,123,58,68,31,46,211,3,3
+Dresden,2017,Bundestagswahl,,61 Leuben,1276,217,719,0,710,169,76,128,27,59,210,4,9
+Dresden,2017,Bundestagswahl,,61 Leuben,1058,189,594,4,577,126,55,119,25,52,163,3,17
+Dresden,2017,Bundestagswahl,,61 Leuben,1056,175,524,1,517,88,64,97,15,35,181,1,7
+Dresden,2017,Bundestagswahl,,61 Leuben,1819,325,872,1,856,137,93,164,25,54,296,10,16
+Dresden,2017,Bundestagswahl,,62 Laubegast,0,0,542,542,537,159,50,106,31,54,98,1,5
+Dresden,2017,Bundestagswahl,,62 Laubegast,0,0,697,697,691,200,76,109,71,81,113,4,6
+Dresden,2017,Bundestagswahl,,62 Laubegast,0,0,898,898,895,245,93,130,59,105,206,3,3
+Dresden,2017,Bundestagswahl,,62 Laubegast,705,134,435,0,431,81,43,75,26,52,123,2,4
+Dresden,2017,Bundestagswahl,,62 Laubegast,966,215,596,2,594,141,51,76,37,91,158,6,2
+Dresden,2017,Bundestagswahl,,62 Laubegast,1178,214,753,2,740,166,66,123,35,67,246,4,13
+Dresden,2017,Bundestagswahl,,62 Laubegast,947,167,579,2,575,127,53,88,24,63,187,1,4
+Dresden,2017,Bundestagswahl,,62 Laubegast,1041,234,634,0,626,188,56,84,23,73,180,1,8
+Dresden,2017,Bundestagswahl,,62 Laubegast,1351,319,812,3,804,168,73,122,82,81,229,5,8
+Dresden,2017,Bundestagswahl,,62 Laubegast,1264,292,780,3,774,192,66,103,35,99,247,2,6
+Dresden,2017,Bundestagswahl,,62 Laubegast,1160,294,669,3,662,130,56,112,25,69,230,0,7
+Dresden,2017,Bundestagswahl,,62 Laubegast,1528,341,956,3,950,189,93,155,69,58,345,7,6
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,0,0,962,962,954,321,82,102,100,142,175,1,8
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,0,0,631,631,629,196,55,99,36,58,144,3,2
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,951,233,558,1,549,143,41,76,36,82,146,2,9
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,952,268,564,1,562,139,42,69,40,52,188,1,2
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,987,227,639,3,633,174,46,70,65,75,176,3,6
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,1214,265,784,0,779,202,61,91,56,85,246,3,5
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,891,161,627,0,622,150,46,66,37,71,210,3,5
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,952,274,575,2,572,175,45,59,31,74,173,1,3
+Dresden,2017,Bundestagswahl,,63 Kleinzschachwitz,1064,222,710,1,706,168,60,78,25,95,246,1,4
+Dresden,2017,Bundestagswahl,,64 Großzschachwitz,0,0,804,804,796,196,77,136,39,93,189,7,8
+Dresden,2017,Bundestagswahl,,64 Großzschachwitz,1147,164,705,0,693,161,40,82,33,85,240,3,12
+Dresden,2017,Bundestagswahl,,64 Großzschachwitz,901,161,519,0,511,88,61,81,11,37,196,8,8
+Dresden,2017,Bundestagswahl,,64 Großzschachwitz,862,126,523,2,516,100,56,86,19,42,182,4,7
+Dresden,2017,Bundestagswahl,,64 Großzschachwitz,934,154,568,0,562,120,56,113,30,33,172,7,6
+Dresden,2017,Bundestagswahl,,64 Großzschachwitz,1337,238,763,1,749,211,67,101,42,54,227,8,14
+Dresden,2017,Bundestagswahl,,71 Prohlis-Nord,0,0,685,685,677,171,69,123,29,58,164,5,8
+Dresden,2017,Bundestagswahl,,71 Prohlis-Nord,934,162,591,0,585,151,50,96,19,50,176,4,6
+Dresden,2017,Bundestagswahl,,71 Prohlis-Nord,1616,234,814,1,788,153,78,142,18,42,293,6,26
+Dresden,2017,Bundestagswahl,,71 Prohlis-Nord,970,135,536,0,531,104,57,112,8,23,190,0,5
+Dresden,2017,Bundestagswahl,,71 Prohlis-Nord,1141,188,542,0,530,123,53,90,6,26,186,4,12
+Dresden,2017,Bundestagswahl,,72 Prohlis-Süd,0,0,810,810,802,202,87,179,25,59,191,4,8
+Dresden,2017,Bundestagswahl,,72 Prohlis-Süd,1082,99,531,0,521,110,58,105,10,21,183,6,10
+Dresden,2017,Bundestagswahl,,72 Prohlis-Süd,954,102,407,0,400,56,48,87,10,21,149,0,7
+Dresden,2017,Bundestagswahl,,72 Prohlis-Süd,1385,166,661,0,640,106,68,116,17,35,246,8,21
+Dresden,2017,Bundestagswahl,,72 Prohlis-Süd,1378,193,688,1,675,149,67,96,10,47,259,3,13
+Dresden,2017,Bundestagswahl,,72 Prohlis-Süd,1804,283,824,1,808,150,69,197,27,50,252,5,16
+Dresden,2017,Bundestagswahl,,73 Niedersedlitz,0,0,996,996,995,292,96,147,53,125,226,9,1
+Dresden,2017,Bundestagswahl,,73 Niedersedlitz,1219,243,812,1,805,176,61,105,32,121,256,1,7
+Dresden,2017,Bundestagswahl,,73 Niedersedlitz,1481,327,943,3,932,196,77,152,33,104,299,8,11
+Dresden,2017,Bundestagswahl,,73 Niedersedlitz,1104,242,696,4,689,159,65,73,36,90,228,3,7
+Dresden,2017,Bundestagswahl,,73 Niedersedlitz,892,221,542,1,540,122,44,76,17,53,211,1,2
+Dresden,2017,Bundestagswahl,,74 Lockwitz,0,0,1069,1069,1058,347,104,160,64,127,208,5,11
+Dresden,2017,Bundestagswahl,,74 Lockwitz,715,121,441,0,434,97,30,41,15,58,173,4,7
+Dresden,2017,Bundestagswahl,,74 Lockwitz,1196,274,791,4,782,199,63,94,34,92,266,4,9
+Dresden,2017,Bundestagswahl,,74 Lockwitz,832,149,566,0,559,151,50,55,32,65,177,1,7
+Dresden,2017,Bundestagswahl,,74 Lockwitz,1378,290,884,0,870,220,71,102,46,100,276,2,14
+Dresden,2017,Bundestagswahl,,74 Lockwitz,1220,265,783,1,775,188,52,109,33,96,249,3,8
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,0,0,856,856,853,269,74,123,59,94,174,2,3
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,0,0,873,873,865,241,114,142,81,80,155,2,8
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,0,0,1076,1076,1074,289,114,183,75,130,209,5,2
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1051,262,654,2,654,150,63,122,23,84,186,3,0
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1025,297,629,2,618,180,61,88,47,76,146,0,11
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1252,317,707,0,695,197,70,95,33,76,200,3,12
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,834,100,323,1,319,45,38,76,11,9,121,1,4
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1032,259,647,1,644,161,53,78,57,70,171,0,3
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1110,288,638,2,634,124,70,97,32,78,196,0,4
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1224,258,712,0,702,158,71,119,36,45,218,4,10
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,1348,299,775,4,762,187,76,147,27,67,206,7,13
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,753,234,422,3,416,106,44,64,22,58,99,3,6
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,985,310,550,1,545,136,53,75,49,72,125,5,5
+Dresden,2017,Bundestagswahl,,75 Leubnitz-Neuostra,924,277,515,2,509,108,49,63,32,80,148,1,6
+Dresden,2017,Bundestagswahl,,76 Strehlen,0,0,1022,1022,1018,224,118,139,189,124,129,9,4
+Dresden,2017,Bundestagswahl,,76 Strehlen,0,0,233,233,231,63,29,38,19,24,43,2,2
+Dresden,2017,Bundestagswahl,,76 Strehlen,0,0,618,618,613,167,76,100,51,62,115,4,5
+Dresden,2017,Bundestagswahl,,76 Strehlen,1350,443,693,2,690,165,86,130,82,88,88,2,3
+Dresden,2017,Bundestagswahl,,76 Strehlen,1308,333,765,4,761,196,52,144,90,83,139,7,4
+Dresden,2017,Bundestagswahl,,76 Strehlen,1153,305,670,3,668,116,86,144,107,44,114,7,2
+Dresden,2017,Bundestagswahl,,76 Strehlen,542,153,291,2,288,69,44,60,12,31,62,2,3
+Dresden,2017,Bundestagswahl,,76 Strehlen,1507,443,790,2,785,194,69,144,58,83,178,11,5
+Dresden,2017,Bundestagswahl,,76 Strehlen,1172,209,562,1,554,97,37,133,24,45,179,3,8
+Dresden,2017,Bundestagswahl,,76 Strehlen,1019,82,397,5,390,41,41,82,18,14,144,5,7
+Dresden,2017,Bundestagswahl,,77 Reick,0,0,836,836,826,229,86,160,23,84,181,3,10
+Dresden,2017,Bundestagswahl,,77 Reick,1357,307,723,0,715,129,75,109,21,73,253,3,8
+Dresden,2017,Bundestagswahl,,77 Reick,1670,412,868,0,860,209,97,129,33,94,249,6,8
+Dresden,2017,Bundestagswahl,,77 Reick,1121,148,536,0,528,89,65,77,25,30,192,2,8
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,0,0,920,920,916,214,104,198,113,84,120,9,4
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,0,0,734,734,732,172,69,146,93,103,72,7,2
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,0,0,993,993,990,236,129,168,127,117,122,9,3
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,897,186,461,5,456,75,51,86,32,36,142,2,5
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,1708,442,915,2,894,225,108,201,60,81,173,7,21
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,1577,486,764,1,759,152,91,142,66,81,165,1,5
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,1162,329,620,2,613,112,59,136,61,60,136,6,7
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,1768,641,854,11,848,162,86,156,107,109,165,15,6
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,1024,289,560,1,553,127,70,89,67,60,100,6,7
+Dresden,2017,Bundestagswahl,,81 Südvorstadt-West,1097,396,516,3,511,120,64,109,67,33,92,4,5
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,0,0,917,917,916,201,123,166,110,117,113,9,1
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,0,0,790,790,789,193,98,126,120,116,61,11,1
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,830,218,404,1,402,66,46,106,31,40,61,8,2
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,1184,361,599,1,590,114,78,104,44,66,138,10,9
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,1169,376,572,0,570,128,66,103,62,78,101,4,2
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,1345,401,744,6,738,133,78,127,72,109,156,5,6
+Dresden,2017,Bundestagswahl,,82 Südvorstadt-Ost,1021,462,388,7,388,52,53,87,51,71,22,7,0
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,0,0,931,931,924,267,103,149,83,109,152,7,7
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,0,0,1118,1118,1109,324,132,201,62,107,202,6,9
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,1049,327,581,1,577,127,63,87,62,73,120,9,4
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,822,189,461,0,453,90,51,83,20,43,139,5,8
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,1199,350,645,0,642,141,55,133,21,53,188,6,3
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,1466,412,839,0,831,186,96,151,33,76,248,2,8
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,1087,225,571,1,564,100,61,124,41,50,143,5,7
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,972,253,559,0,552,143,70,103,28,34,151,4,7
+Dresden,2017,Bundestagswahl,,83 Räcknitz/Zschertnitz,1122,350,596,0,585,141,56,117,46,47,145,2,11
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,0,0,690,690,689,163,75,136,25,65,171,2,1
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,0,0,762,762,760,249,68,113,66,74,142,1,2
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,1251,264,741,0,728,178,73,120,24,63,238,2,13
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,891,191,514,1,505,94,61,102,22,35,156,6,9
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,1150,261,670,2,664,146,80,117,25,53,208,4,6
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,562,128,341,0,340,93,17,37,25,50,99,1,1
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,1281,317,834,1,829,227,90,110,62,82,220,2,5
+Dresden,2017,Bundestagswahl,,84 Kleinpestitz/Mockritz,1052,341,553,0,543,143,50,56,35,59,170,4,10
+Dresden,2017,Bundestagswahl,,85 Coschütz/Gittersee,0,0,1157,1157,1151,339,139,155,98,117,218,5,6
+Dresden,2017,Bundestagswahl,,85 Coschütz/Gittersee,1405,427,704,2,701,151,70,125,36,81,193,3,3
+Dresden,2017,Bundestagswahl,,85 Coschütz/Gittersee,1429,445,771,0,762,220,65,81,63,101,185,6,9
+Dresden,2017,Bundestagswahl,,85 Coschütz/Gittersee,880,174,559,0,557,124,45,75,37,51,184,2,2
+Dresden,2017,Bundestagswahl,,85 Coschütz/Gittersee,908,155,567,0,559,124,39,74,27,68,199,4,8
+Dresden,2017,Bundestagswahl,,86 Plauen,0,0,792,792,787,200,106,117,116,89,94,8,5
+Dresden,2017,Bundestagswahl,,86 Plauen,0,0,974,974,967,223,123,173,157,125,82,5,7
+Dresden,2017,Bundestagswahl,,86 Plauen,0,0,842,842,839,228,104,122,127,100,112,1,3
+Dresden,2017,Bundestagswahl,,86 Plauen,1442,428,815,1,810,170,109,128,84,101,146,4,5
+Dresden,2017,Bundestagswahl,,86 Plauen,1155,388,638,1,632,166,64,105,82,68,110,3,6
+Dresden,2017,Bundestagswahl,,86 Plauen,1258,374,690,3,685,122,70,141,70,79,143,2,5
+Dresden,2017,Bundestagswahl,,86 Plauen,968,272,602,1,600,140,85,113,70,55,101,2,2
+Dresden,2017,Bundestagswahl,,86 Plauen,1219,362,683,5,678,146,75,142,93,59,96,8,5
+Dresden,2017,Bundestagswahl,,86 Plauen,1112,285,629,6,625,150,69,96,77,84,107,6,4
+Dresden,2017,Bundestagswahl,,86 Plauen,700,229,424,0,421,113,50,68,58,38,72,0,3
+Dresden,2017,Bundestagswahl,,86 Plauen,1132,364,600,0,596,157,97,81,67,60,112,0,4
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,0,0,1191,1191,1188,337,95,165,80,132,283,7,3
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,1547,256,928,0,918,219,84,124,33,79,309,5,10
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,1187,327,687,0,684,170,62,65,33,86,226,8,3
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,622,120,408,0,402,90,29,47,25,52,142,0,6
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,924,175,578,0,572,153,54,71,26,56,186,0,6
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,339,64,215,0,214,65,17,30,14,18,62,2,1
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,332,40,225,0,224,53,21,30,8,16,82,4,1
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,782,178,509,0,506,131,46,47,27,53,180,0,3
+Dresden,2017,Bundestagswahl,,90 Cossebaude/Mobschatz/Oberw.,394,62,279,0,277,91,15,27,11,24,105,0,2
+Dresden,2017,Bundestagswahl,,91 Cotta,0,0,1118,1118,1109,310,124,194,86,100,189,9,9
+Dresden,2017,Bundestagswahl,,91 Cotta,0,0,799,799,795,226,87,129,61,75,132,14,4
+Dresden,2017,Bundestagswahl,,91 Cotta,1006,182,623,0,620,108,65,86,51,57,192,3,3
+Dresden,2017,Bundestagswahl,,91 Cotta,1066,256,597,1,595,120,60,88,38,62,171,1,2
+Dresden,2017,Bundestagswahl,,91 Cotta,1656,355,921,0,908,193,85,143,58,86,262,8,13
+Dresden,2017,Bundestagswahl,,91 Cotta,1553,376,847,2,842,159,90,149,63,77,215,10,5
+Dresden,2017,Bundestagswahl,,91 Cotta,1003,199,548,3,543,105,66,97,18,48,170,4,5
+Dresden,2017,Bundestagswahl,,91 Cotta,1366,299,745,1,739,131,82,128,46,76,214,10,6
+Dresden,2017,Bundestagswahl,,91 Cotta,1345,339,685,4,681,128,77,126,36,76,174,7,4
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,0,0,956,956,955,211,128,174,134,104,96,11,1
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,0,0,901,901,891,204,89,177,114,100,110,15,10
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,1890,565,930,3,924,158,101,193,107,100,157,10,6
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,1654,435,821,1,814,152,102,136,73,85,178,16,7
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,1519,427,784,0,776,135,73,164,85,76,150,14,8
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,916,235,507,1,504,91,50,96,51,47,123,6,3
+Dresden,2017,Bundestagswahl,,92 Löbtau-Nord,1303,271,751,3,742,141,88,170,79,68,130,5,9
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,0,0,606,606,603,135,77,92,105,65,52,5,3
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,0,0,923,923,921,209,97,177,165,81,96,11,2
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,0,0,763,763,762,181,104,125,109,75,79,11,1
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,1294,321,709,4,704,127,77,162,67,78,128,2,5
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,1160,315,611,3,610,105,77,117,63,62,130,6,1
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,1654,432,883,1,876,178,102,142,107,102,157,11,7
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,988,297,501,3,499,97,52,109,57,48,87,9,2
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,961,228,580,0,570,130,61,96,64,54,120,9,10
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,1394,364,754,7,747,130,86,140,76,73,157,10,7
+Dresden,2017,Bundestagswahl,,93 Löbtau-Süd,1662,432,885,6,876,185,86,179,107,92,147,9,9
+Dresden,2017,Bundestagswahl,,94 Naußlitz,0,0,974,974,974,267,96,175,84,94,181,3,0
+Dresden,2017,Bundestagswahl,,94 Naußlitz,0,0,738,738,736,217,91,94,52,88,134,3,2
+Dresden,2017,Bundestagswahl,,94 Naußlitz,955,189,515,1,510,103,58,95,28,36,146,6,5
+Dresden,2017,Bundestagswahl,,94 Naußlitz,968,187,533,0,526,109,63,70,25,44,175,4,7
+Dresden,2017,Bundestagswahl,,94 Naußlitz,1272,340,722,0,715,169,63,119,39,49,212,6,7
+Dresden,2017,Bundestagswahl,,94 Naußlitz,1098,307,620,2,618,159,45,73,31,82,186,4,2
+Dresden,2017,Bundestagswahl,,94 Naußlitz,1023,300,605,2,603,153,56,99,47,72,147,2,2
+Dresden,2017,Bundestagswahl,,94 Naußlitz,858,159,593,3,591,165,64,82,43,70,136,6,2
+Dresden,2017,Bundestagswahl,,94 Naußlitz,1479,311,895,0,887,180,80,120,60,89,300,5,8
+Dresden,2017,Bundestagswahl,,95 Gorbitz-Süd,0,0,844,844,840,217,86,160,29,73,219,8,4
+Dresden,2017,Bundestagswahl,,95 Gorbitz-Süd,1630,191,748,1,736,121,68,144,22,32,276,4,12
+Dresden,2017,Bundestagswahl,,95 Gorbitz-Süd,1099,125,460,1,452,73,45,74,16,15,179,4,8
+Dresden,2017,Bundestagswahl,,95 Gorbitz-Süd,877,113,462,0,452,124,62,90,9,16,126,0,10
+Dresden,2017,Bundestagswahl,,95 Gorbitz-Süd,1394,283,743,3,735,123,62,99,21,66,292,10,8
+Dresden,2017,Bundestagswahl,,95 Gorbitz-Süd,1157,176,572,3,563,88,50,88,16,22,247,4,9
+Dresden,2017,Bundestagswahl,,96 Gorbitz-Ost,0,0,840,840,832,236,85,179,42,64,166,1,8
+Dresden,2017,Bundestagswahl,,96 Gorbitz-Ost,1456,277,711,1,700,121,64,144,25,60,232,9,11
+Dresden,2017,Bundestagswahl,,96 Gorbitz-Ost,1737,329,788,1,776,146,56,144,26,54,275,0,12
+Dresden,2017,Bundestagswahl,,96 Gorbitz-Ost,1693,274,778,3,762,114,76,131,21,48,306,8,16
+Dresden,2017,Bundestagswahl,,97 Gorbitz-Nord/Neu-Omsewitz,0,0,718,718,711,167,86,157,32,45,157,10,7
+Dresden,2017,Bundestagswahl,,97 Gorbitz-Nord/Neu-Omsewitz,1547,270,840,0,823,141,90,141,33,49,304,7,17
+Dresden,2017,Bundestagswahl,,97 Gorbitz-Nord/Neu-Omsewitz,1675,232,842,0,829,140,75,134,24,61,307,6,13
+Dresden,2017,Bundestagswahl,,97 Gorbitz-Nord/Neu-Omsewitz,1241,250,594,1,592,110,61,116,15,27,222,6,2
+Dresden,2017,Bundestagswahl,,98 Briesnitz,0,0,1122,1122,1117,332,98,151,66,106,281,4,5
+Dresden,2017,Bundestagswahl,,98 Briesnitz,0,0,898,898,893,243,76,139,70,112,194,4,5
+Dresden,2017,Bundestagswahl,,98 Briesnitz,1440,288,894,1,882,216,66,115,49,95,291,2,12
+Dresden,2017,Bundestagswahl,,98 Briesnitz,1442,360,865,0,858,194,86,117,44,70,294,4,7
+Dresden,2017,Bundestagswahl,,98 Briesnitz,1327,299,819,2,812,208,67,104,35,82,272,9,7
+Dresden,2017,Bundestagswahl,,98 Briesnitz,1004,233,549,0,538,126,56,75,32,49,148,7,11
+Dresden,2017,Bundestagswahl,,98 Briesnitz,974,207,530,0,523,90,41,84,27,56,180,6,7
+Dresden,2017,Bundestagswahl,,98 Briesnitz,1460,414,850,1,841,209,76,132,62,71,245,3,9
+Dresden,2017,Bundestagswahl,,98 Briesnitz,1253,308,734,2,726,179,61,92,56,70,221,5,8
+Dresden,2017,Bundestagswahl,,99 Altfranken/Gompitz,0,0,771,771,768,252,57,95,25,82,205,4,3
+Dresden,2017,Bundestagswahl,,99 Altfranken/Gompitz,1507,392,930,0,926,255,80,100,51,101,277,5,4
+Dresden,2017,Bundestagswahl,,99 Altfranken/Gompitz,1139,221,742,0,736,184,72,79,21,83,258,1,6
+Dresden,2017,Bundestagswahl,,99 Altfranken/Gompitz,881,171,633,0,629,177,49,85,14,90,195,4,4
+Frankfurt am Main,2017,Bundestagswahl,,Altstadt,2222,595,1662,572,1656,435,291,216,241,252,137,8,6
+Frankfurt am Main,2017,Bundestagswahl,,Innenstadt,3162,899,2136,854,2118,551,324,291,318,359,165,15,18
+Frankfurt am Main,2017,Bundestagswahl,,Westend-Süd,11366,4227,9636,4044,9594,3032,1146,647,1306,2680,598,14,42
+Frankfurt am Main,2017,Bundestagswahl,,Westend-Nord,5868,1804,4615,1721,4587,1317,729,432,744,1020,239,17,28
+Frankfurt am Main,2017,Bundestagswahl,,Nordend-West,20089,6562,17068,6322,16983,4302,2649,2168,3414,3011,873,83,85
+Frankfurt am Main,2017,Bundestagswahl,,Nordend-Ost,15315,4564,12684,4364,12607,2614,2216,2098,2981,1650,567,45,77
+Frankfurt am Main,2017,Bundestagswahl,,Ostend,17390,4845,13544,4633,13440,3179,2610,1906,2508,1834,850,70,104
+Frankfurt am Main,2017,Bundestagswahl,,Bornheim,19507,4968,15242,4760,15105,3352,3230,2430,2762,1641,1024,58,137
+Frankfurt am Main,2017,Bundestagswahl,,Gutleut-/Bahnhofsviertel,4921,1328,3648,1263,3606,772,561,596,662,607,255,15,42
+Frankfurt am Main,2017,Bundestagswahl,,Gallus,18113,4475,12471,4299,12345,3008,2238,1566,1654,2141,1176,64,126
+Frankfurt am Main,2017,Bundestagswahl,,Bockenheim,22686,6286,17510,5688,17375,3911,3293,2457,3325,2618,1040,94,135
+Frankfurt am Main,2017,Bundestagswahl,,Sachsenhausen-Nord,20101,6267,16320,6001,16226,4395,2585,1674,3022,3109,939,59,94
+Frankfurt am Main,2017,Bundestagswahl,,Sachsenhausen-Süd,17932,5695,14127,5422,14022,4229,2442,1277,1903,2653,1063,45,105
+Frankfurt am Main,2017,Bundestagswahl,,Oberrad,7499,1609,5367,1520,5292,1448,1190,592,611,648,558,33,75
+Frankfurt am Main,2017,Bundestagswahl,,Niederrad,13303,3140,9416,2992,9288,2427,2079,1009,1105,1265,957,58,128
+Frankfurt am Main,2017,Bundestagswahl,,Schwanheim,12374,2214,8618,2093,8453,2587,1964,739,804,938,1049,38,165
+Frankfurt am Main,2017,Bundestagswahl,,Griesheim,10862,1621,6662,1507,6550,1656,1679,738,630,630,801,38,112
+Frankfurt am Main,2017,Bundestagswahl,,Rödelheim,10103,2142,7392,2055,7313,1729,1551,1182,1018,781,668,51,79
+Frankfurt am Main,2017,Bundestagswahl,,Hausen,3959,859,3142,1118,3093,851,712,391,413,390,238,6,49
+Frankfurt am Main,2017,Bundestagswahl,,Praunheim,9697,1982,7088,1885,7000,1713,1703,885,896,736,774,27,88
+Frankfurt am Main,2017,Bundestagswahl,,Heddernheim,10391,2039,7509,1923,7433,1837,1834,963,988,725,754,42,76
+Frankfurt am Main,2017,Bundestagswahl,,Niederursel,9169,1680,6379,1589,6285,1646,1524,678,792,701,688,32,94
+Frankfurt am Main,2017,Bundestagswahl,,Ginnheim,9824,2048,7113,1960,7027,1680,1591,990,984,866,588,28,86
+Frankfurt am Main,2017,Bundestagswahl,,Dornbusch,12033,3135,9633,2988,9559,2605,1839,1129,1453,1490,718,36,74
+Frankfurt am Main,2017,Bundestagswahl,,Eschersheim,9938,2560,7772,2464,7715,2129,1500,887,1212,1107,576,29,57
+Frankfurt am Main,2017,Bundestagswahl,,Eckenheim,8236,1577,5780,1497,5701,1391,1372,814,700,577,527,30,79
+Frankfurt am Main,2017,Bundestagswahl,,Preungesheim,8411,1634,6315,1550,6252,1634,1362,747,889,792,542,30,63
+Frankfurt am Main,2017,Bundestagswahl,,Bonames,3789,663,2538,635,2502,644,580,293,305,236,320,14,36
+Frankfurt am Main,2017,Bundestagswahl,,Berkersheim,2328,552,1811,539,1795,535,368,197,224,250,153,11,16
+Frankfurt am Main,2017,Bundestagswahl,,Riederwald,2760,413,1871,387,1837,322,543,346,178,101,241,12,34
+Frankfurt am Main,2017,Bundestagswahl,,Seckbach,6035,1337,4542,1265,4476,1268,966,496,649,523,389,20,66
+Frankfurt am Main,2017,Bundestagswahl,,Fechenheim,7647,1278,4682,1194,4609,1145,1179,582,483,413,536,38,73
+Frankfurt am Main,2017,Bundestagswahl,,Höchst,7074,1253,4702,1132,4635,1007,1099,676,636,421,515,38,67
+Frankfurt am Main,2017,Bundestagswahl,,Nied,9757,1640,6703,1538,6578,1759,1613,690,577,668,937,38,125
+Frankfurt am Main,2017,Bundestagswahl,,Sindlingen,4931,708,3284,665,3219,942,835,290,261,263,439,23,65
+Frankfurt am Main,2017,Bundestagswahl,,Zeilsheim,6790,1042,4561,974,4481,1395,1089,369,351,398,650,23,80
+Frankfurt am Main,2017,Bundestagswahl,,Unterliederbach,8694,1315,6027,1242,5942,1700,1431,608,598,620,692,24,85
+Frankfurt am Main,2017,Bundestagswahl,,Sossenheim,8215,1281,5196,1174,5116,1546,1161,498,416,516,694,30,80
+Frankfurt am Main,2017,Bundestagswahl,,Nieder-Erlenbach,3257,813,2759,790,2735,986,466,205,352,390,246,9,24
+Frankfurt am Main,2017,Bundestagswahl,,Kalbach-Riedberg,10946,2378,9019,2276,8969,3013,1517,647,1151,1643,663,34,50
+Frankfurt am Main,2017,Bundestagswahl,,Harheim,3279,769,2758,742,2730,925,520,203,323,357,278,3,28
+Frankfurt am Main,2017,Bundestagswahl,,Nieder-Eschbach,7118,1303,5081,1218,5009,1512,1057,473,558,528,643,26,72
+Frankfurt am Main,2017,Bundestagswahl,,Bergen-Enkheim,11945,2876,9428,2735,9363,2851,1873,797,1091,1416,940,26,65
+Frankfurt am Main,2017,Bundestagswahl,,Frankfurter Berg,4681,890,3423,857,3379,972,743,366,402,361,379,20,44
+Frankfurt am Main,2017,Bundestagswahl,,Stadt insgesamt,423717,101266,317234,96447,314000,82952,63254,37238,45890,44325,27079,1454,3234
