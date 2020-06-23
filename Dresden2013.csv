@@ -1,0 +1,465 @@
+,Jahr,Wahlart,Wahlbezirk,Stadtteil zus.,Stadtraum,Stadtbezirk mit zugeordneten Ortschaften,Wahl-Form,Wahlberechtigte,Wahlberechtigte mit WS,W_hler,W_hler mit WS,Stimmen gôltig,Stimmen CDU,Stimmen SPD,Stimmen Die Linke,Stimmen Grône,Stimmen FDP,Stimmen Rechte Parteien,Stimmen AfD,Stimmen Piraten,Stimmen sonstiger Parteien,Stimmen ungôltig
+0,2013,Bundestagswahl,1000,01 Innere Altstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,372,372,372,133,51,79,45,19,3,15,20,7,0
+1,2013,Bundestagswahl,1100,01 Innere Altstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1355,386,663,0,656,226,122,116,53,39,5,34,48,13,7
+2,2013,Bundestagswahl,2000,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,1017,1017,1013,379,192,227,64,29,10,55,42,15,4
+3,2013,Bundestagswahl,2100,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1592,369,767,0,760,242,129,179,58,19,13,50,56,14,7
+4,2013,Bundestagswahl,2200,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1900,383,886,0,872,310,137,210,52,19,18,58,52,16,14
+5,2013,Bundestagswahl,2400,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1426,297,723,0,715,321,117,129,44,19,14,41,19,11,8
+6,2013,Bundestagswahl,3001,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,490,490,485,175,84,97,53,25,5,14,26,6,5
+7,2013,Bundestagswahl,3002,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,631,631,627,256,113,102,58,30,6,29,23,10,4
+8,2013,Bundestagswahl,3100,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1210,181,584,1,569,191,85,128,28,21,12,49,37,18,15
+9,2013,Bundestagswahl,3200,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1400,328,701,0,698,271,102,156,45,19,17,41,28,19,3
+10,2013,Bundestagswahl,3300,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1336,306,716,0,681,298,132,127,42,11,9,41,11,10,35
+11,2013,Bundestagswahl,3400,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1754,347,982,1,960,414,144,183,56,28,15,78,24,18,22
+12,2013,Bundestagswahl,4001,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,675,675,673,270,103,159,55,20,7,27,22,10,2
+13,2013,Bundestagswahl,4002,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,579,579,572,193,118,153,24,11,13,25,21,14,7
+14,2013,Bundestagswahl,4100,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,923,241,481,1,477,183,81,91,43,21,7,23,21,7,4
+15,2013,Bundestagswahl,4200,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1016,223,436,0,432,158,74,106,26,8,10,23,20,7,4
+16,2013,Bundestagswahl,4300,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1377,230,760,1,750,268,129,179,34,17,22,50,29,22,10
+17,2013,Bundestagswahl,4400,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1120,229,532,0,521,195,74,152,29,5,14,29,15,8,11
+18,2013,Bundestagswahl,4500,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1098,149,646,0,630,217,107,165,27,17,10,48,29,10,16
+19,2013,Bundestagswahl,4600,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,965,208,545,0,540,219,62,166,18,15,13,31,10,6,5
+20,2013,Bundestagswahl,5000,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,837,837,828,223,156,170,137,27,14,30,56,15,9
+21,2013,Bundestagswahl,5100,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1756,287,819,1,802,266,116,156,60,30,24,50,84,16,17
+22,2013,Bundestagswahl,5200,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1880,309,821,3,810,216,115,171,112,21,23,53,80,19,11
+23,2013,Bundestagswahl,5300,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1897,301,900,3,885,239,142,202,85,28,32,63,78,16,15
+24,2013,Bundestagswahl,6001,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,746,746,740,230,115,202,95,16,7,28,36,11,6
+25,2013,Bundestagswahl,6002,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,894,894,888,268,166,146,160,29,11,50,43,15,6
+26,2013,Bundestagswahl,6100,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1076,163,712,2,702,274,131,177,22,11,14,48,16,9,10
+27,2013,Bundestagswahl,6200,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1170,216,610,2,604,186,102,141,61,18,14,31,35,16,6
+28,2013,Bundestagswahl,6300,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1067,132,550,0,529,178,71,144,18,11,26,40,27,14,21
+29,2013,Bundestagswahl,6400,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1279,258,739,0,733,247,138,182,72,13,15,38,20,8,6
+30,2013,Bundestagswahl,6500,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1488,316,914,4,902,280,160,169,141,22,11,56,49,14,12
+31,2013,Bundestagswahl,6600,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1446,265,771,2,760,294,134,150,59,23,20,29,29,22,11
+32,2013,Bundestagswahl,6800,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1644,368,727,4,722,268,113,117,93,35,5,37,48,6,5
+33,2013,Bundestagswahl,7001,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,629,629,626,281,106,119,33,13,8,35,20,11,3
+34,2013,Bundestagswahl,7002,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,490,490,485,201,80,111,24,16,12,25,8,8,5
+35,2013,Bundestagswahl,7003,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,762,762,759,280,134,183,50,16,13,43,22,18,3
+36,2013,Bundestagswahl,7100,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1226,216,741,0,731,326,104,151,38,14,17,43,27,11,10
+37,2013,Bundestagswahl,7200,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,941,182,571,0,566,276,91,104,22,12,10,28,12,11,5
+38,2013,Bundestagswahl,7300,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1168,242,661,0,649,301,112,112,18,14,15,43,18,16,12
+39,2013,Bundestagswahl,7401,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,994,151,634,0,620,256,100,150,18,12,14,47,11,12,14
+40,2013,Bundestagswahl,7402,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,666,93,406,0,400,198,55,92,9,8,6,24,4,4,6
+41,2013,Bundestagswahl,7500,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1346,258,704,0,695,285,114,155,27,10,14,55,18,17,9
+42,2013,Bundestagswahl,7600,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1012,256,523,1,516,192,79,173,15,6,10,29,3,9,7
+43,2013,Bundestagswahl,7700,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,964,163,520,3,506,158,90,169,20,7,6,31,14,11,14
+44,2013,Bundestagswahl,7800,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1002,160,548,1,536,217,76,134,29,16,9,31,17,7,12
+45,2013,Bundestagswahl,7900,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1026,201,565,0,555,222,87,129,26,11,10,39,21,10,10
+46,2013,Bundestagswahl,11001,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,941,941,936,170,168,163,283,19,2,33,83,15,5
+47,2013,Bundestagswahl,11002,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,900,900,886,131,130,153,312,20,2,26,99,13,14
+48,2013,Bundestagswahl,11003,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,1009,1009,1000,174,166,168,334,23,4,21,96,14,9
+49,2013,Bundestagswahl,11100,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1574,364,799,1,787,143,118,174,205,17,0,36,81,13,12
+50,2013,Bundestagswahl,11200,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1384,330,755,4,748,132,144,145,186,17,3,25,89,7,7
+51,2013,Bundestagswahl,11300,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1515,292,833,2,821,160,131,182,148,30,13,38,106,13,12
+52,2013,Bundestagswahl,11400,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1465,333,784,6,775,155,101,172,201,22,0,28,86,10,9
+53,2013,Bundestagswahl,11500,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1593,369,916,4,901,163,147,204,219,11,4,37,104,12,15
+54,2013,Bundestagswahl,11601,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1154,265,698,3,687,116,106,147,193,13,2,31,70,9,11
+55,2013,Bundestagswahl,11602,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1393,338,820,1,811,127,127,188,226,18,9,27,78,11,9
+56,2013,Bundestagswahl,11700,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1437,352,809,3,799,112,134,182,235,20,4,23,79,10,10
+57,2013,Bundestagswahl,11800,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1566,377,838,5,830,176,119,194,176,23,4,41,92,5,8
+58,2013,Bundestagswahl,12001,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,502,502,499,158,86,65,119,30,3,21,15,2,3
+59,2013,Bundestagswahl,12002,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,707,707,697,224,91,148,112,38,6,36,28,14,10
+60,2013,Bundestagswahl,12100,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,955,215,610,1,593,137,98,114,147,20,1,30,38,8,17
+61,2013,Bundestagswahl,12201,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1259,303,805,2,797,247,135,148,159,31,6,41,20,10,8
+62,2013,Bundestagswahl,12202,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1467,346,830,2,822,282,129,139,127,35,5,51,38,16,8
+63,2013,Bundestagswahl,12300,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1173,237,714,1,704,239,97,148,106,24,7,43,27,13,10
+64,2013,Bundestagswahl,12400,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1443,152,783,0,770,196,92,239,41,25,39,66,48,24,13
+65,2013,Bundestagswahl,13001,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,639,639,634,198,114,142,81,32,4,23,30,10,5
+66,2013,Bundestagswahl,13002,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,697,697,693,232,95,114,144,25,5,23,38,17,4
+67,2013,Bundestagswahl,13100,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1276,370,618,0,612,177,102,115,91,43,4,42,29,9,6
+68,2013,Bundestagswahl,13200,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1262,296,618,0,607,220,100,164,32,19,10,21,27,14,11
+69,2013,Bundestagswahl,13300,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1375,312,770,3,762,195,159,137,138,15,14,37,60,7,8
+70,2013,Bundestagswahl,13400,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1470,417,785,4,780,220,135,186,123,26,3,31,44,12,5
+71,2013,Bundestagswahl,14001,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Brief,0,0,828,828,818,145,140,164,230,16,4,20,89,10,10
+72,2013,Bundestagswahl,14002,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Brief,0,0,921,921,909,201,133,176,247,17,3,30,83,19,12
+73,2013,Bundestagswahl,14100,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,857,137,416,0,409,104,57,114,49,10,13,22,32,8,7
+74,2013,Bundestagswahl,14200,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1810,398,989,5,964,147,145,249,214,13,9,37,138,12,25
+75,2013,Bundestagswahl,14300,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1702,338,986,3,966,152,154,263,195,12,12,40,119,19,20
+76,2013,Bundestagswahl,14401,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1258,231,707,0,691,91,102,158,175,17,3,38,87,20,16
+77,2013,Bundestagswahl,14402,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1221,264,743,8,735,125,114,165,192,19,8,33,67,12,8
+78,2013,Bundestagswahl,14500,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1532,236,942,5,925,213,142,204,208,19,16,38,68,17,17
+79,2013,Bundestagswahl,14600,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1240,241,721,1,706,273,77,157,44,15,21,61,26,32,15
+80,2013,Bundestagswahl,15000,15 Albertstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,412,412,406,130,65,74,73,12,6,13,19,14,6
+81,2013,Bundestagswahl,15100,15 Albertstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1346,285,576,1,571,183,69,120,104,17,7,29,27,15,5
+82,2013,Bundestagswahl,15300,15 Albertstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,881,149,519,2,514,180,73,115,59,17,13,21,29,7,5
+83,2013,Bundestagswahl,21001,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,588,588,585,153,97,93,107,18,9,34,59,15,3
+84,2013,Bundestagswahl,21002,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,650,650,644,166,99,122,131,28,12,31,36,19,6
+85,2013,Bundestagswahl,21100,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1262,222,677,3,668,155,99,155,93,14,19,55,61,17,9
+86,2013,Bundestagswahl,21200,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1344,199,744,0,735,221,113,156,83,22,18,51,60,11,9
+87,2013,Bundestagswahl,21301,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1498,214,784,0,773,251,127,137,88,32,12,59,50,17,11
+88,2013,Bundestagswahl,21302,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1640,247,874,2,860,230,110,190,119,37,16,66,72,20,14
+89,2013,Bundestagswahl,21400,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1516,246,791,3,782,222,118,176,104,18,18,56,55,15,9
+90,2013,Bundestagswahl,21500,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1474,195,765,2,760,219,102,175,72,19,19,71,57,26,5
+91,2013,Bundestagswahl,22001,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,591,591,584,237,79,109,51,19,9,28,24,28,7
+92,2013,Bundestagswahl,22002,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,666,666,664,266,97,117,67,21,13,38,28,17,2
+93,2013,Bundestagswahl,22100,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1573,189,956,0,931,350,133,186,77,15,30,71,42,27,25
+94,2013,Bundestagswahl,22200,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1263,164,693,0,685,282,75,119,28,27,25,55,47,27,8
+95,2013,Bundestagswahl,22300,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1245,151,648,2,640,231,78,146,39,11,35,46,35,19,8
+96,2013,Bundestagswahl,22400,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,988,111,580,0,563,208,80,130,20,11,38,45,20,11,17
+97,2013,Bundestagswahl,22501,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1247,171,776,0,761,315,103,137,43,23,26,62,31,21,15
+98,2013,Bundestagswahl,22502,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1725,266,936,2,919,343,126,177,65,23,23,80,56,26,17
+99,2013,Bundestagswahl,22600,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1071,125,667,0,661,239,92,142,37,17,34,53,29,18,6
+100,2013,Bundestagswahl,22700,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1090,136,693,1,687,279,105,133,37,15,27,55,18,18,6
+101,2013,Bundestagswahl,23000,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,557,557,551,270,60,86,42,19,12,34,10,18,6
+102,2013,Bundestagswahl,23100,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1087,132,599,18,594,220,77,127,39,20,17,44,32,18,5
+103,2013,Bundestagswahl,23200,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1267,183,612,0,600,239,65,118,38,20,29,53,24,14,12
+104,2013,Bundestagswahl,23300,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1060,139,636,0,633,334,59,97,29,21,23,54,11,5,3
+105,2013,Bundestagswahl,23400,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1103,123,669,0,664,300,100,109,24,11,30,48,17,25,5
+106,2013,Bundestagswahl,24001,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,742,742,735,283,119,110,115,32,5,28,32,11,7
+107,2013,Bundestagswahl,24002,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,617,617,614,259,82,129,50,14,9,33,21,17,3
+108,2013,Bundestagswahl,24100,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,962,131,590,0,585,219,84,118,45,22,16,44,21,16,5
+109,2013,Bundestagswahl,24200,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1169,193,808,0,798,279,159,129,90,20,16,58,31,16,10
+110,2013,Bundestagswahl,24300,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1038,206,664,2,659,253,85,134,64,14,10,61,28,10,5
+111,2013,Bundestagswahl,24400,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1370,236,861,0,848,317,110,149,81,26,27,88,37,13,13
+112,2013,Bundestagswahl,24500,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1546,237,915,1,895,369,120,212,53,18,41,48,21,13,20
+113,2013,Bundestagswahl,24700,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1104,177,624,0,609,240,73,159,40,13,12,44,14,14,15
+114,2013,Bundestagswahl,24800,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1036,237,582,1,575,278,76,98,39,15,10,32,17,10,7
+115,2013,Bundestagswahl,25001,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,734,734,727,241,104,133,79,33,19,51,51,16,7
+116,2013,Bundestagswahl,25002,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,760,760,754,264,150,123,79,26,16,33,40,23,6
+117,2013,Bundestagswahl,25100,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1496,186,851,3,836,275,127,195,74,29,17,57,42,20,15
+118,2013,Bundestagswahl,25200,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1166,154,612,2,600,191,75,136,46,8,19,63,51,11,12
+119,2013,Bundestagswahl,25300,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1440,203,806,0,791,350,102,149,32,27,23,60,28,20,15
+120,2013,Bundestagswahl,25400,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1736,233,955,1,933,324,118,171,94,27,29,79,64,27,22
+121,2013,Bundestagswahl,25500,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1756,292,917,2,906,308,146,184,83,24,22,62,50,27,11
+122,2013,Bundestagswahl,25600,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,880,161,512,0,502,179,84,103,42,10,20,32,20,12,10
+123,2013,Bundestagswahl,25700,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1643,338,882,1,869,305,146,174,72,28,24,76,24,20,13
+124,2013,Bundestagswahl,31001,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,801,801,797,342,119,156,73,21,10,38,17,21,4
+125,2013,Bundestagswahl,31002,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,860,860,857,397,104,133,79,36,20,57,18,13,3
+126,2013,Bundestagswahl,31100,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1594,267,963,0,952,446,134,146,69,22,28,68,19,20,11
+127,2013,Bundestagswahl,31200,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1434,200,839,0,830,332,116,197,39,15,28,64,24,15,9
+128,2013,Bundestagswahl,31300,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1077,150,677,0,659,282,93,164,14,20,21,40,12,13,18
+129,2013,Bundestagswahl,31400,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1154,202,746,2,736,328,79,151,61,23,16,48,13,17,10
+130,2013,Bundestagswahl,31500,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1004,161,681,0,672,265,102,96,56,20,12,77,30,14,9
+131,2013,Bundestagswahl,31601,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1138,214,736,0,730,303,111,107,61,34,22,51,21,20,6
+132,2013,Bundestagswahl,31602,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1026,193,698,2,697,321,110,88,56,24,6,59,19,14,1
+133,2013,Bundestagswahl,31701,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,909,115,527,0,522,202,63,127,22,11,17,38,23,19,5
+134,2013,Bundestagswahl,31702,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,789,101,487,0,482,177,79,125,19,4,12,35,19,12,5
+135,2013,Bundestagswahl,31800,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,911,100,523,1,516,177,73,129,28,13,33,35,13,15,7
+136,2013,Bundestagswahl,32000,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,891,891,881,368,106,156,66,50,22,62,31,20,10
+137,2013,Bundestagswahl,32100,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1399,233,869,1,861,451,66,138,33,39,34,76,12,12,8
+138,2013,Bundestagswahl,32201,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,890,138,545,0,541,280,48,70,20,24,13,59,15,12,4
+139,2013,Bundestagswahl,32202,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,815,152,479,0,475,232,53,101,13,11,7,35,10,13,4
+140,2013,Bundestagswahl,32300,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,917,162,624,0,614,294,75,103,44,14,8,52,14,10,10
+141,2013,Bundestagswahl,32400,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1162,232,771,1,760,305,119,122,94,23,14,50,20,13,11
+142,2013,Bundestagswahl,35010,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,582,582,577,257,87,89,50,26,11,32,13,12,5
+143,2013,Bundestagswahl,35110,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1297,186,879,0,862,399,138,117,46,23,20,72,23,24,17
+144,2013,Bundestagswahl,35310,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1109,145,757,0,750,371,92,96,53,31,17,55,9,26,7
+145,2013,Bundestagswahl,35410,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1228,129,828,2,816,368,89,133,55,25,28,60,30,28,12
+146,2013,Bundestagswahl,35510,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1050,129,683,0,674,356,74,111,25,26,20,37,12,13,9
+147,2013,Bundestagswahl,35610,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,233,12,133,0,131,65,18,18,9,6,6,4,1,4,2
+148,2013,Bundestagswahl,36010,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,498,498,498,216,66,70,61,18,7,43,7,10,0
+149,2013,Bundestagswahl,36110,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,945,102,651,1,645,316,66,86,54,17,27,39,16,24,6
+150,2013,Bundestagswahl,36210,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1182,197,751,0,740,331,96,99,60,31,29,48,22,24,11
+151,2013,Bundestagswahl,36310,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,829,177,547,0,543,227,82,94,50,20,4,44,12,10,4
+152,2013,Bundestagswahl,36410,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,384,37,291,0,290,118,25,32,19,13,11,45,13,14,1
+153,2013,Bundestagswahl,41001,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,566,566,560,236,75,76,81,45,7,26,7,7,6
+154,2013,Bundestagswahl,41002,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,499,499,498,209,73,67,68,32,2,25,10,12,1
+155,2013,Bundestagswahl,41100,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1325,327,785,1,774,322,85,101,114,39,11,65,26,11,11
+156,2013,Bundestagswahl,41200,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1197,256,753,0,744,323,100,104,90,34,4,49,18,22,9
+157,2013,Bundestagswahl,41300,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,845,229,478,1,477,229,59,60,62,30,4,22,7,4,1
+158,2013,Bundestagswahl,41400,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1024,292,577,3,569,230,94,68,83,28,6,39,8,13,8
+159,2013,Bundestagswahl,42001,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,966,966,960,392,151,119,151,51,8,57,21,10,6
+160,2013,Bundestagswahl,42002,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,881,881,869,361,142,136,99,34,13,44,25,15,12
+161,2013,Bundestagswahl,42100,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1332,356,769,3,761,288,118,108,124,33,3,51,24,12,8
+162,2013,Bundestagswahl,42200,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1415,365,872,3,863,390,129,98,104,48,7,63,15,9,9
+163,2013,Bundestagswahl,42400,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1227,272,729,0,724,305,95,117,90,15,8,50,24,20,5
+164,2013,Bundestagswahl,42500,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1189,235,751,0,732,341,84,123,50,24,9,63,25,13,19
+165,2013,Bundestagswahl,42600,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1017,207,658,3,654,307,73,70,76,22,2,74,14,16,4
+166,2013,Bundestagswahl,42700,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1143,217,724,2,714,335,101,100,56,20,13,48,20,21,10
+167,2013,Bundestagswahl,42800,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,733,140,490,0,479,206,86,74,44,19,4,22,14,10,11
+168,2013,Bundestagswahl,42900,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,683,111,432,0,432,198,55,72,37,12,4,28,8,18,0
+169,2013,Bundestagswahl,43000,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,522,522,516,206,90,67,74,14,7,34,10,14,6
+170,2013,Bundestagswahl,43100,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,536,77,357,1,355,151,46,47,49,10,7,23,6,16,2
+171,2013,Bundestagswahl,43200,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1486,317,867,1,858,331,122,134,93,31,17,96,15,19,9
+172,2013,Bundestagswahl,43400,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,769,147,452,1,449,203,57,82,33,8,10,38,7,11,3
+173,2013,Bundestagswahl,45010,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,714,714,709,327,121,97,48,30,9,33,20,24,5
+174,2013,Bundestagswahl,45110,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1053,177,719,0,714,359,110,109,33,43,5,37,10,8,5
+175,2013,Bundestagswahl,45210,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1091,156,647,2,637,294,97,111,9,17,19,65,13,12,10
+176,2013,Bundestagswahl,45310,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1175,159,613,0,604,282,88,108,24,17,15,51,14,5,9
+177,2013,Bundestagswahl,45410,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,791,109,502,0,495,250,48,68,26,21,16,47,8,11,7
+178,2013,Bundestagswahl,45510,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,594,139,335,2,332,167,38,38,23,7,7,36,6,10,3
+179,2013,Bundestagswahl,46010,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,546,546,543,249,79,58,51,33,6,38,12,17,3
+180,2013,Bundestagswahl,46110,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,846,150,568,1,565,310,59,64,32,18,3,56,10,13,3
+181,2013,Bundestagswahl,46210,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,835,169,540,1,531,268,58,84,22,19,19,37,12,12,9
+182,2013,Bundestagswahl,46310,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,715,150,456,0,451,211,81,51,33,18,3,34,7,13,5
+183,2013,Bundestagswahl,46410,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,759,97,483,0,481,247,46,60,26,16,11,48,13,14,2
+184,2013,Bundestagswahl,47010,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,340,340,340,170,40,49,29,13,11,19,1,8,0
+185,2013,Bundestagswahl,47110,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1001,126,667,2,663,333,52,102,46,31,25,43,14,17,4
+186,2013,Bundestagswahl,47210,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1070,153,649,0,638,359,65,65,23,21,28,41,14,22,11
+187,2013,Bundestagswahl,47310,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,562,77,364,0,360,179,43,45,19,14,11,26,9,14,4
+188,2013,Bundestagswahl,51001,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,838,838,834,410,104,102,94,40,6,53,15,10,4
+189,2013,Bundestagswahl,51002,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,739,739,732,305,105,97,105,26,10,34,37,13,7
+190,2013,Bundestagswahl,51100,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1330,312,841,2,838,390,122,110,69,47,9,53,25,13,3
+191,2013,Bundestagswahl,51200,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1538,340,906,0,898,433,167,111,61,51,10,34,14,17,8
+192,2013,Bundestagswahl,51400,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1128,214,723,2,716,318,119,104,75,27,10,35,18,10,7
+193,2013,Bundestagswahl,51500,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1152,255,682,3,674,261,95,109,86,23,7,50,34,9,8
+194,2013,Bundestagswahl,51600,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1177,237,792,0,783,336,119,84,117,37,7,60,19,4,9
+195,2013,Bundestagswahl,51700,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1455,290,846,0,840,308,140,128,112,27,14,64,33,14,6
+196,2013,Bundestagswahl,52001,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,824,824,811,333,131,109,111,31,10,43,30,13,13
+197,2013,Bundestagswahl,52002,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,661,661,659,245,114,70,145,26,4,23,21,11,2
+198,2013,Bundestagswahl,52003,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,681,681,678,254,112,88,127,30,2,28,24,13,3
+199,2013,Bundestagswahl,52100,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1098,248,707,2,702,255,97,90,142,26,7,45,31,9,5
+200,2013,Bundestagswahl,52200,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1317,322,829,0,814,300,130,115,134,29,6,56,31,13,15
+201,2013,Bundestagswahl,52300,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1483,358,926,2,923,342,168,120,183,18,2,60,18,12,3
+202,2013,Bundestagswahl,52400,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1402,282,949,0,943,381,143,127,130,29,14,73,33,13,6
+203,2013,Bundestagswahl,52501,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1460,311,868,1,861,373,124,110,111,38,10,48,29,18,7
+204,2013,Bundestagswahl,52502,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,851,180,550,2,543,192,72,88,90,32,4,31,21,13,7
+205,2013,Bundestagswahl,52600,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1213,234,729,1,727,270,110,121,90,30,5,60,27,14,2
+206,2013,Bundestagswahl,52700,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1968,326,1089,1,1067,419,139,211,79,31,30,89,42,27,22
+207,2013,Bundestagswahl,53001,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,806,806,797,295,123,156,103,29,4,44,24,19,9
+208,2013,Bundestagswahl,53002,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,933,933,925,356,161,193,70,23,14,59,29,20,8
+209,2013,Bundestagswahl,53100,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1080,269,689,1,687,277,130,88,82,23,8,49,22,8,2
+210,2013,Bundestagswahl,53200,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1022,192,594,0,587,187,93,111,69,20,10,42,41,14,7
+211,2013,Bundestagswahl,53300,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1742,372,838,0,827,324,134,178,58,17,13,54,25,24,11
+212,2013,Bundestagswahl,53400,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1468,246,920,0,902,389,149,197,29,20,18,66,13,21,18
+213,2013,Bundestagswahl,53600,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,979,175,552,0,545,231,84,114,35,14,7,38,11,11,7
+214,2013,Bundestagswahl,53700,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1239,272,596,0,588,213,89,93,46,18,28,53,33,15,8
+215,2013,Bundestagswahl,53800,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1086,260,539,1,531,205,88,89,55,12,12,33,26,11,8
+216,2013,Bundestagswahl,54001,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,612,612,609,259,106,93,87,8,3,27,19,7,3
+217,2013,Bundestagswahl,54002,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,755,755,745,317,138,96,82,31,13,28,22,18,10
+218,2013,Bundestagswahl,54003,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,562,562,558,243,89,76,53,22,8,34,24,9,4
+219,2013,Bundestagswahl,54100,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1660,328,1014,0,1005,388,189,192,98,26,11,67,24,10,9
+220,2013,Bundestagswahl,54200,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1237,231,734,0,725,238,110,128,98,25,18,48,46,14,9
+221,2013,Bundestagswahl,54300,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1369,264,778,1,762,338,102,165,28,21,12,47,24,25,16
+222,2013,Bundestagswahl,54400,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1404,305,817,1,810,376,106,151,47,23,8,56,30,13,7
+223,2013,Bundestagswahl,54501,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1498,283,957,0,949,393,139,182,69,35,17,69,29,16,8
+224,2013,Bundestagswahl,54502,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1468,296,883,0,875,375,127,138,91,41,12,48,26,17,8
+225,2013,Bundestagswahl,54600,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1697,290,977,2,959,391,177,164,77,13,16,66,38,17,18
+226,2013,Bundestagswahl,55001,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,694,694,686,301,110,118,50,17,8,46,19,17,8
+227,2013,Bundestagswahl,55002,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,722,722,712,285,125,153,43,13,14,46,16,17,10
+228,2013,Bundestagswahl,55101,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1150,213,664,1,654,266,79,106,62,21,22,64,16,18,10
+229,2013,Bundestagswahl,55102,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1118,170,720,2,710,277,109,134,71,17,13,61,20,8,10
+230,2013,Bundestagswahl,55200,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1107,190,675,1,669,247,103,134,33,17,25,56,32,22,6
+231,2013,Bundestagswahl,55300,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1609,253,931,0,917,404,126,199,37,16,28,74,17,16,14
+232,2013,Bundestagswahl,55400,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1154,145,626,0,612,226,86,165,21,14,30,49,13,8,14
+233,2013,Bundestagswahl,55600,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1563,257,758,1,749,279,119,168,22,28,30,55,28,20,9
+234,2013,Bundestagswahl,55800,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1405,223,773,0,763,301,115,168,46,18,28,51,19,17,10
+235,2013,Bundestagswahl,56001,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,801,801,792,306,131,160,53,20,20,53,27,22,9
+236,2013,Bundestagswahl,56002,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,764,764,761,329,110,132,43,30,21,52,26,18,3
+237,2013,Bundestagswahl,56100,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1371,224,723,0,712,272,108,133,34,21,33,58,30,23,11
+238,2013,Bundestagswahl,56200,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,887,99,499,0,489,178,79,108,12,6,27,41,25,13,10
+239,2013,Bundestagswahl,56300,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1402,189,821,0,815,344,120,156,29,22,26,68,25,25,6
+240,2013,Bundestagswahl,56401,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,745,127,424,0,420,206,52,69,29,11,7,27,11,8,4
+241,2013,Bundestagswahl,56402,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1533,195,891,1,879,417,112,169,37,18,20,60,25,21,12
+242,2013,Bundestagswahl,56501,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,910,113,532,0,527,216,68,116,27,14,17,43,12,14,5
+243,2013,Bundestagswahl,56502,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1435,219,856,1,840,351,132,177,29,19,22,67,28,15,16
+244,2013,Bundestagswahl,56600,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,980,141,510,1,504,220,73,73,16,19,22,57,12,12,6
+245,2013,Bundestagswahl,56800,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,892,153,519,1,511,198,74,110,21,12,13,49,19,15,8
+246,2013,Bundestagswahl,56900,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1014,158,580,0,579,223,74,150,19,17,16,46,14,20,1
+247,2013,Bundestagswahl,57001,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,734,734,732,259,113,174,78,17,11,44,23,13,2
+248,2013,Bundestagswahl,57002,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,572,572,568,240,109,102,57,11,4,22,8,15,4
+249,2013,Bundestagswahl,57003,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,756,756,754,296,125,133,78,22,9,46,28,17,2
+250,2013,Bundestagswahl,57100,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1398,217,817,0,800,301,127,194,46,14,8,60,31,19,17
+251,2013,Bundestagswahl,57200,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1559,305,807,1,797,286,118,177,71,23,13,56,40,13,10
+252,2013,Bundestagswahl,57301,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,888,165,518,2,515,230,65,92,33,14,15,37,11,18,3
+253,2013,Bundestagswahl,57302,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,786,141,532,2,529,224,78,95,39,14,8,61,5,5,3
+254,2013,Bundestagswahl,57400,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1259,237,773,1,765,285,104,158,53,22,22,76,19,26,8
+255,2013,Bundestagswahl,57500,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1300,252,760,1,753,293,92,184,41,24,17,70,22,10,7
+256,2013,Bundestagswahl,57600,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1335,282,676,1,666,276,99,134,31,26,11,49,28,12,10
+257,2013,Bundestagswahl,57700,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,974,246,572,1,566,214,91,118,51,12,15,36,17,12,6
+258,2013,Bundestagswahl,57800,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1342,293,829,4,824,421,120,119,38,32,14,59,13,8,5
+259,2013,Bundestagswahl,61001,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,717,717,713,298,113,157,42,22,18,29,20,14,4
+260,2013,Bundestagswahl,61002,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,569,569,564,225,62,152,31,11,25,29,18,11,5
+261,2013,Bundestagswahl,61100,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,941,118,535,0,524,233,77,109,27,10,16,34,10,8,11
+262,2013,Bundestagswahl,61200,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1056,127,633,1,625,272,75,105,38,18,31,54,25,7,8
+263,2013,Bundestagswahl,61300,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1651,188,951,0,929,388,133,193,32,30,32,72,22,27,22
+264,2013,Bundestagswahl,61400,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1007,117,551,0,545,220,57,92,16,29,30,56,26,19,6
+265,2013,Bundestagswahl,61500,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1314,198,711,0,707,299,101,167,18,14,23,56,10,19,4
+266,2013,Bundestagswahl,61600,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1076,194,586,0,573,228,89,141,21,7,21,38,11,17,13
+267,2013,Bundestagswahl,61700,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1110,122,552,0,547,209,90,159,12,5,19,30,13,10,5
+268,2013,Bundestagswahl,61800,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1817,269,859,0,851,321,103,226,21,17,43,65,30,25,8
+269,2013,Bundestagswahl,62001,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,703,703,700,298,113,107,67,25,17,38,16,19,3
+270,2013,Bundestagswahl,62002,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,915,915,907,393,133,136,106,24,23,55,15,22,8
+271,2013,Bundestagswahl,62101,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,799,92,513,0,505,192,84,96,31,14,17,40,20,11,8
+272,2013,Bundestagswahl,62102,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,836,150,529,2,524,210,80,100,41,18,13,36,19,7,5
+273,2013,Bundestagswahl,62200,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1191,141,793,0,784,321,106,159,46,19,26,64,19,24,9
+274,2013,Bundestagswahl,62301,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,961,124,558,0,549,225,66,106,45,11,18,48,17,13,9
+275,2013,Bundestagswahl,62302,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1059,212,606,0,604,280,94,97,21,21,15,56,10,10,2
+276,2013,Bundestagswahl,62400,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1353,259,857,0,852,320,117,122,123,39,20,79,21,11,5
+277,2013,Bundestagswahl,62501,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1230,210,763,0,745,328,123,116,54,20,18,52,18,16,18
+278,2013,Bundestagswahl,62502,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1136,206,682,0,673,288,76,145,27,15,28,58,19,17,9
+279,2013,Bundestagswahl,62600,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1538,271,964,2,953,415,134,172,69,23,28,78,17,17,11
+280,2013,Bundestagswahl,63001,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,673,673,672,327,91,70,69,45,5,47,8,10,1
+281,2013,Bundestagswahl,63002,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,482,482,479,225,78,59,33,17,5,39,13,10,3
+282,2013,Bundestagswahl,63101,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,971,155,595,3,589,265,83,87,44,23,15,54,10,8,6
+283,2013,Bundestagswahl,63102,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,995,211,620,0,616,282,94,93,49,18,9,44,14,13,4
+284,2013,Bundestagswahl,63200,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,972,139,643,0,632,280,68,91,50,30,17,59,21,16,11
+285,2013,Bundestagswahl,63301,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1176,197,750,2,744,374,84,112,50,24,15,52,16,17,6
+286,2013,Bundestagswahl,63302,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,891,141,602,1,598,295,69,89,32,26,10,45,15,17,4
+287,2013,Bundestagswahl,63401,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,949,194,604,0,596,296,61,81,40,21,14,65,5,13,8
+288,2013,Bundestagswahl,63402,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1059,164,712,0,702,362,83,98,33,22,18,59,11,16,10
+289,2013,Bundestagswahl,64000,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,634,634,629,264,75,134,52,19,12,37,15,21,5
+290,2013,Bundestagswahl,64100,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1081,128,641,0,634,277,77,90,34,33,23,60,26,14,7
+291,2013,Bundestagswahl,64200,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,954,118,545,0,541,212,65,133,14,8,27,54,15,13,4
+292,2013,Bundestagswahl,64300,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,901,102,544,0,535,195,84,123,18,9,20,57,20,9,9
+293,2013,Bundestagswahl,64400,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1009,157,589,1,580,168,92,179,25,10,14,53,21,18,9
+294,2013,Bundestagswahl,64500,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1318,143,777,0,754,359,105,108,33,20,25,65,18,21,23
+295,2013,Bundestagswahl,71000,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,555,555,552,219,70,136,27,11,37,28,15,9,3
+296,2013,Bundestagswahl,71100,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,962,145,597,0,591,248,77,129,22,6,16,52,23,18,6
+297,2013,Bundestagswahl,71200,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1809,201,803,0,787,269,118,178,26,23,53,70,26,24,16
+298,2013,Bundestagswahl,71400,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,885,96,521,0,512,196,68,139,14,10,16,45,14,10,9
+299,2013,Bundestagswahl,71500,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1224,136,592,0,577,223,77,157,14,9,38,40,7,12,15
+300,2013,Bundestagswahl,72000,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,668,668,663,251,102,171,38,15,15,41,13,17,5
+301,2013,Bundestagswahl,72100,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1126,79,558,0,548,191,76,154,13,6,37,39,15,17,10
+302,2013,Bundestagswahl,72200,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1058,88,460,0,451,164,56,134,8,11,32,29,6,11,9
+303,2013,Bundestagswahl,72300,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1472,126,681,1,671,246,96,190,21,5,27,50,18,18,10
+304,2013,Bundestagswahl,72500,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1488,158,661,0,648,226,81,178,12,11,36,57,30,17,13
+305,2013,Bundestagswahl,72700,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1886,245,862,0,844,300,96,262,24,17,24,70,34,17,18
+306,2013,Bundestagswahl,73000,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,735,735,728,317,99,113,48,33,18,62,18,20,7
+307,2013,Bundestagswahl,73101,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1187,182,752,0,745,363,88,130,47,21,22,50,13,11,7
+308,2013,Bundestagswahl,73102,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1478,242,908,0,899,399,118,163,37,19,22,85,33,23,9
+309,2013,Bundestagswahl,73200,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1083,155,720,0,711,334,96,111,25,23,28,55,21,18,9
+310,2013,Bundestagswahl,73300,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,907,174,559,0,553,260,90,86,25,19,10,47,7,9,6
+311,2013,Bundestagswahl,74000,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,730,730,720,328,113,96,48,37,20,48,19,11,10
+312,2013,Bundestagswahl,74100,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,680,89,405,0,401,191,52,51,15,13,25,22,17,15,4
+313,2013,Bundestagswahl,74201,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1191,206,790,1,784,409,82,118,41,24,19,65,11,15,6
+314,2013,Bundestagswahl,74202,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,839,111,552,2,544,261,70,72,37,21,17,41,16,9,8
+315,2013,Bundestagswahl,74301,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1124,148,750,0,746,344,89,131,36,23,19,74,15,15,4
+316,2013,Bundestagswahl,74302,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1493,196,1003,0,991,470,114,165,39,34,29,102,14,24,12
+317,2013,Bundestagswahl,75001,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,647,647,641,299,107,101,60,7,7,43,12,5,6
+318,2013,Bundestagswahl,75002,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,720,720,713,288,115,134,62,26,13,26,28,21,7
+319,2013,Bundestagswahl,75003,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,800,800,793,358,134,124,57,23,14,41,21,21,7
+320,2013,Bundestagswahl,75100,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1080,207,687,0,682,296,107,127,31,22,15,54,17,13,5
+321,2013,Bundestagswahl,75201,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1021,239,644,3,640,313,86,92,56,24,10,41,6,12,4
+322,2013,Bundestagswahl,75202,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1271,224,745,1,736,346,103,131,43,14,17,51,16,15,9
+323,2013,Bundestagswahl,75300,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,947,114,388,0,377,104,76,92,9,10,32,31,16,7,11
+324,2013,Bundestagswahl,75500,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1004,177,644,0,637,264,90,101,71,29,8,47,18,9,7
+325,2013,Bundestagswahl,75600,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1123,237,624,0,617,270,101,98,29,32,14,39,22,12,7
+326,2013,Bundestagswahl,75700,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1197,216,648,0,639,250,100,138,34,16,27,42,19,13,9
+327,2013,Bundestagswahl,75800,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1368,219,787,2,777,304,138,197,27,24,19,45,9,14,10
+328,2013,Bundestagswahl,75901,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,767,165,465,0,460,210,72,89,19,9,2,44,6,9,5
+329,2013,Bundestagswahl,75902,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1002,207,626,0,623,273,141,63,43,14,10,47,24,8,3
+330,2013,Bundestagswahl,75903,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,941,215,555,0,549,242,81,93,38,20,7,41,13,14,6
+331,2013,Bundestagswahl,76001,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,846,846,840,289,146,104,174,31,10,32,40,14,6
+332,2013,Bundestagswahl,76002,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,200,200,198,72,34,40,19,10,3,11,6,3,2
+333,2013,Bundestagswahl,76002,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,466,466,462,169,78,94,44,23,6,27,13,8,4
+334,2013,Bundestagswahl,76100,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1284,354,668,8,663,259,105,85,78,34,8,49,37,8,5
+335,2013,Bundestagswahl,76200,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1253,258,760,1,742,291,105,107,81,30,23,54,30,21,18
+336,2013,Bundestagswahl,76300,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1182,284,662,4,654,218,107,120,104,19,11,32,30,13,8
+337,2013,Bundestagswahl,76400,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,559,127,315,0,308,126,50,69,21,12,2,15,8,5,7
+338,2013,Bundestagswahl,76500,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1471,342,760,0,751,299,107,136,46,21,23,81,23,15,9
+339,2013,Bundestagswahl,76600,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1217,148,620,0,608,234,63,150,28,14,24,42,34,19,12
+340,2013,Bundestagswahl,76700,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1221,70,422,0,419,97,59,120,27,13,26,38,31,8,3
+341,2013,Bundestagswahl,77000,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,689,689,666,274,115,147,38,21,18,33,8,12,23
+342,2013,Bundestagswahl,77100,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1393,244,746,0,736,314,98,145,18,19,31,70,20,21,10
+343,2013,Bundestagswahl,77200,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1764,353,936,2,924,383,140,189,36,33,33,65,29,16,12
+344,2013,Bundestagswahl,77300,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1194,112,522,0,513,190,75,95,12,14,37,53,24,13,9
+345,2013,Bundestagswahl,81001,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,712,712,708,248,128,126,78,23,7,39,46,13,4
+346,2013,Bundestagswahl,81002,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,614,614,611,231,102,97,73,31,12,16,38,11,3
+347,2013,Bundestagswahl,81003,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,724,724,721,244,156,107,96,29,2,37,31,19,3
+348,2013,Bundestagswahl,81100,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1062,183,568,1,561,151,99,143,23,19,15,55,47,9,7
+349,2013,Bundestagswahl,81200,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1547,297,898,1,878,330,146,200,69,13,21,54,29,16,20
+350,2013,Bundestagswahl,81400,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1600,377,840,3,837,286,116,173,68,37,16,69,54,18,3
+351,2013,Bundestagswahl,81500,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1182,258,674,2,665,224,110,132,53,20,15,50,50,11,9
+352,2013,Bundestagswahl,81700,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1620,450,834,3,824,305,138,158,84,25,7,63,35,9,10
+353,2013,Bundestagswahl,81800,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1092,260,585,0,581,208,100,99,55,27,12,34,39,7,4
+354,2013,Bundestagswahl,81900,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1088,299,577,0,567,195,117,89,74,10,10,32,30,10,10
+355,2013,Bundestagswahl,82001,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,725,725,723,242,132,123,85,30,9,39,55,8,2
+356,2013,Bundestagswahl,82002,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,612,612,605,226,98,70,92,32,3,33,43,8,7
+357,2013,Bundestagswahl,82100,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1030,195,507,2,498,113,103,149,35,8,6,30,46,8,9
+358,2013,Bundestagswahl,82200,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1094,242,618,1,615,191,144,125,44,25,15,43,19,9,3
+359,2013,Bundestagswahl,82300,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1162,329,597,1,595,219,101,89,76,19,4,44,31,12,2
+360,2013,Bundestagswahl,82400,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1201,264,703,1,695,268,120,119,57,32,10,51,31,7,8
+361,2013,Bundestagswahl,82500,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,975,390,350,5,348,79,82,42,46,21,1,23,45,9,2
+362,2013,Bundestagswahl,83001,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,767,767,761,315,126,123,60,27,13,37,40,20,6
+363,2013,Bundestagswahl,83002,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,824,824,819,346,123,144,74,29,17,40,26,20,5
+364,2013,Bundestagswahl,83100,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1000,224,612,4,601,216,111,76,77,27,7,45,37,5,11
+365,2013,Bundestagswahl,83200,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,856,170,468,0,464,164,64,120,28,12,15,37,12,12,4
+366,2013,Bundestagswahl,83300,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1243,232,733,0,725,274,105,162,23,20,28,76,24,13,8
+367,2013,Bundestagswahl,83400,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1567,332,947,1,934,372,151,206,41,20,22,72,23,27,13
+368,2013,Bundestagswahl,83500,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1255,249,637,1,626,193,97,147,37,22,24,58,40,8,11
+369,2013,Bundestagswahl,83700,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1015,195,592,1,586,233,103,125,21,15,11,43,26,9,6
+370,2013,Bundestagswahl,83800,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1147,241,678,1,669,284,94,142,41,14,10,45,27,12,9
+371,2013,Bundestagswahl,84001,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,547,547,542,200,109,124,36,10,9,27,15,12,5
+372,2013,Bundestagswahl,84002,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,570,570,564,231,82,94,63,19,7,40,16,12,6
+373,2013,Bundestagswahl,84100,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1298,216,771,0,760,316,109,168,29,14,17,75,20,12,11
+374,2013,Bundestagswahl,84200,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,865,126,500,0,497,169,76,136,25,11,17,37,17,9,3
+375,2013,Bundestagswahl,84300,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1191,218,659,2,653,259,117,126,22,22,23,36,22,26,6
+376,2013,Bundestagswahl,84400,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,595,84,379,0,372,186,38,38,24,17,15,28,20,6,7
+377,2013,Bundestagswahl,84501,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1320,243,878,0,868,422,118,110,83,30,9,62,23,11,10
+378,2013,Bundestagswahl,84502,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1063,262,551,0,543,266,60,71,39,18,13,48,18,10,8
+379,2013,Bundestagswahl,85000,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,848,848,841,357,131,125,99,26,14,44,24,21,7
+380,2013,Bundestagswahl,85100,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1448,364,750,2,742,325,104,130,54,17,22,53,19,18,8
+381,2013,Bundestagswahl,85200,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1467,319,874,0,862,410,118,123,81,27,29,35,24,15,12
+382,2013,Bundestagswahl,85301,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,879,118,557,2,550,233,75,84,38,19,25,41,16,19,7
+383,2013,Bundestagswahl,85302,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,883,82,574,2,562,270,76,94,23,12,14,39,20,14,12
+384,2013,Bundestagswahl,86001,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,541,541,538,169,110,64,94,25,2,23,41,10,3
+385,2013,Bundestagswahl,86002,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,754,754,751,255,139,94,128,25,7,43,47,13,3
+386,2013,Bundestagswahl,86003,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,694,694,694,294,131,67,102,25,7,36,19,13,0
+387,2013,Bundestagswahl,86100,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1420,301,886,7,876,325,156,136,112,33,13,54,37,10,10
+388,2013,Bundestagswahl,86200,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1159,269,708,4,701,275,127,110,79,27,4,46,24,9,7
+389,2013,Bundestagswahl,86300,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1313,292,770,0,760,237,130,158,88,36,10,60,31,10,10
+390,2013,Bundestagswahl,86400,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,997,238,631,1,621,226,100,92,92,30,8,47,14,12,10
+391,2013,Bundestagswahl,86500,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1191,252,710,1,708,213,131,99,118,29,9,52,48,9,2
+392,2013,Bundestagswahl,86600,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1046,227,582,0,580,217,106,75,77,19,6,42,29,9,2
+393,2013,Bundestagswahl,86700,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,715,203,432,2,430,167,67,64,51,27,1,27,23,3,2
+394,2013,Bundestagswahl,86800,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1137,285,648,1,644,256,134,99,78,15,4,38,10,10,4
+395,2013,Bundestagswahl,90010,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,811,811,808,338,135,104,72,36,28,65,19,11,3
+396,2013,Bundestagswahl,90110,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1547,183,905,0,889,387,102,158,38,27,44,80,27,26,16
+397,2013,Bundestagswahl,90210,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1140,216,697,0,694,357,94,92,39,26,12,46,12,16,3
+398,2013,Bundestagswahl,90311,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,647,63,425,2,420,179,53,71,30,18,12,37,13,7,5
+399,2013,Bundestagswahl,90312,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,927,129,575,0,566,261,71,101,22,23,25,45,8,10,9
+400,2013,Bundestagswahl,90410,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,340,45,241,0,239,123,22,21,22,7,9,26,1,8,2
+401,2013,Bundestagswahl,90510,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,322,39,198,0,197,87,16,22,12,10,19,23,5,3,1
+402,2013,Bundestagswahl,90610,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,816,133,526,0,516,249,59,80,33,21,22,30,10,12,10
+403,2013,Bundestagswahl,90710,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,423,38,292,0,289,155,25,29,18,10,10,24,4,14,3
+404,2013,Bundestagswahl,91001,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,690,690,685,262,105,105,68,23,16,38,48,20,5
+405,2013,Bundestagswahl,91002,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,567,567,562,213,76,102,48,12,13,40,32,26,5
+406,2013,Bundestagswahl,91101,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,967,126,580,1,569,208,80,105,37,16,35,48,24,16,11
+407,2013,Bundestagswahl,91102,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1059,155,609,1,605,224,100,96,33,20,23,52,37,20,4
+408,2013,Bundestagswahl,91200,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1612,222,937,0,927,317,144,192,67,24,32,86,32,33,10
+409,2013,Bundestagswahl,91300,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1541,224,854,6,841,286,124,149,71,24,37,75,50,25,13
+410,2013,Bundestagswahl,91400,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1019,143,605,0,596,242,76,119,27,11,25,57,23,16,9
+411,2013,Bundestagswahl,91501,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1356,212,698,0,691,273,83,130,41,17,32,51,36,28,7
+412,2013,Bundestagswahl,91502,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1307,233,639,1,632,220,85,117,39,23,31,56,39,22,7
+413,2013,Bundestagswahl,92000,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1217,1217,1196,360,207,195,184,39,13,55,113,30,21
+414,2013,Bundestagswahl,92100,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1456,300,680,1,668,242,102,101,63,21,24,49,52,14,12
+415,2013,Bundestagswahl,92200,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1568,294,777,0,769,256,127,125,102,19,16,59,48,17,8
+416,2013,Bundestagswahl,92300,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1523,323,799,0,791,257,125,141,84,17,26,75,48,18,8
+417,2013,Bundestagswahl,92400,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,908,150,531,0,525,155,58,120,61,12,18,43,43,15,6
+418,2013,Bundestagswahl,92500,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1269,213,672,4,661,226,110,112,70,14,20,46,39,24,11
+419,2013,Bundestagswahl,93001,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,994,994,986,322,194,151,146,40,10,42,62,19,8
+420,2013,Bundestagswahl,93002,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,744,744,744,256,127,121,102,25,13,41,43,16,0
+421,2013,Bundestagswahl,93101,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1252,263,701,5,695,238,101,125,84,22,19,46,44,16,6
+422,2013,Bundestagswahl,93102,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1103,214,580,3,574,190,95,98,75,20,8,32,46,10,6
+423,2013,Bundestagswahl,93200,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1701,325,906,3,892,288,135,145,114,36,19,60,72,23,14
+424,2013,Bundestagswahl,93300,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1004,250,503,2,498,179,80,82,55,12,6,30,43,11,5
+425,2013,Bundestagswahl,93400,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,961,165,569,1,558,177,106,108,46,19,23,31,33,15,11
+426,2013,Bundestagswahl,93500,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1394,286,755,6,750,248,135,130,68,14,25,62,55,13,5
+427,2013,Bundestagswahl,93600,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1583,334,823,1,818,312,124,140,75,25,17,64,40,21,5
+428,2013,Bundestagswahl,94001,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,680,680,674,260,111,121,53,15,10,43,35,26,6
+429,2013,Bundestagswahl,94002,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,523,523,522,238,88,69,45,18,7,29,16,12,1
+430,2013,Bundestagswahl,94101,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,933,147,450,0,446,157,60,88,34,18,19,29,27,14,4
+431,2013,Bundestagswahl,94102,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,998,158,508,1,497,203,81,89,22,12,22,34,18,16,11
+432,2013,Bundestagswahl,94200,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1265,166,787,1,780,308,96,153,45,18,24,82,29,25,7
+433,2013,Bundestagswahl,94400,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1122,230,663,0,653,315,76,115,33,24,6,47,20,17,10
+434,2013,Bundestagswahl,94501,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,956,194,595,0,591,267,75,109,42,18,7,47,14,12,4
+435,2013,Bundestagswahl,94502,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,817,151,515,1,507,231,79,85,31,20,12,35,8,6,8
+436,2013,Bundestagswahl,94600,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1370,202,832,0,824,333,125,144,66,26,22,72,22,14,8
+437,2013,Bundestagswahl,95000,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,713,713,705,252,118,172,33,12,30,41,26,21,8
+438,2013,Bundestagswahl,95100,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1901,205,795,0,777,229,107,232,25,15,51,56,39,23,18
+439,2013,Bundestagswahl,95200,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1260,100,526,0,512,175,52,129,8,8,42,51,32,15,14
+440,2013,Bundestagswahl,95400,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,950,82,526,0,508,194,75,149,7,6,16,36,12,13,18
+441,2013,Bundestagswahl,95500,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1438,202,783,0,773,313,100,146,29,25,33,72,35,20,10
+442,2013,Bundestagswahl,95600,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1219,161,564,0,556,193,69,145,14,7,31,59,18,20,8
+443,2013,Bundestagswahl,96000,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,614,614,609,225,95,155,37,9,19,33,23,13,5
+444,2013,Bundestagswahl,96100,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1524,230,753,3,743,234,104,201,36,14,34,65,26,29,10
+445,2013,Bundestagswahl,96300,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1678,196,734,0,717,240,99,186,15,26,40,64,27,20,17
+446,2013,Bundestagswahl,96500,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1859,211,825,0,792,265,115,199,40,17,30,62,33,31,33
+447,2013,Bundestagswahl,97000,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,586,586,581,198,86,140,41,9,29,27,26,25,5
+448,2013,Bundestagswahl,97100,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1596,206,828,0,815,301,105,189,34,27,35,68,38,18,13
+449,2013,Bundestagswahl,97300,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1947,194,982,1,968,294,131,268,35,18,66,86,47,23,14
+450,2013,Bundestagswahl,97600,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1463,214,707,0,693,230,109,169,24,15,37,61,26,22,14
+451,2013,Bundestagswahl,98001,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,849,849,840,379,100,151,59,42,14,45,21,29,9
+452,2013,Bundestagswahl,98002,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,638,638,632,278,77,101,54,25,9,43,27,18,6
+453,2013,Bundestagswahl,98100,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1459,218,886,0,873,404,93,131,55,34,35,60,30,31,13
+454,2013,Bundestagswahl,98200,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1464,251,886,1,872,408,100,148,50,22,30,63,23,28,14
+455,2013,Bundestagswahl,98300,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1364,261,821,0,808,389,113,120,34,19,21,74,18,20,13
+456,2013,Bundestagswahl,98401,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1005,150,580,0,568,214,80,102,38,17,27,46,26,18,12
+457,2013,Bundestagswahl,98402,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,978,171,540,1,533,197,65,110,33,16,26,49,25,12,7
+458,2013,Bundestagswahl,98500,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1435,278,856,0,845,406,90,142,52,29,23,68,19,16,11
+459,2013,Bundestagswahl,98600,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1234,198,764,1,760,332,93,123,54,19,23,74,25,17,4
+460,2013,Bundestagswahl,99010,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,551,551,544,267,75,74,23,30,14,31,12,18,7
+461,2013,Bundestagswahl,99110,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1464,292,929,2,917,483,98,102,46,40,22,85,16,25,12
+462,2013,Bundestagswahl,99310,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1120,157,736,0,730,355,92,119,25,33,31,54,10,11,6
+463,2013,Bundestagswahl,99810,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,898,115,680,1,672,360,81,92,22,18,16,48,17,18,8

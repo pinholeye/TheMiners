@@ -1,0 +1,460 @@
+,Jahr,Wahlart,Wahlbezirk,Stadtteil zus.,Stadtraum,Stadtbezirk mit zugeordneten Ortschaften,Wahl-Form,Wahlberechtigte,Wahlberechtigte mit WS,W_hler,W_hler mit WS,Stimmen gôltig,Stimmen CDU,Stimmen SPD,Stimmen Die Linke,Stimmen Grône,Stimmen FDP,Stimmen Rechte Parteien,Stimmen AfD,Stimmen Piraten,Stimmen sonstiger Parteien,Stimmen ungôltig
+0,2005,Bundestagswahl,1000,01 Innere Altstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,337,337,336,78,118,83,21,27,3,0,0,6,1
+1,2005,Bundestagswahl,1100,01 Innere Altstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1140,365,527,0,510,90,177,124,25,81,8,0,0,5,17
+2,2005,Bundestagswahl,2000,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,1040,1040,1037,293,327,240,57,83,19,0,0,18,3
+3,2005,Bundestagswahl,2100,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1395,366,616,9,601,119,196,160,35,62,17,0,0,12,15
+4,2005,Bundestagswahl,2200,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1114,196,546,7,532,117,158,135,22,68,25,0,0,7,14
+5,2005,Bundestagswahl,2400,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1458,368,691,16,685,170,195,158,30,109,10,0,0,13,6
+6,2005,Bundestagswahl,2500,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,740,215,379,10,377,72,129,100,13,50,4,0,0,9,2
+7,2005,Bundestagswahl,3000,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,690,690,683,219,210,133,34,75,7,0,0,5,7
+8,2005,Bundestagswahl,3001,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,536,536,533,148,170,120,33,50,7,0,0,5,3
+9,2005,Bundestagswahl,3100,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,892,216,338,6,337,66,124,61,27,40,11,0,0,8,1
+10,2005,Bundestagswahl,3200,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1230,355,556,16,545,127,162,130,20,91,10,0,0,5,11
+11,2005,Bundestagswahl,3300,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1234,344,556,18,542,139,168,97,29,91,13,0,0,5,14
+12,2005,Bundestagswahl,3401,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,642,206,304,13,302,71,74,53,21,75,7,0,0,1,2
+13,2005,Bundestagswahl,3402,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,931,253,459,10,454,90,134,99,37,79,10,0,0,5,5
+14,2005,Bundestagswahl,4001,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,749,749,746,230,228,185,45,40,8,0,0,10,3
+15,2005,Bundestagswahl,4002,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,728,728,726,183,233,186,29,68,15,0,0,12,2
+16,2005,Bundestagswahl,4100,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,651,207,325,10,319,73,98,49,32,56,8,0,0,3,6
+17,2005,Bundestagswahl,4200,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1060,318,419,12,414,94,137,95,21,54,9,0,0,4,5
+18,2005,Bundestagswahl,4300,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1360,301,721,12,704,159,180,203,27,91,33,0,0,11,17
+19,2005,Bundestagswahl,4400,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1190,336,484,0,476,106,144,127,35,43,14,0,0,7,8
+20,2005,Bundestagswahl,4500,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1090,229,617,11,603,130,185,166,19,75,20,0,0,8,14
+21,2005,Bundestagswahl,4600,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1035,240,574,8,562,116,173,153,31,74,6,0,0,9,12
+22,2005,Bundestagswahl,5000,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,563,563,559,138,185,113,66,43,9,0,0,5,4
+23,2005,Bundestagswahl,5100,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1288,216,510,0,499,127,148,101,34,62,26,0,0,1,11
+24,2005,Bundestagswahl,5200,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1545,223,640,5,637,122,162,152,61,84,34,0,0,22,3
+25,2005,Bundestagswahl,5300,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1157,204,433,8,424,98,117,89,21,71,19,0,0,9,9
+26,2005,Bundestagswahl,6001,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,760,760,757,185,248,172,61,60,25,0,0,6,3
+27,2005,Bundestagswahl,6002,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,909,909,905,228,301,138,135,87,11,0,0,5,4
+28,2005,Bundestagswahl,6100,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1218,259,667,17,657,137,222,153,23,90,20,0,0,12,10
+29,2005,Bundestagswahl,6200,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1082,217,607,11,603,110,193,157,39,73,23,0,0,8,4
+30,2005,Bundestagswahl,6300,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1050,167,554,10,541,111,143,161,15,78,26,0,0,7,13
+31,2005,Bundestagswahl,6400,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1069,211,594,14,584,111,212,120,24,89,16,0,0,12,10
+32,2005,Bundestagswahl,6500,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1447,393,759,22,743,123,249,118,101,128,16,0,0,8,16
+33,2005,Bundestagswahl,6600,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1268,282,631,9,621,116,204,129,41,100,16,0,0,15,10
+34,2005,Bundestagswahl,6700,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1349,364,448,16,445,81,147,69,37,92,11,0,0,8,3
+35,2005,Bundestagswahl,7001,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,772,772,770,284,228,151,32,55,9,0,0,11,2
+36,2005,Bundestagswahl,7002,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,780,780,777,209,233,208,34,65,14,0,0,14,3
+37,2005,Bundestagswahl,7003,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,722,722,719,205,229,174,36,58,11,0,0,6,3
+38,2005,Bundestagswahl,7100,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1138,298,605,16,593,150,160,141,26,97,12,0,0,7,12
+39,2005,Bundestagswahl,7200,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1013,255,544,5,541,137,159,111,19,97,13,0,0,5,3
+40,2005,Bundestagswahl,7300,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1321,289,676,12,660,162,199,139,22,119,11,0,0,8,16
+41,2005,Bundestagswahl,7401,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,919,237,457,6,446,102,104,102,14,112,9,0,0,3,11
+42,2005,Bundestagswahl,7402,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,810,180,474,7,468,120,131,96,14,85,14,0,0,8,6
+43,2005,Bundestagswahl,7500,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1237,319,637,7,623,132,188,162,28,96,11,0,0,6,14
+44,2005,Bundestagswahl,7600,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1048,276,514,4,502,81,183,144,15,62,10,0,0,7,12
+45,2005,Bundestagswahl,7700,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1008,220,533,18,528,87,150,183,18,65,12,0,0,13,5
+46,2005,Bundestagswahl,7800,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1046,218,531,4,523,117,196,107,17,71,6,0,0,9,8
+47,2005,Bundestagswahl,7900,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1039,247,540,16,525,129,134,123,19,92,15,0,0,13,15
+48,2005,Bundestagswahl,11001,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,1084,1084,1077,210,320,161,256,95,12,0,0,23,7
+49,2005,Bundestagswahl,11002,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,1064,1064,1056,131,323,114,397,74,5,0,0,12,8
+50,2005,Bundestagswahl,11100,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1285,232,716,0,701,121,198,108,191,53,19,0,0,11,15
+51,2005,Bundestagswahl,11200,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1447,293,869,3,859,126,262,145,237,63,13,0,0,13,10
+52,2005,Bundestagswahl,11300,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1440,273,812,0,803,129,243,145,165,77,24,0,0,20,9
+53,2005,Bundestagswahl,11400,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1529,283,824,0,813,116,253,125,234,54,22,0,0,9,11
+54,2005,Bundestagswahl,11500,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1351,256,828,4,810,111,243,99,283,58,7,0,0,9,18
+55,2005,Bundestagswahl,11600,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1193,246,707,6,697,95,204,113,203,60,12,0,0,10,10
+56,2005,Bundestagswahl,11700,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1561,338,923,1,905,127,249,144,289,55,11,0,0,30,18
+57,2005,Bundestagswahl,11800,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1202,197,643,0,637,132,152,128,116,70,20,0,0,19,6
+58,2005,Bundestagswahl,12000,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,1003,1003,987,220,248,199,185,108,11,0,0,16,16
+59,2005,Bundestagswahl,12100,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,926,188,594,0,587,122,146,74,179,48,3,0,0,15,7
+60,2005,Bundestagswahl,12201,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1254,267,800,1,791,219,180,130,153,82,17,0,0,10,9
+61,2005,Bundestagswahl,12202,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1086,200,678,0,664,165,178,123,90,85,11,0,0,12,14
+62,2005,Bundestagswahl,12300,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1139,232,699,1,684,169,156,174,74,90,13,0,0,8,15
+63,2005,Bundestagswahl,12400,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1282,148,817,1,805,123,192,300,46,73,54,0,0,17,12
+64,2005,Bundestagswahl,13000,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,976,976,971,262,220,238,142,80,13,0,0,16,5
+65,2005,Bundestagswahl,13100,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,978,243,521,1,516,111,173,94,63,60,8,0,0,7,5
+66,2005,Bundestagswahl,13200,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1190,275,658,0,655,149,197,196,41,47,15,0,0,10,3
+67,2005,Bundestagswahl,13300,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1021,179,612,0,603,114,174,92,134,62,17,0,0,10,9
+68,2005,Bundestagswahl,13400,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1282,305,765,3,759,168,198,196,110,51,13,0,0,23,6
+69,2005,Bundestagswahl,14000,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Brief,0,0,1065,1065,1053,197,302,184,247,91,15,0,0,17,12
+70,2005,Bundestagswahl,14100,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,691,103,387,0,379,92,99,73,47,42,19,0,0,7,8
+71,2005,Bundestagswahl,14200,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1028,139,523,0,518,71,136,128,102,50,21,0,0,10,5
+72,2005,Bundestagswahl,14300,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1270,216,739,3,723,93,227,140,159,59,23,0,0,22,16
+73,2005,Bundestagswahl,14400,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1488,223,944,9,923,107,318,151,233,71,25,0,0,18,21
+74,2005,Bundestagswahl,14500,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1383,191,842,1,828,156,225,177,141,73,38,0,0,18,14
+75,2005,Bundestagswahl,14600,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1401,246,890,2,878,242,216,202,83,73,26,0,0,36,12
+76,2005,Bundestagswahl,15300,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,829,139,512,1,504,120,143,117,38,58,21,0,0,7,8
+77,2005,Bundestagswahl,21000,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,810,810,800,182,213,154,138,72,22,0,0,19,10
+78,2005,Bundestagswahl,21100,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1592,234,915,0,898,189,242,179,114,118,27,0,0,29,17
+79,2005,Bundestagswahl,21200,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1395,169,797,5,790,202,153,163,100,91,54,0,0,27,7
+80,2005,Bundestagswahl,21300,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1462,177,824,0,809,204,185,153,98,99,39,0,0,31,15
+81,2005,Bundestagswahl,21400,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1228,147,717,2,705,165,181,130,99,71,31,0,0,28,12
+82,2005,Bundestagswahl,21500,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1200,124,673,0,665,139,181,130,73,85,37,0,0,20,8
+83,2005,Bundestagswahl,22000,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,1106,1106,1085,311,259,282,68,106,30,0,0,29,21
+84,2005,Bundestagswahl,22100,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1481,200,883,2,872,220,209,198,85,93,46,0,0,21,11
+85,2005,Bundestagswahl,22200,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,857,97,491,0,485,150,118,89,22,63,28,0,0,15,6
+86,2005,Bundestagswahl,22300,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1084,111,626,0,601,144,161,147,33,59,41,0,0,16,25
+87,2005,Bundestagswahl,22400,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,990,121,649,0,637,174,163,149,23,58,44,0,0,26,12
+88,2005,Bundestagswahl,22501,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1285,158,827,0,811,242,206,172,49,82,39,0,0,21,16
+89,2005,Bundestagswahl,22502,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1311,198,750,2,741,177,180,168,74,87,31,0,0,24,9
+90,2005,Bundestagswahl,22600,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1072,152,688,1,680,201,187,138,56,61,26,0,0,11,8
+91,2005,Bundestagswahl,22700,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,905,116,601,0,599,172,159,117,33,60,38,0,0,20,2
+92,2005,Bundestagswahl,23000,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,485,485,480,166,124,92,26,48,13,0,0,11,5
+93,2005,Bundestagswahl,23100,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,985,93,634,0,621,179,148,141,38,71,32,0,0,12,13
+94,2005,Bundestagswahl,23200,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1095,153,609,0,595,156,137,135,38,60,54,0,0,15,14
+95,2005,Bundestagswahl,23300,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1092,148,737,0,725,255,156,129,35,107,25,0,0,18,12
+96,2005,Bundestagswahl,23400,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1067,108,697,0,687,216,177,131,34,69,41,0,0,19,10
+97,2005,Bundestagswahl,24000,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,1296,1296,1285,374,353,264,133,91,31,0,0,39,11
+98,2005,Bundestagswahl,24100,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,882,109,572,0,562,178,149,102,36,48,33,0,0,16,10
+99,2005,Bundestagswahl,24200,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1079,219,694,1,676,185,184,96,102,89,14,0,0,6,18
+100,2005,Bundestagswahl,24300,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1102,222,748,1,732,193,223,135,84,68,12,0,0,17,16
+101,2005,Bundestagswahl,24400,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1288,191,884,1,874,231,200,179,108,105,34,0,0,17,10
+102,2005,Bundestagswahl,24500,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,797,115,534,0,521,125,138,133,36,61,16,0,0,12,13
+103,2005,Bundestagswahl,24600,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,740,124,439,0,434,116,125,105,23,32,21,0,0,12,5
+104,2005,Bundestagswahl,24700,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1092,152,679,0,663,204,150,168,46,52,25,0,0,18,16
+105,2005,Bundestagswahl,24800,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1064,206,667,1,662,217,150,129,60,80,14,0,0,12,5
+106,2005,Bundestagswahl,25000,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,1180,1180,1162,278,334,254,118,121,24,0,0,33,18
+107,2005,Bundestagswahl,25100,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1412,169,869,0,854,201,213,200,71,101,43,0,0,25,15
+108,2005,Bundestagswahl,25200,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1414,173,857,0,843,251,198,166,61,88,46,0,0,33,14
+109,2005,Bundestagswahl,25300,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1496,202,979,2,962,239,250,227,77,94,47,0,0,28,17
+110,2005,Bundestagswahl,25400,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1403,172,791,1,774,214,186,174,76,73,39,0,0,12,17
+111,2005,Bundestagswahl,25500,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1443,213,771,6,761,205,192,154,70,102,17,0,0,21,10
+112,2005,Bundestagswahl,25700,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1539,303,922,1,913,257,214,215,71,105,31,0,0,20,9
+113,2005,Bundestagswahl,31001,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,756,756,747,225,198,170,60,55,16,0,0,23,9
+114,2005,Bundestagswahl,31002,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,801,801,797,238,208,170,64,76,23,0,0,18,4
+115,2005,Bundestagswahl,31100,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1568,233,1020,1,1006,314,269,176,89,95,33,0,0,30,14
+116,2005,Bundestagswahl,31200,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1434,215,908,0,890,224,264,232,40,79,28,0,0,23,18
+117,2005,Bundestagswahl,31300,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1151,152,779,0,763,227,204,186,31,64,34,0,0,17,16
+118,2005,Bundestagswahl,31400,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1351,184,933,1,925,296,217,161,68,135,30,0,0,18,8
+119,2005,Bundestagswahl,31500,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,987,141,677,1,673,205,177,113,69,82,13,0,0,14,4
+120,2005,Bundestagswahl,31601,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1070,164,751,3,745,248,200,93,70,93,21,0,0,20,6
+121,2005,Bundestagswahl,31602,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,930,167,646,0,642,269,152,59,70,75,8,0,0,9,4
+122,2005,Bundestagswahl,31700,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1363,220,857,0,854,191,253,238,36,77,32,0,0,27,3
+123,2005,Bundestagswahl,31800,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1243,148,822,0,811,170,238,208,50,73,46,0,0,26,11
+124,2005,Bundestagswahl,32000,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,789,789,786,266,196,161,62,64,21,0,0,16,3
+125,2005,Bundestagswahl,32100,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1412,211,956,2,943,360,195,154,40,110,58,0,0,26,13
+126,2005,Bundestagswahl,32201,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,913,114,630,0,619,227,128,82,28,104,37,0,0,13,11
+127,2005,Bundestagswahl,32202,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,841,157,537,0,528,203,114,111,31,49,12,0,0,8,9
+128,2005,Bundestagswahl,32300,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,893,143,645,0,643,218,171,103,54,75,13,0,0,9,2
+129,2005,Bundestagswahl,32400,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1173,193,840,0,831,215,198,143,127,96,33,0,0,19,9
+130,2005,Bundestagswahl,35010,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,471,471,467,182,108,56,37,55,17,0,0,12,4
+131,2005,Bundestagswahl,35110,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1304,142,961,1,946,317,257,168,77,84,32,0,0,11,15
+132,2005,Bundestagswahl,35310,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,993,111,722,0,713,266,160,121,39,78,32,0,0,17,9
+133,2005,Bundestagswahl,35410,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1233,110,923,1,906,311,217,143,60,99,48,0,0,28,17
+134,2005,Bundestagswahl,35510,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1156,114,839,1,826,277,193,130,48,108,44,0,0,26,13
+135,2005,Bundestagswahl,35610,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,240,17,154,0,151,47,25,41,3,15,13,0,0,7,3
+136,2005,Bundestagswahl,36010,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,449,449,447,150,112,71,50,38,16,0,0,10,2
+137,2005,Bundestagswahl,36110,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,937,74,688,0,674,223,131,121,56,82,39,0,0,22,14
+138,2005,Bundestagswahl,36210,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1218,192,793,0,786,270,174,129,80,98,22,0,0,13,7
+139,2005,Bundestagswahl,36310,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,856,157,627,0,622,212,170,108,51,57,16,0,0,8,5
+140,2005,Bundestagswahl,36410,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,396,41,305,0,299,86,67,57,22,40,21,0,0,6,6
+141,2005,Bundestagswahl,41000,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,892,892,891,300,206,120,127,118,7,0,0,13,1
+142,2005,Bundestagswahl,41100,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1147,267,712,0,704,225,147,104,134,75,7,0,0,12,8
+143,2005,Bundestagswahl,41200,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1124,219,742,0,734,239,157,122,112,92,5,0,0,7,8
+144,2005,Bundestagswahl,41300,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,782,205,507,2,501,180,116,66,63,70,2,0,0,4,6
+145,2005,Bundestagswahl,41400,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,987,240,593,0,588,180,143,92,83,66,14,0,0,10,5
+146,2005,Bundestagswahl,42001,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,839,839,838,320,178,108,122,89,9,0,0,12,1
+147,2005,Bundestagswahl,42002,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,921,921,912,327,235,155,91,66,18,0,0,20,9
+148,2005,Bundestagswahl,42100,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1177,277,737,4,727,219,190,89,112,83,15,0,0,19,10
+149,2005,Bundestagswahl,42200,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1351,349,861,5,849,295,209,95,125,110,5,0,0,10,12
+150,2005,Bundestagswahl,42400,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1244,267,769,4,757,267,184,116,85,81,14,0,0,10,12
+151,2005,Bundestagswahl,42500,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1175,253,759,2,749,252,183,140,76,66,18,0,0,14,10
+152,2005,Bundestagswahl,42600,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1049,214,638,0,631,215,142,84,82,88,13,0,0,7,7
+153,2005,Bundestagswahl,42700,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1167,247,733,0,720,225,174,150,62,73,22,0,0,14,13
+154,2005,Bundestagswahl,42800,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,647,126,426,0,420,127,99,98,48,39,7,0,0,2,6
+155,2005,Bundestagswahl,42900,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,672,109,450,1,446,158,99,62,68,45,9,0,0,5,4
+156,2005,Bundestagswahl,43000,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,526,526,521,166,119,87,67,56,13,0,0,13,5
+157,2005,Bundestagswahl,43100,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,514,99,334,0,333,128,63,47,37,32,21,0,0,5,1
+158,2005,Bundestagswahl,43200,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,907,201,537,0,530,181,122,98,48,53,22,0,0,6,7
+159,2005,Bundestagswahl,43300,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,582,121,386,2,380,104,100,74,53,41,5,0,0,3,6
+160,2005,Bundestagswahl,43400,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,762,121,483,0,478,170,104,84,48,43,20,0,0,9,5
+161,2005,Bundestagswahl,45010,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,645,645,630,213,170,117,55,55,12,0,0,8,15
+162,2005,Bundestagswahl,45110,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,962,152,685,0,684,274,143,108,50,74,26,0,0,9,1
+163,2005,Bundestagswahl,45210,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,835,131,543,0,538,175,145,99,23,69,23,0,0,4,5
+164,2005,Bundestagswahl,45310,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1362,178,808,0,790,267,177,142,28,106,53,0,0,17,18
+165,2005,Bundestagswahl,45410,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,812,101,591,0,579,210,134,67,49,84,28,0,0,7,12
+166,2005,Bundestagswahl,45510,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,640,110,411,0,404,161,88,67,33,35,11,0,0,9,7
+167,2005,Bundestagswahl,46010,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,497,497,495,197,96,77,35,70,15,0,0,5,2
+168,2005,Bundestagswahl,46010,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,267,267,266,107,51,41,19,37,8,0,0,3,1
+169,2005,Bundestagswahl,46110,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,693,125,498,1,492,187,96,83,32,73,16,0,0,5,6
+170,2005,Bundestagswahl,46210,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,820,135,619,0,614,207,121,98,56,94,23,0,0,15,5
+171,2005,Bundestagswahl,46310,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,726,149,499,0,490,158,136,65,61,53,13,0,0,4,9
+172,2005,Bundestagswahl,46410,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,773,94,544,0,536,211,106,74,34,83,22,0,0,6,8
+173,2005,Bundestagswahl,47110,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1049,106,740,0,726,284,145,102,39,109,27,0,0,20,14
+174,2005,Bundestagswahl,47210,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1114,126,711,0,697,296,108,102,23,95,57,0,0,16,14
+175,2005,Bundestagswahl,47310,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,554,67,376,0,366,152,72,44,29,36,27,0,0,6,10
+176,2005,Bundestagswahl,51001,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,612,612,611,224,172,64,56,88,3,0,0,4,1
+177,2005,Bundestagswahl,51002,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,847,847,843,254,208,104,147,111,8,0,0,11,4
+178,2005,Bundestagswahl,51003,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,303,303,302,119,62,30,30,57,3,0,0,1,1
+179,2005,Bundestagswahl,51100,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1201,335,654,24,650,157,178,95,61,134,18,0,0,7,4
+180,2005,Bundestagswahl,51200,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1418,427,691,26,682,185,181,79,58,166,6,0,0,7,9
+181,2005,Bundestagswahl,51400,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1073,304,582,21,574,145,136,61,74,134,16,0,0,8,8
+182,2005,Bundestagswahl,51500,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1090,349,516,17,507,112,153,66,65,101,3,0,0,7,9
+183,2005,Bundestagswahl,51600,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1154,319,686,42,681,155,167,75,97,165,7,0,0,15,5
+184,2005,Bundestagswahl,51700,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1336,346,694,23,688,130,161,80,104,178,21,0,0,14,6
+185,2005,Bundestagswahl,52001,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,799,799,796,248,205,72,169,88,7,0,0,7,3
+186,2005,Bundestagswahl,52002,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,776,776,776,226,236,98,115,85,8,0,0,8,0
+187,2005,Bundestagswahl,52003,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,735,735,732,223,219,79,119,76,11,0,0,5,3
+188,2005,Bundestagswahl,52100,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1004,319,522,16,515,109,120,44,107,123,4,0,0,8,7
+189,2005,Bundestagswahl,52200,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1292,393,692,20,682,145,179,95,94,151,9,0,0,9,10
+190,2005,Bundestagswahl,52300,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1375,471,720,34,715,165,180,86,129,142,2,0,0,11,5
+191,2005,Bundestagswahl,52400,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1227,336,721,23,713,144,194,86,103,165,15,0,0,6,8
+192,2005,Bundestagswahl,52501,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1041,279,545,10,537,126,141,75,78,106,6,0,0,5,8
+193,2005,Bundestagswahl,52502,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1042,287,525,14,516,98,121,65,63,134,25,0,0,10,9
+194,2005,Bundestagswahl,52600,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1010,269,567,25,563,131,142,78,93,98,11,0,0,10,4
+195,2005,Bundestagswahl,52700,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1589,324,787,15,764,178,185,173,50,137,26,0,0,15,23
+196,2005,Bundestagswahl,53001,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,973,973,967,271,295,161,105,114,16,0,0,5,6
+197,2005,Bundestagswahl,53002,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,792,792,783,218,260,146,62,72,19,0,0,6,9
+198,2005,Bundestagswahl,53100,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,975,339,519,0,512,99,148,68,80,103,9,0,0,5,7
+199,2005,Bundestagswahl,53200,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,977,237,486,19,479,92,120,106,52,92,10,0,0,7,7
+200,2005,Bundestagswahl,53300,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1034,257,531,9,527,92,162,110,40,104,11,0,0,8,4
+201,2005,Bundestagswahl,53400,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1212,268,722,23,717,171,194,173,32,122,19,0,0,6,5
+202,2005,Bundestagswahl,53500,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,785,181,312,0,307,53,81,75,13,58,19,0,0,8,5
+203,2005,Bundestagswahl,53600,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,922,223,505,13,498,120,153,90,20,96,11,0,0,8,7
+204,2005,Bundestagswahl,53700,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1235,239,601,3,591,140,155,102,43,116,19,0,0,16,10
+205,2005,Bundestagswahl,53800,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1009,238,511,13,507,119,138,92,33,97,16,0,0,12,4
+206,2005,Bundestagswahl,54001,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,721,721,719,207,226,121,65,86,4,0,0,10,2
+207,2005,Bundestagswahl,54002,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,655,655,653,202,185,101,58,85,10,0,0,12,2
+208,2005,Bundestagswahl,54003,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,688,688,685,209,215,106,69,66,6,0,0,14,3
+209,2005,Bundestagswahl,54100,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1445,386,787,29,776,176,234,140,70,131,17,0,0,8,11
+210,2005,Bundestagswahl,54200,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1181,272,669,26,660,136,188,127,78,101,22,0,0,8,9
+211,2005,Bundestagswahl,54300,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1354,282,732,11,723,175,205,145,44,127,16,0,0,11,9
+212,2005,Bundestagswahl,54400,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1261,353,649,19,639,148,187,93,49,138,19,0,0,5,10
+213,2005,Bundestagswahl,54501,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1293,366,682,28,672,162,167,144,54,128,6,0,0,11,10
+214,2005,Bundestagswahl,54502,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1484,378,783,23,771,178,213,139,64,152,12,0,0,13,12
+215,2005,Bundestagswahl,54600,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1510,369,805,42,789,148,218,162,61,162,26,0,0,12,16
+216,2005,Bundestagswahl,55001,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,797,797,791,231,249,151,63,78,9,0,0,10,6
+217,2005,Bundestagswahl,55002,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,858,858,857,239,256,223,28,75,18,0,0,18,1
+218,2005,Bundestagswahl,55100,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1579,316,891,18,883,221,235,133,70,194,21,0,0,9,8
+219,2005,Bundestagswahl,55200,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1516,337,804,21,792,161,202,177,41,157,36,0,0,18,12
+220,2005,Bundestagswahl,55300,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1323,278,743,23,729,167,223,129,25,162,13,0,0,10,14
+221,2005,Bundestagswahl,55400,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1246,289,617,7,604,132,145,155,25,113,22,0,0,12,13
+222,2005,Bundestagswahl,55500,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,764,110,313,8,301,53,77,90,12,52,12,0,0,5,12
+223,2005,Bundestagswahl,55600,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1144,269,593,22,586,107,173,161,32,78,25,0,0,10,7
+224,2005,Bundestagswahl,55800,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1303,290,680,10,669,140,195,155,31,116,27,0,0,5,11
+225,2005,Bundestagswahl,56001,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,678,678,674,192,199,151,37,72,11,0,0,12,4
+226,2005,Bundestagswahl,56002,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,625,625,622,182,204,134,32,42,12,0,0,16,3
+227,2005,Bundestagswahl,56003,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,590,590,582,179,156,138,21,64,12,0,0,12,8
+228,2005,Bundestagswahl,56100,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1336,314,640,26,635,122,177,149,27,116,34,0,0,10,5
+229,2005,Bundestagswahl,56200,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,825,142,446,8,438,86,126,93,14,82,24,0,0,13,8
+230,2005,Bundestagswahl,56300,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1296,220,716,0,706,142,176,164,32,143,31,0,0,18,10
+231,2005,Bundestagswahl,56401,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1261,312,657,5,645,164,144,110,35,155,23,0,0,14,12
+232,2005,Bundestagswahl,56402,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,888,154,502,11,494,123,120,116,18,96,17,0,0,4,8
+233,2005,Bundestagswahl,56501,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1081,222,611,12,599,148,146,138,33,101,22,0,0,11,12
+234,2005,Bundestagswahl,56502,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,966,230,511,19,506,122,135,93,26,109,11,0,0,10,5
+235,2005,Bundestagswahl,56600,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1237,199,598,0,587,115,151,135,22,141,13,0,0,10,11
+236,2005,Bundestagswahl,56800,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,868,162,508,6,503,105,143,109,23,96,18,0,0,9,5
+237,2005,Bundestagswahl,56900,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1023,208,550,15,535,105,160,113,15,111,17,0,0,14,15
+238,2005,Bundestagswahl,57001,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,824,824,821,229,247,183,67,79,5,0,0,11,3
+239,2005,Bundestagswahl,57002,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,816,816,812,292,232,137,58,78,7,0,0,8,4
+240,2005,Bundestagswahl,57003,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,738,738,738,192,247,160,48,70,10,0,0,11,0
+241,2005,Bundestagswahl,57100,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1340,361,581,7,577,133,145,150,36,95,9,0,0,9,4
+242,2005,Bundestagswahl,57200,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1340,325,706,16,697,124,226,165,53,104,13,0,0,12,9
+243,2005,Bundestagswahl,57301,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,938,207,537,10,526,123,148,91,25,115,18,0,0,6,11
+244,2005,Bundestagswahl,57302,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,858,202,497,11,494,90,151,91,46,99,5,0,0,12,3
+245,2005,Bundestagswahl,57400,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1293,282,708,7,696,134,200,154,40,135,17,0,0,16,12
+246,2005,Bundestagswahl,57500,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1223,303,636,18,631,122,178,136,29,135,19,0,0,12,5
+247,2005,Bundestagswahl,57600,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1265,337,606,13,599,120,171,129,25,133,13,0,0,8,7
+248,2005,Bundestagswahl,57700,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,934,278,472,10,466,114,95,117,31,96,7,0,0,6,6
+249,2005,Bundestagswahl,57800,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1027,331,477,8,468,123,108,64,31,128,9,0,0,5,9
+250,2005,Bundestagswahl,61001,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,837,837,831,249,257,167,40,96,14,0,0,8,6
+251,2005,Bundestagswahl,61002,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,784,784,778,226,205,237,31,57,16,0,0,6,6
+252,2005,Bundestagswahl,61100,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,917,125,538,4,521,140,140,103,21,85,19,0,0,13,17
+253,2005,Bundestagswahl,61200,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1042,182,523,7,519,122,94,108,26,133,26,0,0,10,4
+254,2005,Bundestagswahl,61300,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1575,240,826,15,814,180,213,190,36,149,29,0,0,17,12
+255,2005,Bundestagswahl,61400,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,926,118,478,5,473,111,123,80,14,118,23,0,0,4,5
+256,2005,Bundestagswahl,61500,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1325,274,716,7,705,164,184,154,32,121,26,0,0,24,11
+257,2005,Bundestagswahl,61600,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1071,226,581,11,576,119,184,134,14,92,24,0,0,9,5
+258,2005,Bundestagswahl,61700,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1153,245,548,3,540,106,164,150,12,81,21,0,0,6,8
+259,2005,Bundestagswahl,61800,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,866,217,387,0,381,62,124,111,8,49,17,0,0,10,6
+260,2005,Bundestagswahl,61900,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,932,174,469,11,463,95,127,124,20,55,34,0,0,8,6
+261,2005,Bundestagswahl,62001,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,623,623,618,206,177,110,42,71,6,0,0,6,5
+262,2005,Bundestagswahl,62002,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,642,642,636,217,172,94,54,66,14,0,0,19,6
+263,2005,Bundestagswahl,62003,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,604,604,598,195,186,87,52,67,3,0,0,8,6
+264,2005,Bundestagswahl,62100,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1528,317,842,14,829,186,208,160,67,179,19,0,0,10,13
+265,2005,Bundestagswahl,62200,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1104,208,655,8,642,151,191,107,37,125,22,0,0,9,13
+266,2005,Bundestagswahl,62301,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,758,122,391,1,389,99,94,76,16,82,14,0,0,8,2
+267,2005,Bundestagswahl,62302,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1140,310,595,22,590,132,189,102,29,120,12,0,0,6,5
+268,2005,Bundestagswahl,62400,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1218,292,650,22,644,123,150,121,79,141,23,0,0,7,6
+269,2005,Bundestagswahl,62501,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1409,318,785,12,781,187,218,112,45,187,21,0,0,11,4
+270,2005,Bundestagswahl,62502,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1167,252,684,16,673,188,157,143,23,120,28,0,0,14,11
+271,2005,Bundestagswahl,62600,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1322,319,751,17,744,142,211,135,71,142,26,0,0,17,7
+272,2005,Bundestagswahl,63000,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,728,728,728,264,174,82,95,101,7,0,0,5,0
+273,2005,Bundestagswahl,63001,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,699,699,697,290,157,66,66,106,6,0,0,6,2
+274,2005,Bundestagswahl,63101,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1338,308,677,14,666,141,143,121,50,190,12,0,0,9,11
+275,2005,Bundestagswahl,63102,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,626,180,332,7,326,86,87,32,27,86,5,0,0,3,6
+276,2005,Bundestagswahl,63200,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,911,224,499,16,495,123,114,83,44,113,9,0,0,9,4
+277,2005,Bundestagswahl,63301,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1220,309,707,23,700,206,154,99,35,185,13,0,0,8,7
+278,2005,Bundestagswahl,63302,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,814,154,486,10,483,116,120,61,20,145,13,0,0,8,3
+279,2005,Bundestagswahl,63401,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,962,229,558,10,546,150,99,78,39,161,14,0,0,5,12
+280,2005,Bundestagswahl,63402,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1050,228,628,6,619,135,157,131,30,137,19,0,0,10,9
+281,2005,Bundestagswahl,64000,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,792,792,786,289,189,164,43,82,11,0,0,8,6
+282,2005,Bundestagswahl,64100,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1023,157,532,11,522,117,112,96,17,148,23,0,0,9,10
+283,2005,Bundestagswahl,64200,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,933,183,477,11,466,99,123,116,14,86,22,0,0,6,11
+284,2005,Bundestagswahl,64300,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,835,148,444,0,436,92,121,98,20,68,29,0,0,8,8
+285,2005,Bundestagswahl,64400,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1007,207,533,7,526,96,155,130,26,89,20,0,0,10,7
+286,2005,Bundestagswahl,64500,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1269,198,636,6,624,165,146,99,33,140,27,0,0,14,12
+287,2005,Bundestagswahl,71000,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,930,930,916,248,277,231,33,70,35,0,0,22,14
+288,2005,Bundestagswahl,71100,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1001,229,536,3,533,117,138,111,41,99,21,0,0,6,3
+289,2005,Bundestagswahl,71200,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1672,330,684,13,661,130,166,157,20,124,49,0,0,15,23
+290,2005,Bundestagswahl,71400,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,982,209,529,0,525,103,160,147,19,57,32,0,0,7,4
+291,2005,Bundestagswahl,71500,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1071,215,532,0,521,110,133,140,14,81,30,0,0,13,11
+292,2005,Bundestagswahl,72000,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,1104,1104,1096,303,319,274,50,106,19,0,0,25,8
+293,2005,Bundestagswahl,72100,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,896,144,422,7,417,83,98,124,17,59,28,0,0,8,5
+294,2005,Bundestagswahl,72200,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,953,159,463,2,454,89,118,135,13,60,29,0,0,10,9
+295,2005,Bundestagswahl,72300,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1456,271,639,5,630,109,190,162,20,99,32,0,0,18,9
+296,2005,Bundestagswahl,72500,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1437,254,668,0,655,142,154,171,20,106,51,0,0,11,13
+297,2005,Bundestagswahl,72700,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,828,194,389,1,378,88,101,103,14,51,13,0,0,8,11
+298,2005,Bundestagswahl,72800,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,842,172,377,2,373,74,111,86,10,59,21,0,0,12,4
+299,2005,Bundestagswahl,73011,73 Niedersedlitz,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,168,168,164,58,40,27,14,20,3,0,0,2,3
+300,2005,Bundestagswahl,73012,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,819,819,803,283,194,130,70,98,17,0,0,11,17
+301,2005,Bundestagswahl,73101,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1087,203,646,3,641,152,155,110,41,149,20,0,0,14,5
+302,2005,Bundestagswahl,73102,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,850,167,490,10,484,114,121,82,25,114,18,0,0,10,6
+303,2005,Bundestagswahl,73200,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1025,229,594,17,590,140,141,78,38,151,29,0,0,13,4
+304,2005,Bundestagswahl,73300,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1407,319,779,15,772,190,191,104,40,184,45,0,0,18,7
+305,2005,Bundestagswahl,73500,73 Niedersedlitz,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1342,188,599,2,589,117,142,169,14,77,54,0,0,16,10
+306,2005,Bundestagswahl,74000,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,918,918,917,321,228,149,50,137,22,0,0,10,1
+307,2005,Bundestagswahl,74100,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,603,97,375,6,370,88,94,50,10,99,17,0,0,12,5
+308,2005,Bundestagswahl,74201,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,966,264,539,6,534,155,105,85,22,140,22,0,0,5,5
+309,2005,Bundestagswahl,74202,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1022,229,563,0,558,157,111,84,35,136,27,0,0,8,5
+310,2005,Bundestagswahl,74301,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1250,252,733,7,729,180,184,106,50,175,25,0,0,9,4
+311,2005,Bundestagswahl,74302,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1012,187,608,2,605,147,154,104,28,150,16,0,0,6,3
+312,2005,Bundestagswahl,75001,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,832,832,829,262,227,158,71,99,6,0,0,6,3
+313,2005,Bundestagswahl,75002,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,869,869,865,293,262,151,53,87,9,0,0,10,4
+314,2005,Bundestagswahl,75003,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,814,814,810,289,207,159,56,77,10,0,0,12,4
+315,2005,Bundestagswahl,75100,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1098,275,595,19,590,112,165,98,37,148,20,0,0,10,5
+316,2005,Bundestagswahl,75201,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1031,312,581,27,579,134,153,80,59,139,11,0,0,3,2
+317,2005,Bundestagswahl,75202,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1311,357,627,10,615,164,163,106,33,126,9,0,0,14,12
+318,2005,Bundestagswahl,75300,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,956,143,401,0,392,62,120,102,15,70,20,0,0,3,9
+319,2005,Bundestagswahl,75500,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,961,181,573,9,569,141,120,81,63,131,19,0,0,14,4
+320,2005,Bundestagswahl,75600,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1071,246,535,0,530,141,132,109,27,107,13,0,0,1,5
+321,2005,Bundestagswahl,75700,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1236,297,611,12,602,123,157,151,34,107,23,0,0,7,9
+322,2005,Bundestagswahl,75800,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1269,230,690,3,676,141,199,177,27,101,18,0,0,13,14
+323,2005,Bundestagswahl,75901,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,710,218,380,15,371,85,118,70,22,68,6,0,0,2,9
+324,2005,Bundestagswahl,75902,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,923,291,469,9,462,107,130,86,43,85,7,0,0,4,7
+325,2005,Bundestagswahl,75903,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,961,285,504,20,497,114,131,73,33,124,13,0,0,9,7
+326,2005,Bundestagswahl,76011,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,376,376,374,110,105,68,38,43,7,0,0,3,2
+327,2005,Bundestagswahl,76012,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,1163,1163,1158,341,325,212,118,134,20,0,0,8,5
+328,2005,Bundestagswahl,76100,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,758,258,380,9,378,66,105,50,46,96,12,0,0,3,2
+329,2005,Bundestagswahl,76200,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,999,231,503,4,493,121,107,100,48,91,17,0,0,9,10
+330,2005,Bundestagswahl,76300,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,963,232,507,5,503,95,128,96,75,85,14,0,0,10,4
+331,2005,Bundestagswahl,76400,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,602,171,296,1,288,71,87,62,21,45,1,0,0,1,8
+332,2005,Bundestagswahl,76500,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1307,363,578,3,575,137,121,123,27,133,27,0,0,7,3
+333,2005,Bundestagswahl,76600,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1099,178,587,1,578,117,154,134,25,119,21,0,0,8,9
+334,2005,Bundestagswahl,76700,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1163,146,458,3,442,78,115,102,20,61,47,0,0,19,16
+335,2005,Bundestagswahl,76800,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,889,82,397,0,385,58,114,101,10,65,25,0,0,12,12
+336,2005,Bundestagswahl,77000,77 Reick,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,775,775,767,231,241,160,26,75,21,0,0,13,8
+337,2005,Bundestagswahl,77100,77 Reick,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1274,329,526,7,523,112,135,106,20,110,32,0,0,8,3
+338,2005,Bundestagswahl,77200,77 Reick,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1353,402,584,20,577,117,165,143,12,113,17,0,0,10,7
+339,2005,Bundestagswahl,77300,77 Reick,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1076,140,507,8,496,98,116,97,21,113,42,0,0,9,11
+340,2005,Bundestagswahl,81001,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,652,652,651,152,210,152,52,60,11,0,0,14,1
+341,2005,Bundestagswahl,81002,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,655,655,652,188,189,119,71,69,8,0,0,8,3
+342,2005,Bundestagswahl,81003,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,617,617,614,173,187,121,62,56,7,0,0,8,3
+343,2005,Bundestagswahl,81100,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,937,200,486,13,474,91,142,135,19,56,24,0,0,7,12
+344,2005,Bundestagswahl,81200,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1521,380,833,10,817,170,269,177,33,135,25,0,0,8,16
+345,2005,Bundestagswahl,81400,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1274,329,639,13,627,123,202,137,38,103,13,0,0,11,12
+346,2005,Bundestagswahl,81500,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1048,266,526,6,522,110,122,126,43,89,22,0,0,10,4
+347,2005,Bundestagswahl,81700,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1458,423,735,16,729,177,215,119,63,130,14,0,0,11,6
+348,2005,Bundestagswahl,81800,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,925,261,441,11,433,81,133,93,44,71,4,0,0,7,8
+349,2005,Bundestagswahl,81900,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,979,299,491,19,488,111,158,76,52,79,10,0,0,2,3
+350,2005,Bundestagswahl,82000,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,894,894,892,250,284,156,84,96,9,0,0,13,2
+351,2005,Bundestagswahl,82100,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1020,199,505,11,494,100,153,131,32,54,16,0,0,8,11
+352,2005,Bundestagswahl,82200,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,891,257,444,12,438,99,123,82,29,78,21,0,0,6,6
+353,2005,Bundestagswahl,82300,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,794,240,428,8,420,75,147,82,36,69,5,0,0,6,8
+354,2005,Bundestagswahl,82400,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1007,311,438,13,438,104,128,63,43,88,8,0,0,4,0
+355,2005,Bundestagswahl,83001,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,989,989,974,313,286,146,85,110,16,0,0,18,15
+356,2005,Bundestagswahl,83002,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,784,784,782,245,242,169,41,61,18,0,0,6,2
+357,2005,Bundestagswahl,83100,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,880,263,441,3,436,91,121,59,39,108,9,0,0,9,5
+358,2005,Bundestagswahl,83200,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,778,178,412,10,406,75,127,92,23,74,14,0,0,1,6
+359,2005,Bundestagswahl,83300,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1173,264,622,13,617,108,188,141,28,120,24,0,0,8,5
+360,2005,Bundestagswahl,83400,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,725,214,389,7,386,84,102,86,25,74,8,0,0,7,3
+361,2005,Bundestagswahl,83500,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1184,234,569,12,552,109,150,150,28,82,19,0,0,14,17
+362,2005,Bundestagswahl,83600,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,912,254,492,18,486,111,133,113,28,83,10,0,0,8,6
+363,2005,Bundestagswahl,83700,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1018,271,545,13,539,111,163,130,32,87,9,0,0,7,6
+364,2005,Bundestagswahl,83800,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1057,325,533,23,528,116,137,117,31,107,16,0,0,4,5
+365,2005,Bundestagswahl,84000,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,660,660,660,201,196,116,44,85,14,0,0,4,0
+366,2005,Bundestagswahl,84001,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,663,663,648,195,197,111,53,78,10,0,0,4,15
+367,2005,Bundestagswahl,84100,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1324,273,788,29,774,150,187,196,47,149,25,0,0,20,14
+368,2005,Bundestagswahl,84200,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,982,181,566,14,560,116,162,140,25,94,16,0,0,7,6
+369,2005,Bundestagswahl,84300,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1337,321,705,14,699,156,202,155,23,120,24,0,0,19,6
+370,2005,Bundestagswahl,84400,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,549,120,298,7,294,76,73,40,17,72,11,0,0,5,4
+371,2005,Bundestagswahl,84501,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1168,318,647,25,642,154,163,95,58,152,18,0,0,2,5
+372,2005,Bundestagswahl,84502,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1059,292,545,10,543,126,118,111,32,134,15,0,0,7,2
+373,2005,Bundestagswahl,85000,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,801,801,798,284,204,132,68,89,11,0,0,10,3
+374,2005,Bundestagswahl,85100,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1400,363,709,27,704,169,202,117,41,147,20,0,0,8,5
+375,2005,Bundestagswahl,85200,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1405,296,813,21,804,190,182,132,55,206,24,0,0,15,9
+376,2005,Bundestagswahl,85301,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,830,145,463,13,457,106,116,89,24,100,16,0,0,6,6
+377,2005,Bundestagswahl,85302,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,852,122,489,5,486,115,118,82,22,125,17,0,0,7,3
+378,2005,Bundestagswahl,86001,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,679,679,679,212,214,67,101,73,4,0,0,8,0
+379,2005,Bundestagswahl,86002,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,675,675,672,207,215,78,97,68,4,0,0,3,3
+380,2005,Bundestagswahl,86003,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,657,657,652,190,196,88,92,72,5,0,0,9,5
+381,2005,Bundestagswahl,86100,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1154,285,592,16,587,131,165,86,72,114,13,0,0,6,5
+382,2005,Bundestagswahl,86200,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1136,326,628,17,625,171,169,110,71,93,8,0,0,3,3
+383,2005,Bundestagswahl,86300,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1352,365,696,12,690,152,186,160,66,104,9,0,0,13,6
+384,2005,Bundestagswahl,86400,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,922,265,528,23,522,120,159,66,55,101,15,0,0,6,6
+385,2005,Bundestagswahl,86500,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,802,226,398,6,392,81,108,64,47,75,11,0,0,6,6
+386,2005,Bundestagswahl,86600,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,835,240,444,8,442,74,132,64,70,90,10,0,0,2,2
+387,2005,Bundestagswahl,86700,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,724,246,360,13,357,65,85,62,39,91,10,0,0,5,3
+388,2005,Bundestagswahl,86800,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1101,336,539,19,536,99,155,76,67,122,9,0,0,8,3
+389,2005,Bundestagswahl,90010,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,742,742,733,247,185,154,57,57,17,0,0,16,9
+390,2005,Bundestagswahl,90111,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,683,60,435,0,425,121,110,104,22,30,25,0,0,13,10
+391,2005,Bundestagswahl,90112,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,828,104,538,1,529,202,100,75,39,66,39,0,0,8,9
+392,2005,Bundestagswahl,90210,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1153,228,749,0,740,270,158,112,46,103,37,0,0,14,9
+393,2005,Bundestagswahl,90310,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1393,144,969,1,950,363,188,158,56,108,53,0,0,24,19
+394,2005,Bundestagswahl,90410,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,340,46,231,0,230,74,51,39,20,30,13,0,0,3,1
+395,2005,Bundestagswahl,90510,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,300,28,215,0,213,92,32,35,9,21,16,0,0,8,2
+396,2005,Bundestagswahl,90610,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,786,126,538,2,531,200,110,86,30,70,25,0,0,10,7
+397,2005,Bundestagswahl,90710,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,420,41,289,0,285,143,43,37,9,36,14,0,0,3,4
+398,2005,Bundestagswahl,91000,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,997,997,990,289,247,209,62,111,44,0,0,28,7
+399,2005,Bundestagswahl,91101,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,783,82,470,0,458,120,112,80,26,70,38,0,0,12,12
+400,2005,Bundestagswahl,91102,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,998,130,605,0,602,180,140,114,44,75,40,0,0,9,3
+401,2005,Bundestagswahl,91200,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1506,209,934,0,920,258,217,153,79,110,78,0,0,25,14
+402,2005,Bundestagswahl,91300,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1339,165,804,1,786,168,221,146,73,98,56,0,0,24,18
+403,2005,Bundestagswahl,91400,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,942,145,583,0,573,156,152,148,17,57,28,0,0,15,10
+404,2005,Bundestagswahl,91501,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1079,143,646,1,635,160,160,128,38,82,50,0,0,17,11
+405,2005,Bundestagswahl,91502,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1068,172,590,0,584,151,134,137,44,74,26,0,0,18,6
+406,2005,Bundestagswahl,92000,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,713,713,711,155,197,150,99,75,23,0,0,12,2
+407,2005,Bundestagswahl,92100,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1032,150,488,0,473,112,116,100,44,49,40,0,0,12,15
+408,2005,Bundestagswahl,92200,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1148,178,652,0,645,138,173,125,54,108,35,0,0,12,7
+409,2005,Bundestagswahl,92300,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1272,170,763,3,754,175,197,170,78,97,24,0,0,13,9
+410,2005,Bundestagswahl,92400,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,784,109,480,0,475,106,110,121,33,60,33,0,0,12,5
+411,2005,Bundestagswahl,92500,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,936,131,522,0,512,118,124,113,43,69,30,0,0,15,10
+412,2005,Bundestagswahl,93000,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1021,1021,1017,223,329,184,119,111,21,0,0,30,4
+413,2005,Bundestagswahl,93101,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,864,120,512,2,507,131,124,103,41,57,43,0,0,8,5
+414,2005,Bundestagswahl,93102,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,910,143,479,0,477,97,147,93,56,44,28,0,0,12,2
+415,2005,Bundestagswahl,93200,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1273,198,713,0,705,159,186,142,56,112,32,0,0,18,8
+416,2005,Bundestagswahl,93300,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1369,265,746,1,736,202,170,156,78,83,32,0,0,15,10
+417,2005,Bundestagswahl,93400,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1481,163,954,0,935,240,275,163,94,108,32,0,0,23,19
+418,2005,Bundestagswahl,93500,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1163,181,682,0,674,173,181,163,40,69,26,0,0,22,8
+419,2005,Bundestagswahl,94000,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1062,1062,1056,351,250,230,93,90,19,0,0,23,6
+420,2005,Bundestagswahl,94101,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,769,100,438,1,423,99,105,93,32,62,21,0,0,11,15
+421,2005,Bundestagswahl,94102,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1002,93,661,1,650,185,159,151,34,75,31,0,0,15,11
+422,2005,Bundestagswahl,94200,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1230,183,776,3,768,211,195,144,68,110,28,0,0,12,8
+423,2005,Bundestagswahl,94400,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1102,213,704,0,700,241,170,113,52,86,17,0,0,21,4
+424,2005,Bundestagswahl,94501,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,966,191,662,1,656,223,146,98,76,79,18,0,0,16,6
+425,2005,Bundestagswahl,94502,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,915,135,653,0,643,213,156,127,53,57,28,0,0,9,10
+426,2005,Bundestagswahl,94600,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1331,193,880,1,874,233,198,172,81,132,39,0,0,19,6
+427,2005,Bundestagswahl,95000,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,734,734,726,177,200,193,53,50,28,0,0,25,8
+428,2005,Bundestagswahl,95100,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1004,52,534,0,502,101,127,116,23,42,70,0,0,23,32
+429,2005,Bundestagswahl,95200,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1236,133,633,0,614,123,130,197,30,52,52,0,0,30,19
+430,2005,Bundestagswahl,95300,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1025,127,564,1,548,106,137,174,22,41,36,0,0,32,16
+431,2005,Bundestagswahl,95400,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,962,108,544,0,527,123,162,160,17,26,21,0,0,18,17
+432,2005,Bundestagswahl,95500,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,836,91,532,0,522,115,139,140,27,41,34,0,0,26,10
+433,2005,Bundestagswahl,95600,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1129,154,709,0,696,200,150,166,41,87,28,0,0,24,13
+434,2005,Bundestagswahl,95700,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,865,94,500,0,487,121,107,133,19,45,43,0,0,19,13
+435,2005,Bundestagswahl,96000,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,563,563,558,125,167,165,28,36,24,0,0,13,5
+436,2005,Bundestagswahl,96100,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1492,226,863,0,846,201,220,240,42,80,31,0,0,32,17
+437,2005,Bundestagswahl,96300,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1159,141,693,0,683,146,181,174,34,66,53,0,0,29,10
+438,2005,Bundestagswahl,96500,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,741,66,405,2,395,110,93,108,16,31,27,0,0,10,10
+439,2005,Bundestagswahl,96600,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,575,73,341,0,332,75,85,93,11,26,24,0,0,18,9
+440,2005,Bundestagswahl,96700,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,992,89,578,1,567,132,120,172,25,60,38,0,0,20,11
+441,2005,Bundestagswahl,97000,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,578,578,571,131,163,150,29,32,46,0,0,20,7
+442,2005,Bundestagswahl,97100,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1026,104,579,0,565,102,146,164,35,67,28,0,0,23,14
+443,2005,Bundestagswahl,97200,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,673,93,401,0,397,105,84,93,21,39,35,0,0,20,4
+444,2005,Bundestagswahl,97300,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1366,145,844,0,832,166,227,208,40,110,60,0,0,21,12
+445,2005,Bundestagswahl,97500,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1488,174,768,0,751,167,182,222,40,63,57,0,0,20,17
+446,2005,Bundestagswahl,97700,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,761,88,494,0,490,117,121,133,21,52,26,0,0,20,4
+447,2005,Bundestagswahl,98000,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1262,1262,1252,460,279,233,85,129,33,0,0,33,10
+448,2005,Bundestagswahl,98100,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1378,155,961,1,944,329,189,156,65,121,68,0,0,16,17
+449,2005,Bundestagswahl,98200,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1433,224,918,1,899,305,203,151,68,111,39,0,0,22,19
+450,2005,Bundestagswahl,98300,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1300,227,863,3,843,261,208,162,51,97,42,0,0,22,20
+451,2005,Bundestagswahl,98401,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,789,124,513,0,500,141,134,102,24,54,25,0,0,20,13
+452,2005,Bundestagswahl,98402,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,868,147,500,1,494,133,122,94,26,65,37,0,0,17,6
+453,2005,Bundestagswahl,98500,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1322,244,871,1,861,312,188,148,55,107,37,0,0,14,10
+454,2005,Bundestagswahl,98600,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1295,190,884,0,869,294,192,159,63,111,35,0,0,15,15
+455,2005,Bundestagswahl,99010,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,453,453,450,147,111,82,38,52,9,0,0,11,3
+456,2005,Bundestagswahl,99110,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1379,202,996,0,979,396,195,154,49,128,40,0,0,17,17
+457,2005,Bundestagswahl,99310,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1200,149,842,0,835,285,201,160,43,101,31,0,0,14,7
+458,2005,Bundestagswahl,99810,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,904,117,677,5,668,260,173,101,21,90,17,0,0,6,9
