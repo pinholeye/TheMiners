@@ -9,11 +9,17 @@ The first data set was downloaded with the following link: https://offenedaten.f
 2. The Dresden dataset <br>
 The second data set was downloaded with the following link: https://opendata.dresden.de/DreiD/
 
-The merged data set: MergedDataFrankfurtDresden.csv
-The merged data set: MergedCataFrankfurtMünchenDresden.csv
+3. The München data set <br>
+The third data set was downloaded with the following link: https://www.muenchen.de/rathaus/Stadtinfos/Statistik/Wahlen/Bundestagswahl-2017/Zweitstimmen.html
 
-https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bundestagswahlen/2017
-https://www.muenchen.de/rathaus/Stadtinfos/Statistik/Wahlen/Bundestagswahl-2017/Zweitstimmen.html
+4. The Hamburg data set <br>
+The second data set was downloaded with the following link: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bundestagswahlen/2017
+
+
+For the Clustering the following dataset were used: <br>
+
+For the logistic regression the following datasets were used: Frankfurt2017Prozente.csv, Dresden2017Prozente.csv, München2017Prozente.csv, Hamburg2017Prozente.csv <br>
+
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
 1. Merging data sets: 
