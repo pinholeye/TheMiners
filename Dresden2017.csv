@@ -1,0 +1,480 @@
+,Jahr,Wahlart,Wahlbezirk,Stadtteil zus.,Stadtraum,Stadtbezirk mit zugeordneten Ortschaften,Wahl-Form,Wahlberechtigte,Wahlberechtigte mit WS,W_hler,W_hler mit WS,Stimmen gôltig,Stimmen CDU,Stimmen SPD,Stimmen Die Linke,Stimmen Grône,Stimmen FDP,Stimmen Rechte Parteien,Stimmen AfD,Stimmen Piraten,Stimmen sonstiger Parteien,Stimmen ungôltig
+0,2017,Bundestagswahl,1000,01 Innere Altstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,411,411,410,110,51,81,44,51,1,51,0,21,1
+1,2017,Bundestagswahl,1100,01 Innere Altstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1328,422,642,0,637,134,73,141,44,100,1,108,0,36,5
+2,2017,Bundestagswahl,2001,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,694,694,690,213,85,125,45,63,3,94,4,58,4
+3,2017,Bundestagswahl,2002,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,424,424,422,110,67,87,33,40,2,49,3,31,2
+4,2017,Bundestagswahl,2100,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1433,346,691,0,684,130,84,173,62,40,8,124,8,55,7
+5,2017,Bundestagswahl,2200,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1775,453,828,3,814,184,76,173,60,64,7,170,12,68,14
+6,2017,Bundestagswahl,2400,02 Pirnaische Vorstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1422,369,655,1,647,189,85,106,28,53,2,158,3,23,8
+7,2017,Bundestagswahl,3001,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,596,596,596,151,74,110,56,75,1,83,4,42,0
+8,2017,Bundestagswahl,3002,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,809,809,806,260,82,131,59,88,4,132,13,37,3
+9,2017,Bundestagswahl,3100,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1259,282,596,2,587,132,77,101,33,66,4,125,1,48,9
+10,2017,Bundestagswahl,3200,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1258,332,643,2,636,140,79,130,26,56,3,150,12,40,7
+11,2017,Bundestagswahl,3300,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1126,272,606,1,599,175,79,99,30,63,3,116,4,30,7
+12,2017,Bundestagswahl,3400,03 Seevorstadt-Ost,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1932,569,965,4,954,234,121,147,58,93,2,243,5,51,11
+13,2017,Bundestagswahl,4001,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,1023,1023,1015,287,112,209,81,114,2,147,8,55,8
+14,2017,Bundestagswahl,4002,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,717,717,715,184,96,161,38,68,4,115,7,42,2
+15,2017,Bundestagswahl,4100,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1151,405,538,1,538,102,69,82,62,103,1,77,6,36,0
+16,2017,Bundestagswahl,4200,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1239,337,541,1,534,122,61,107,43,62,5,104,4,26,7
+17,2017,Bundestagswahl,4300,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1299,309,671,0,657,141,85,122,32,50,6,171,6,44,14
+18,2017,Bundestagswahl,4400,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1153,295,509,0,502,113,72,97,30,42,4,122,4,18,7
+19,2017,Bundestagswahl,4500,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1013,214,558,0,548,111,53,141,24,30,6,147,8,28,10
+20,2017,Bundestagswahl,4600,04 Wilsdruffer Vs./Seevs.-West,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,938,229,536,0,533,123,53,129,24,43,3,136,4,18,3
+21,2017,Bundestagswahl,5001,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,757,757,755,168,72,152,110,73,2,80,18,80,2
+22,2017,Bundestagswahl,5002,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,589,589,588,144,59,110,73,52,1,68,15,66,1
+23,2017,Bundestagswahl,5100,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1944,447,969,1,955,199,112,168,95,96,12,183,7,83,14
+24,2017,Bundestagswahl,5200,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1412,359,634,7,629,81,65,171,72,58,4,82,16,80,5
+25,2017,Bundestagswahl,5301,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1648,402,820,6,812,139,83,179,123,89,0,118,8,73,8
+26,2017,Bundestagswahl,5302,05 Friedrichstadt,01 StB Altstadt ohne Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1083,218,511,3,507,68,51,113,34,42,5,123,12,59,4
+27,2017,Bundestagswahl,6001,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,517,517,513,134,52,121,34,48,4,82,6,32,4
+28,2017,Bundestagswahl,6002,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,850,850,845,186,107,196,126,78,3,77,6,66,5
+29,2017,Bundestagswahl,6003,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,848,848,846,220,97,160,110,89,1,113,2,54,2
+30,2017,Bundestagswahl,6100,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1032,180,671,0,666,166,71,139,21,52,5,171,4,37,5
+31,2017,Bundestagswahl,6200,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1129,234,574,3,566,104,71,129,57,29,4,140,3,29,8
+32,2017,Bundestagswahl,6300,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,828,127,412,1,408,74,54,91,8,30,5,117,5,24,4
+33,2017,Bundestagswahl,6400,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1170,275,640,1,634,147,82,126,56,41,2,141,5,34,6
+34,2017,Bundestagswahl,6500,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1772,603,961,3,957,195,128,196,128,87,3,147,11,62,4
+35,2017,Bundestagswahl,6600,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1478,373,692,1,679,148,88,137,61,59,1,133,9,43,13
+36,2017,Bundestagswahl,6800,06 Johannstadt-Nord,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1738,516,724,10,719,164,77,135,97,80,1,116,5,44,5
+37,2017,Bundestagswahl,7001,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,824,824,821,265,82,137,44,84,5,148,6,50,3
+38,2017,Bundestagswahl,7002,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,682,682,675,204,77,140,21,67,1,145,1,19,7
+39,2017,Bundestagswahl,7003,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Brief,0,0,829,829,822,213,94,190,49,79,1,144,5,47,7
+40,2017,Bundestagswahl,7100,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1170,288,638,0,629,175,84,139,25,44,4,128,5,25,9
+41,2017,Bundestagswahl,7200,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,940,226,544,0,532,145,53,100,17,44,1,146,3,23,12
+42,2017,Bundestagswahl,7300,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1240,331,655,1,644,187,75,110,25,63,9,138,3,34,11
+43,2017,Bundestagswahl,7401,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,966,206,569,0,564,137,52,101,17,49,5,178,3,22,5
+44,2017,Bundestagswahl,7402,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,648,172,290,0,280,81,42,53,6,23,0,68,1,6,10
+45,2017,Bundestagswahl,7500,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,1274,322,610,0,600,130,69,121,22,52,2,164,5,35,10
+46,2017,Bundestagswahl,7600,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,956,274,466,0,460,97,62,94,13,41,1,135,2,15,6
+47,2017,Bundestagswahl,7700,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,890,209,466,2,457,84,44,129,19,17,2,128,4,30,9
+48,2017,Bundestagswahl,7800,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,979,165,528,1,523,118,57,114,21,33,4,154,3,19,5
+49,2017,Bundestagswahl,7900,07 Johannstadt-Sôd,02 Johannstadt,StB 0 Altstadt,Wahlbezirk_Urne,971,212,528,0,517,151,52,97,11,45,2,137,0,22,11
+50,2017,Bundestagswahl,11001,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,959,959,956,127,93,281,251,64,1,48,16,75,3
+51,2017,Bundestagswahl,11002,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,832,832,829,128,99,220,168,73,1,33,14,93,3
+52,2017,Bundestagswahl,11003,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,1234,1234,1230,167,146,361,327,59,0,38,14,118,4
+53,2017,Bundestagswahl,11004,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,972,972,968,115,122,283,246,66,0,37,16,83,4
+54,2017,Bundestagswahl,11100,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1657,558,779,2,776,80,74,248,185,51,4,44,7,83,3
+55,2017,Bundestagswahl,11200,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1311,457,685,10,684,78,84,197,139,51,2,38,17,78,1
+56,2017,Bundestagswahl,11300,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1333,370,743,8,737,93,83,210,129,64,3,62,17,76,6
+57,2017,Bundestagswahl,11400,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1768,511,947,1,937,117,89,277,172,57,5,80,21,119,10
+58,2017,Bundestagswahl,11500,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1548,495,865,5,861,110,76,250,207,46,2,64,16,90,4
+59,2017,Bundestagswahl,11601,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1177,334,726,7,720,80,67,239,176,42,1,42,8,65,6
+60,2017,Bundestagswahl,11602,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1403,471,793,9,787,79,89,243,197,56,0,42,12,69,6
+61,2017,Bundestagswahl,11700,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1404,454,798,3,795,75,86,241,198,34,1,64,12,84,3
+62,2017,Bundestagswahl,11800,11 óu_ere Neustadt (Antonstadt),03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1577,562,792,7,789,84,88,251,164,41,4,56,10,91,3
+63,2017,Bundestagswahl,12001,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,585,585,582,143,62,123,129,44,2,41,7,31,3
+64,2017,Bundestagswahl,12002,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,1133,1133,1129,280,130,213,153,116,0,149,15,73,4
+65,2017,Bundestagswahl,12100,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,949,293,557,5,554,99,59,123,132,42,0,61,8,30,3
+66,2017,Bundestagswahl,12201,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1085,316,668,2,667,141,69,121,125,73,0,90,10,38,1
+67,2017,Bundestagswahl,12202,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1127,381,606,3,603,146,64,108,95,58,2,99,3,28,3
+68,2017,Bundestagswahl,12301,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1097,320,587,2,583,121,57,123,69,65,2,92,7,47,4
+69,2017,Bundestagswahl,12302,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,875,265,490,2,486,109,34,104,56,64,0,80,2,37,4
+70,2017,Bundestagswahl,12400,12 Radeberger Vorstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1362,210,724,1,709,119,56,181,47,49,11,176,11,59,15
+71,2017,Bundestagswahl,13001,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,779,779,772,181,90,190,94,73,4,86,8,46,7
+72,2017,Bundestagswahl,13002,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,945,945,942,258,101,169,190,91,1,71,9,52,3
+73,2017,Bundestagswahl,13100,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1351,454,686,5,682,135,81,128,100,79,1,94,12,52,4
+74,2017,Bundestagswahl,13200,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1194,364,569,2,561,142,76,129,21,36,2,118,7,30,8
+75,2017,Bundestagswahl,13300,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1333,389,728,8,724,111,79,184,120,72,7,74,9,68,4
+76,2017,Bundestagswahl,13400,13 Innere Neustadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1665,589,798,3,795,161,96,201,106,59,1,107,9,55,3
+77,2017,Bundestagswahl,14001,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Brief,0,0,1225,1225,1219,162,110,399,262,75,3,45,17,146,6
+78,2017,Bundestagswahl,14002,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Brief,0,0,603,603,601,76,65,172,148,25,0,38,11,66,2
+79,2017,Bundestagswahl,14003,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Brief,0,0,593,593,585,121,59,122,95,40,3,85,11,49,8
+80,2017,Bundestagswahl,14100,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,960,253,518,2,514,58,48,163,64,26,3,87,5,60,4
+81,2017,Bundestagswahl,14200,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1695,475,943,7,935,78,86,359,167,52,2,73,14,104,8
+82,2017,Bundestagswahl,14300,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1735,552,943,4,935,77,86,340,178,40,4,52,19,139,8
+83,2017,Bundestagswahl,14401,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1271,324,757,9,752,77,61,252,148,25,2,59,15,113,5
+84,2017,Bundestagswahl,14402,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1209,312,749,4,745,90,76,238,160,41,3,49,7,81,4
+85,2017,Bundestagswahl,14500,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1506,328,922,5,910,134,89,230,162,64,7,125,13,86,12
+86,2017,Bundestagswahl,14600,14 Leipziger Vorstadt,"04 Leipziger Vorstadt, Pieschen",StB 1 Neustadt,Wahlbezirk_Urne,1244,294,736,3,733,162,66,142,48,62,1,199,10,43,3
+87,2017,Bundestagswahl,15000,15 Albertstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Brief,0,0,602,602,598,143,53,102,85,87,5,86,2,35,4
+88,2017,Bundestagswahl,15100,15 Albertstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,1496,424,648,3,645,159,70,122,104,53,2,78,10,47,3
+89,2017,Bundestagswahl,15300,15 Albertstadt,03 StB Neustadt ohne Leipziger Vorstadt,StB 1 Neustadt,Wahlbezirk_Urne,855,205,496,3,493,105,53,95,67,36,9,89,3,36,3
+90,2017,Bundestagswahl,21001,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,903,903,900,182,77,212,156,69,4,91,7,102,3
+91,2017,Bundestagswahl,21002,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,930,930,924,178,76,225,145,84,4,104,9,99,6
+92,2017,Bundestagswahl,21100,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1248,306,678,1,672,89,55,201,107,49,3,80,9,79,6
+93,2017,Bundestagswahl,21200,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1323,274,728,2,722,105,67,185,74,60,6,146,17,62,6
+94,2017,Bundestagswahl,21301,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1644,364,904,4,893,171,94,180,108,71,7,154,15,93,11
+95,2017,Bundestagswahl,21302,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1550,326,856,5,850,116,91,193,119,55,7,156,18,95,6
+96,2017,Bundestagswahl,21400,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1482,352,762,0,750,125,78,177,99,37,4,143,12,75,12
+97,2017,Bundestagswahl,21500,21 Pieschen-Sôd,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1486,292,800,3,793,128,68,173,96,61,5,180,15,67,7
+98,2017,Bundestagswahl,22001,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,895,895,885,236,86,152,74,77,7,167,12,74,10
+99,2017,Bundestagswahl,22002,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,987,987,983,259,82,165,78,91,8,212,7,81,4
+100,2017,Bundestagswahl,22100,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1569,311,919,2,908,165,98,196,80,59,8,227,9,66,11
+101,2017,Bundestagswahl,22200,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1328,266,723,1,714,135,75,123,30,52,5,217,12,65,9
+102,2017,Bundestagswahl,22300,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1241,215,662,0,655,134,56,138,30,42,8,169,7,71,7
+103,2017,Bundestagswahl,22400,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,922,138,527,0,515,108,55,86,10,40,11,170,2,33,12
+104,2017,Bundestagswahl,22501,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1212,270,722,3,710,170,54,104,31,74,3,222,6,46,12
+105,2017,Bundestagswahl,22502,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1673,351,943,2,936,184,88,165,74,84,10,230,7,94,7
+106,2017,Bundestagswahl,22600,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1081,196,666,2,661,128,65,114,28,57,5,206,5,53,5
+107,2017,Bundestagswahl,22700,22 Mickten,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1085,213,666,2,653,130,62,108,19,56,2,233,7,36,13
+108,2017,Bundestagswahl,23000,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,816,816,813,276,57,106,38,86,8,187,5,50,3
+109,2017,Bundestagswahl,23100,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1109,226,611,0,605,121,47,92,36,62,7,197,2,41,6
+110,2017,Bundestagswahl,23200,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1237,243,636,1,631,96,55,116,40,59,8,201,5,51,5
+111,2017,Bundestagswahl,23300,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1056,213,662,4,657,202,44,66,33,61,4,212,0,35,5
+112,2017,Bundestagswahl,23400,23 Kaditz,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1077,161,691,1,674,147,75,94,18,62,11,226,4,37,17
+113,2017,Bundestagswahl,24001,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,1022,1022,1018,276,117,184,106,110,2,146,4,73,4
+114,2017,Bundestagswahl,24002,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Brief,0,0,796,796,793,242,96,134,63,58,4,151,2,43,3
+115,2017,Bundestagswahl,24100,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,951,174,583,5,578,126,62,111,39,45,1,144,5,45,5
+116,2017,Bundestagswahl,24200,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1161,298,733,4,730,161,86,151,75,79,2,131,1,44,3
+117,2017,Bundestagswahl,24300,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1039,282,625,6,616,149,63,115,63,48,1,129,4,44,9
+118,2017,Bundestagswahl,24400,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1322,302,801,1,798,177,84,148,75,83,8,177,2,44,3
+119,2017,Bundestagswahl,24500,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1543,333,911,2,899,204,97,171,37,74,4,255,5,52,12
+120,2017,Bundestagswahl,24700,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1082,203,628,0,622,151,54,120,39,42,5,169,2,40,6
+121,2017,Bundestagswahl,24800,24 Trachau,"05 Mickten, Kaditz, Trachau",StB 2 Pieschen,Wahlbezirk_Urne,1019,284,596,1,592,150,61,81,38,59,2,174,1,26,4
+122,2017,Bundestagswahl,25001,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,1084,1084,1078,288,115,204,105,99,8,149,12,98,6
+123,2017,Bundestagswahl,25002,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Brief,0,0,956,956,952,253,114,161,87,95,3,149,4,86,4
+124,2017,Bundestagswahl,25100,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1486,298,778,4,770,155,58,187,62,56,6,166,10,70,8
+125,2017,Bundestagswahl,25200,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1205,223,664,13,659,122,73,136,71,54,6,112,9,76,5
+126,2017,Bundestagswahl,25300,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1401,258,837,2,828,201,87,119,29,65,9,254,7,57,9
+127,2017,Bundestagswahl,25400,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1751,360,915,1,907,180,89,171,72,67,8,204,14,102,8
+128,2017,Bundestagswahl,25500,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1706,375,872,2,861,180,82,182,63,73,7,194,6,74,11
+129,2017,Bundestagswahl,25600,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,832,236,441,1,437,96,44,76,42,48,4,94,1,32,4
+130,2017,Bundestagswahl,25700,25 Pieschen-N/Trachenberge,"04 Leipziger Vorstadt, Pieschen",StB 2 Pieschen,Wahlbezirk_Urne,1562,392,826,0,817,175,82,163,64,76,2,217,3,35,9
+131,2017,Bundestagswahl,31001,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,786,786,783,215,82,150,43,76,2,176,0,39,3
+132,2017,Bundestagswahl,31002,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,846,846,843,260,66,114,90,109,3,149,6,46,3
+133,2017,Bundestagswahl,31003,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,684,684,681,211,59,113,40,66,6,146,0,40,3
+134,2017,Bundestagswahl,31100,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1586,338,957,5,949,265,80,141,82,98,5,226,4,48,8
+135,2017,Bundestagswahl,31200,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1379,282,754,2,746,167,93,125,38,66,3,220,2,32,8
+136,2017,Bundestagswahl,31300,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1048,194,655,2,647,151,48,131,24,59,8,188,4,34,8
+137,2017,Bundestagswahl,31400,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1303,346,814,3,805,202,70,104,61,113,7,197,5,46,9
+138,2017,Bundestagswahl,31500,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1099,244,729,7,722,175,76,97,70,83,1,182,5,33,7
+139,2017,Bundestagswahl,31601,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1186,287,741,1,741,178,77,98,69,110,2,152,4,51,0
+140,2017,Bundestagswahl,31602,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1045,261,692,2,686,201,57,87,62,81,5,153,2,38,6
+141,2017,Bundestagswahl,31701,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,935,174,505,2,495,114,38,104,24,55,7,130,6,17,10
+142,2017,Bundestagswahl,31702,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,929,148,611,1,606,137,63,116,25,50,2,184,8,21,5
+143,2017,Bundestagswahl,31800,31 Klotzsche,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,860,123,513,0,506,98,40,114,21,27,10,160,2,34,7
+144,2017,Bundestagswahl,32001,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,417,417,415,138,41,42,17,43,2,112,0,20,2
+145,2017,Bundestagswahl,32002,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,726,726,726,230,69,111,74,77,0,117,3,45,0
+146,2017,Bundestagswahl,32100,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1389,292,894,0,887,233,49,105,45,98,9,309,4,35,7
+147,2017,Bundestagswahl,32201,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,859,151,580,4,572,148,36,58,24,65,3,213,1,24,8
+148,2017,Bundestagswahl,32202,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,801,194,428,0,426,107,35,70,14,50,2,131,1,16,2
+149,2017,Bundestagswahl,32300,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,943,237,611,3,605,169,60,82,52,65,3,154,0,20,6
+150,2017,Bundestagswahl,32400,32 Hellerau/Wilschdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1140,317,711,0,703,160,75,118,85,63,2,165,4,31,8
+151,2017,Bundestagswahl,35010,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,902,902,902,279,68,141,54,105,5,196,2,52,0
+152,2017,Bundestagswahl,35110,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1298,308,813,2,811,222,76,96,52,109,10,213,8,25,2
+153,2017,Bundestagswahl,35310,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1099,206,748,1,746,220,58,91,49,60,1,236,8,23,2
+154,2017,Bundestagswahl,35410,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1208,208,822,3,812,181,70,97,55,105,8,249,6,41,10
+155,2017,Bundestagswahl,35510,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,976,199,615,2,603,178,44,59,26,72,4,203,1,16,12
+156,2017,Bundestagswahl,35610,35 Weixdorf,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,217,21,137,0,137,38,7,21,3,15,1,43,1,8,0
+157,2017,Bundestagswahl,36010,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Brief,0,0,735,735,731,213,75,104,72,96,3,126,5,37,4
+158,2017,Bundestagswahl,36110,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,973,182,662,2,658,179,68,69,37,63,4,204,2,32,4
+159,2017,Bundestagswahl,36210,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,1287,278,814,2,812,211,78,106,75,119,3,172,4,44,2
+160,2017,Bundestagswahl,36310,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,792,249,468,3,466,110,49,71,41,54,0,124,0,17,2
+161,2017,Bundestagswahl,36410,36 Langebrôck/Sch_nborn,06 StB Klotzsche und n_rdliche OS,StB 3 Klotzsche/n_rdliche Ortschaften,Wahlbezirk_Urne,385,54,290,1,286,66,19,40,15,25,3,101,2,15,4
+162,2017,Bundestagswahl,41001,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,750,750,748,220,67,101,108,125,0,100,0,27,2
+163,2017,Bundestagswahl,41002,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,654,654,652,209,58,78,68,123,1,94,1,20,2
+164,2017,Bundestagswahl,41100,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1329,433,748,0,745,167,63,106,97,122,0,157,1,32,3
+165,2017,Bundestagswahl,41200,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1207,346,721,5,713,229,73,99,80,87,1,114,3,27,8
+166,2017,Bundestagswahl,41300,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,818,297,446,0,443,114,43,42,64,77,0,86,1,16,3
+167,2017,Bundestagswahl,41400,41 Loschwitz/Wachwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1055,393,541,4,538,115,37,77,73,74,2,135,4,21,3
+168,2017,Bundestagswahl,42001,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,814,814,811,269,74,113,112,107,0,93,4,39,3
+169,2017,Bundestagswahl,42002,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,618,618,613,192,83,88,63,64,4,84,3,32,5
+170,2017,Bundestagswahl,42003,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,906,906,904,305,75,125,90,110,1,150,2,46,2
+171,2017,Bundestagswahl,42100,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1449,423,877,7,869,248,93,136,112,114,1,115,4,46,8
+172,2017,Bundestagswahl,42200,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1428,436,836,4,829,217,75,108,124,107,1,158,5,34,7
+173,2017,Bundestagswahl,42400,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1227,350,705,3,700,198,78,93,75,83,3,131,4,35,5
+174,2017,Bundestagswahl,42500,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1160,288,749,2,742,219,74,110,65,61,3,174,3,33,7
+175,2017,Bundestagswahl,42600,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1009,281,597,1,595,174,48,72,65,68,0,143,1,24,2
+176,2017,Bundestagswahl,42700,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1150,304,690,7,685,166,57,100,58,84,4,184,3,29,5
+177,2017,Bundestagswahl,42800,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,730,176,470,2,469,143,47,62,47,42,2,103,3,20,1
+178,2017,Bundestagswahl,42900,42 Bôhlau/Wei_er Hirsch,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,690,180,387,4,382,99,32,67,36,50,0,82,2,14,5
+179,2017,Bundestagswahl,43000,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,681,681,678,195,77,92,86,65,1,135,0,27,3
+180,2017,Bundestagswahl,43100,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,520,131,317,1,315,65,18,46,34,45,2,93,0,12,2
+181,2017,Bundestagswahl,43200,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1496,417,871,3,864,188,94,103,87,96,5,244,3,44,7
+182,2017,Bundestagswahl,43400,43 Hosterwitz/Pillnitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,743,172,462,6,455,106,46,69,29,37,5,142,2,19,7
+183,2017,Bundestagswahl,45010,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,920,920,918,311,78,123,60,103,6,178,7,52,2
+184,2017,Bundestagswahl,45110,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1022,212,689,0,687,201,75,84,43,82,1,174,2,25,2
+185,2017,Bundestagswahl,45210,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1067,201,631,1,623,174,66,64,18,51,5,217,4,24,8
+186,2017,Bundestagswahl,45310,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1129,197,589,1,584,143,62,85,24,50,4,175,3,38,5
+187,2017,Bundestagswahl,45410,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,820,185,520,2,511,142,42,57,32,64,8,148,2,16,9
+188,2017,Bundestagswahl,45510,45 Wei_ig,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,581,152,347,4,345,111,29,31,23,37,6,94,2,12,2
+189,2017,Bundestagswahl,46010,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,758,758,757,260,59,66,67,121,2,147,5,30,1
+190,2017,Bundestagswahl,46110,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,847,232,533,1,528,159,48,56,31,93,3,122,1,15,5
+191,2017,Bundestagswahl,46210,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,852,208,558,1,551,132,41,63,21,79,4,181,1,29,7
+192,2017,Bundestagswahl,46310,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,699,175,448,0,445,118,51,62,28,62,0,104,1,19,3
+193,2017,Bundestagswahl,46410,46 G_nnsdorf/Pappritz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,751,169,474,0,468,114,33,45,27,60,1,161,4,23,6
+194,2017,Bundestagswahl,47010,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Brief,0,0,539,539,539,165,32,64,35,76,2,131,1,33,0
+195,2017,Bundestagswahl,47110,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,994,210,598,1,592,180,45,60,34,63,9,178,1,22,6
+196,2017,Bundestagswahl,47210,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,1078,253,619,0,613,156,40,55,16,60,4,260,0,22,6
+197,2017,Bundestagswahl,47310,47 Sch_nfeld/Schullwitz,07 StB Loschwitz und OS Sch_nfeld-Wei_ig,StB 4 Loschwitz/OS Sch_nfeld-Wei_ig,Wahlbezirk_Urne,551,102,337,1,332,89,19,31,24,37,4,116,0,12,5
+198,2017,Bundestagswahl,51001,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,1172,1172,1171,384,130,169,111,165,2,164,0,46,1
+199,2017,Bundestagswahl,51002,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,1000,1000,998,323,115,158,115,105,2,127,3,50,2
+200,2017,Bundestagswahl,51100,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1360,440,763,10,760,218,73,106,74,102,3,145,4,35,3
+201,2017,Bundestagswahl,51200,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1566,446,860,7,848,266,97,105,83,118,8,136,7,28,12
+202,2017,Bundestagswahl,51400,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1136,337,670,3,663,188,61,86,65,94,1,131,3,34,7
+203,2017,Bundestagswahl,51500,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1231,351,720,2,718,156,79,116,103,87,2,133,4,38,2
+204,2017,Bundestagswahl,51600,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1193,298,797,0,790,212,82,117,90,96,1,154,1,37,7
+205,2017,Bundestagswahl,51700,51 Blasewitz,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1477,378,864,1,857,207,72,143,123,89,2,163,9,49,7
+206,2017,Bundestagswahl,52001,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,1264,1264,1260,380,138,173,178,144,8,162,7,70,4
+207,2017,Bundestagswahl,52002,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,799,799,797,219,87,107,159,99,0,75,6,45,2
+208,2017,Bundestagswahl,52003,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,998,998,994,296,85,147,175,108,1,100,6,76,4
+209,2017,Bundestagswahl,52100,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1135,357,695,2,690,169,79,89,150,89,0,82,2,30,5
+210,2017,Bundestagswahl,52200,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1334,369,845,5,841,198,92,134,145,105,2,118,6,41,4
+211,2017,Bundestagswahl,52300,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1488,463,880,5,876,219,99,153,170,78,1,121,5,30,4
+212,2017,Bundestagswahl,52400,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1394,402,862,2,861,235,90,127,118,106,4,126,3,52,1
+213,2017,Bundestagswahl,52501,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1465,428,878,1,873,201,107,111,117,119,1,162,5,50,5
+214,2017,Bundestagswahl,52502,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,898,262,541,0,540,135,53,74,87,78,0,85,4,24,1
+215,2017,Bundestagswahl,52600,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1232,333,733,4,732,181,74,105,96,76,1,144,6,49,1
+216,2017,Bundestagswahl,52701,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1070,230,568,3,554,147,64,98,53,59,2,105,3,23,14
+217,2017,Bundestagswahl,52702,52 Striesen-Ost,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1272,321,691,1,685,187,77,87,51,76,5,167,3,32,6
+218,2017,Bundestagswahl,53001,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,1090,1090,1088,299,140,183,106,117,5,165,2,71,2
+219,2017,Bundestagswahl,53002,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,767,767,761,224,113,132,54,75,3,130,2,28,6
+220,2017,Bundestagswahl,53003,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,515,515,513,145,63,90,45,45,1,84,3,37,2
+221,2017,Bundestagswahl,53100,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1089,339,668,6,663,181,79,101,80,80,3,108,2,29,5
+222,2017,Bundestagswahl,53200,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,976,279,507,1,504,109,56,95,59,50,5,100,4,26,3
+223,2017,Bundestagswahl,53300,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1784,526,844,4,833,156,72,192,57,89,2,209,10,46,11
+224,2017,Bundestagswahl,53400,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1395,343,808,1,798,192,116,139,32,69,4,215,2,29,10
+225,2017,Bundestagswahl,53600,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1381,462,679,1,673,161,78,111,47,82,4,157,3,30,6
+226,2017,Bundestagswahl,53700,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1200,295,625,6,620,118,56,105,43,64,6,185,1,42,5
+227,2017,Bundestagswahl,53800,53 Striesen-Sôd,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1042,247,574,3,566,127,53,113,50,60,1,120,7,35,8
+228,2017,Bundestagswahl,54001,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,876,876,874,296,100,139,89,88,4,103,5,50,2
+229,2017,Bundestagswahl,54002,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,1054,1054,1047,290,122,168,95,125,2,168,12,65,7
+230,2017,Bundestagswahl,54003,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,794,794,792,238,82,133,79,86,3,122,6,43,2
+231,2017,Bundestagswahl,54100,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1716,485,963,3,950,230,129,156,96,96,1,178,14,50,13
+232,2017,Bundestagswahl,54200,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1286,327,756,3,747,152,79,131,102,92,7,121,11,52,9
+233,2017,Bundestagswahl,54300,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1341,361,729,0,712,171,104,121,35,75,3,161,5,37,17
+234,2017,Bundestagswahl,54400,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1502,419,853,2,843,228,86,127,47,93,7,205,2,48,10
+235,2017,Bundestagswahl,54501,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1497,404,884,4,878,253,98,122,67,97,4,186,5,46,6
+236,2017,Bundestagswahl,54502,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1573,389,963,0,956,258,110,135,73,126,5,190,6,53,7
+237,2017,Bundestagswahl,54600,54 Striesen-West,"08 Blasewitz, Striesen",StB 5 Blasewitz,Wahlbezirk_Urne,1640,422,906,0,884,206,107,161,72,76,8,206,4,44,22
+238,2017,Bundestagswahl,55001,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,935,935,931,271,97,168,64,75,2,189,5,60,4
+239,2017,Bundestagswahl,55002,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,978,978,974,241,135,166,60,101,5,203,6,57,4
+240,2017,Bundestagswahl,55101,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1128,275,650,6,648,147,53,97,52,62,8,182,4,43,2
+241,2017,Bundestagswahl,55102,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1117,262,698,1,693,134,62,126,78,65,5,183,4,36,5
+242,2017,Bundestagswahl,55200,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1053,278,593,3,587,131,64,97,33,51,8,166,3,34,6
+243,2017,Bundestagswahl,55300,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1581,383,867,3,855,219,90,129,30,81,13,252,0,41,12
+244,2017,Bundestagswahl,55400,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1065,173,577,0,566,112,61,104,6,34,5,209,6,29,11
+245,2017,Bundestagswahl,55600,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1671,341,888,1,877,187,91,145,42,108,11,236,13,44,11
+246,2017,Bundestagswahl,55800,55 Tolkewitz/Seidnitz-Nord,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1455,301,806,3,795,184,82,119,40,90,9,221,6,44,11
+247,2017,Bundestagswahl,56001,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,1166,1166,1158,336,114,196,49,121,8,260,8,66,8
+248,2017,Bundestagswahl,56002,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,989,989,984,265,96,183,58,95,7,213,8,59,5
+249,2017,Bundestagswahl,56100,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1548,387,800,3,791,148,86,121,30,90,13,254,5,44,9
+250,2017,Bundestagswahl,56200,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,858,118,466,0,454,76,52,74,11,42,6,157,5,31,12
+251,2017,Bundestagswahl,56300,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1334,242,797,1,787,182,80,137,37,70,12,226,1,42,10
+252,2017,Bundestagswahl,56401,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,738,170,430,2,425,80,33,58,28,53,4,144,4,21,5
+253,2017,Bundestagswahl,56402,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1525,297,940,0,931,212,87,149,42,90,7,297,5,42,9
+254,2017,Bundestagswahl,56501,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,876,156,502,0,493,112,32,91,24,38,7,164,3,22,9
+255,2017,Bundestagswahl,56502,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1427,271,866,2,847,197,85,125,33,87,9,264,3,44,19
+256,2017,Bundestagswahl,56600,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,989,225,496,0,489,115,41,62,21,50,4,162,2,32,7
+257,2017,Bundestagswahl,56800,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,853,171,494,2,490,118,57,95,19,28,6,142,3,22,4
+258,2017,Bundestagswahl,56900,56 Seidnitz/Dobritz,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,995,201,564,0,560,123,58,128,14,40,4,152,5,36,4
+259,2017,Bundestagswahl,57001,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,973,973,972,269,107,195,89,80,6,155,8,63,1
+260,2017,Bundestagswahl,57002,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,832,832,827,271,103,140,59,83,2,132,2,35,5
+261,2017,Bundestagswahl,57003,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Brief,0,0,927,927,923,273,76,155,84,109,7,157,5,57,4
+262,2017,Bundestagswahl,57100,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1340,357,636,0,622,159,31,123,46,58,2,161,9,33,14
+263,2017,Bundestagswahl,57200,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1539,393,852,5,847,165,95,173,72,75,7,202,2,56,5
+264,2017,Bundestagswahl,57301,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,909,182,563,1,560,130,62,91,34,60,4,149,9,21,3
+265,2017,Bundestagswahl,57302,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,767,197,485,2,478,91,54,96,27,63,3,125,0,19,7
+266,2017,Bundestagswahl,57400,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1234,260,754,0,745,162,77,135,60,55,3,208,8,37,9
+267,2017,Bundestagswahl,57500,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1287,351,686,0,678,127,60,164,41,56,5,182,4,39,8
+268,2017,Bundestagswahl,57600,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1289,288,720,3,714,153,81,135,35,78,3,184,3,42,6
+269,2017,Bundestagswahl,57700,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,927,321,466,3,464,101,43,76,51,38,2,122,2,29,2
+270,2017,Bundestagswahl,57800,57 Gruna,"09 Tolkewitz, Seidnitz, Gruna",StB 5 Blasewitz,Wahlbezirk_Urne,1397,476,703,0,698,188,65,104,49,94,1,167,3,27,5
+271,2017,Bundestagswahl,61001,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,911,911,896,255,86,147,34,87,2,224,5,56,15
+272,2017,Bundestagswahl,61002,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,665,665,661,192,58,129,22,41,22,156,5,36,4
+273,2017,Bundestagswahl,61100,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,926,146,546,0,536,150,66,101,16,47,3,128,2,23,10
+274,2017,Bundestagswahl,61200,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1043,198,621,2,617,166,39,69,38,59,11,195,6,34,4
+275,2017,Bundestagswahl,61300,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1628,249,920,2,904,237,75,171,35,82,7,254,8,35,16
+276,2017,Bundestagswahl,61400,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,997,125,592,2,589,123,58,68,31,46,13,211,3,36,3
+277,2017,Bundestagswahl,61500,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1276,217,719,0,710,169,76,128,27,59,13,210,4,24,9
+278,2017,Bundestagswahl,61600,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1058,189,594,4,577,126,55,119,25,52,7,163,3,27,17
+279,2017,Bundestagswahl,61700,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1056,175,524,1,517,88,64,97,15,35,10,181,1,26,7
+280,2017,Bundestagswahl,61800,61 Leuben,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1819,325,872,1,856,137,93,164,25,54,22,296,10,55,16
+281,2017,Bundestagswahl,62001,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,542,542,537,159,50,106,31,54,6,98,1,32,5
+282,2017,Bundestagswahl,62002,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,697,697,691,200,76,109,71,81,5,113,4,32,6
+283,2017,Bundestagswahl,62003,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,898,898,895,245,93,130,59,105,3,206,3,51,3
+284,2017,Bundestagswahl,62101,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,705,134,435,0,431,81,43,75,26,52,3,123,2,26,4
+285,2017,Bundestagswahl,62102,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,966,215,596,2,594,141,51,76,37,91,4,158,6,30,2
+286,2017,Bundestagswahl,62200,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1178,214,753,2,740,166,66,123,35,67,9,246,4,24,13
+287,2017,Bundestagswahl,62301,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,947,167,579,2,575,127,53,88,24,63,6,187,1,26,4
+288,2017,Bundestagswahl,62302,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1041,234,634,0,626,188,56,84,23,73,5,180,1,16,8
+289,2017,Bundestagswahl,62400,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1351,319,812,3,804,168,73,122,82,81,7,229,5,37,8
+290,2017,Bundestagswahl,62501,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1264,292,780,3,774,192,66,103,35,99,2,247,2,28,6
+291,2017,Bundestagswahl,62502,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1160,294,669,3,662,130,56,112,25,69,9,230,0,31,7
+292,2017,Bundestagswahl,62600,62 Laubegast,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1528,341,956,3,950,189,93,155,69,58,10,345,7,24,6
+293,2017,Bundestagswahl,63001,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,962,962,954,321,82,102,100,142,3,175,1,28,8
+294,2017,Bundestagswahl,63002,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,631,631,629,196,55,99,36,58,3,144,3,35,2
+295,2017,Bundestagswahl,63101,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,951,233,558,1,549,143,41,76,36,82,6,146,2,17,9
+296,2017,Bundestagswahl,63102,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,952,268,564,1,562,139,42,69,40,52,2,188,1,29,2
+297,2017,Bundestagswahl,63200,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,987,227,639,3,633,174,46,70,65,75,5,176,3,19,6
+298,2017,Bundestagswahl,63301,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1214,265,784,0,779,202,61,91,56,85,3,246,3,32,5
+299,2017,Bundestagswahl,63302,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,891,161,627,0,622,150,46,66,37,71,4,210,3,35,5
+300,2017,Bundestagswahl,63401,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,952,274,575,2,572,175,45,59,31,74,1,173,1,13,3
+301,2017,Bundestagswahl,63402,63 Kleinzschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1064,222,710,1,706,168,60,78,25,95,3,246,1,30,4
+302,2017,Bundestagswahl,64000,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Brief,0,0,804,804,796,196,77,136,39,93,7,189,7,52,8
+303,2017,Bundestagswahl,64100,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1147,164,705,0,693,161,40,82,33,85,7,240,3,42,12
+304,2017,Bundestagswahl,64200,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,901,161,519,0,511,88,61,81,11,37,8,196,8,21,8
+305,2017,Bundestagswahl,64300,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,862,126,523,2,516,100,56,86,19,42,11,182,4,16,7
+306,2017,Bundestagswahl,64400,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,934,154,568,0,562,120,56,113,30,33,3,172,7,28,6
+307,2017,Bundestagswahl,64500,64 Gro_zschachwitz,10 StB Leuben,StB 6 Leuben,Wahlbezirk_Urne,1337,238,763,1,749,211,67,101,42,54,13,227,8,26,14
+308,2017,Bundestagswahl,71000,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,685,685,677,171,69,123,29,58,13,164,5,45,8
+309,2017,Bundestagswahl,71100,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,934,162,591,0,585,151,50,96,19,50,10,176,4,29,6
+310,2017,Bundestagswahl,71200,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1616,234,814,1,788,153,78,142,18,42,17,293,6,39,26
+311,2017,Bundestagswahl,71400,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,970,135,536,0,531,104,57,112,8,23,9,190,0,28,5
+312,2017,Bundestagswahl,71500,71 Prohlis-Nord,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1141,188,542,0,530,123,53,90,6,26,14,186,4,28,12
+313,2017,Bundestagswahl,72000,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,810,810,802,202,87,179,25,59,12,191,4,43,8
+314,2017,Bundestagswahl,72100,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1082,99,531,0,521,110,58,105,10,21,13,183,6,15,10
+315,2017,Bundestagswahl,72200,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,954,102,407,0,400,56,48,87,10,21,19,149,0,10,7
+316,2017,Bundestagswahl,72300,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1385,166,661,0,640,106,68,116,17,35,15,246,8,29,21
+317,2017,Bundestagswahl,72500,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1378,193,688,1,675,149,67,96,10,47,21,259,3,23,13
+318,2017,Bundestagswahl,72700,72 Prohlis-Sôd,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1804,283,824,1,808,150,69,197,27,50,15,252,5,43,16
+319,2017,Bundestagswahl,73000,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,996,996,995,292,96,147,53,125,3,226,9,44,1
+320,2017,Bundestagswahl,73101,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1219,243,812,1,805,176,61,105,32,121,11,256,1,42,7
+321,2017,Bundestagswahl,73102,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1481,327,943,3,932,196,77,152,33,104,15,299,8,48,11
+322,2017,Bundestagswahl,73200,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1104,242,696,4,689,159,65,73,36,90,10,228,3,25,7
+323,2017,Bundestagswahl,73300,73 Niedersedlitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,892,221,542,1,540,122,44,76,17,53,2,211,1,14,2
+324,2017,Bundestagswahl,74000,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,1069,1069,1058,347,104,160,64,127,9,208,5,34,11
+325,2017,Bundestagswahl,74100,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,715,121,441,0,434,97,30,41,15,58,7,173,4,9,7
+326,2017,Bundestagswahl,74201,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1196,274,791,4,782,199,63,94,34,92,6,266,4,24,9
+327,2017,Bundestagswahl,74202,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,832,149,566,0,559,151,50,55,32,65,5,177,1,23,7
+328,2017,Bundestagswahl,74301,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1378,290,884,0,870,220,71,102,46,100,9,276,2,44,14
+329,2017,Bundestagswahl,74302,74 Lockwitz,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1220,265,783,1,775,188,52,109,33,96,5,249,3,40,8
+330,2017,Bundestagswahl,75001,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,856,856,853,269,74,123,59,94,5,174,2,53,3
+331,2017,Bundestagswahl,75002,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,873,873,865,241,114,142,81,80,4,155,2,46,8
+332,2017,Bundestagswahl,75003,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,1076,1076,1074,289,114,183,75,130,5,209,5,64,2
+333,2017,Bundestagswahl,75100,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1051,262,654,2,654,150,63,122,23,84,5,186,3,18,0
+334,2017,Bundestagswahl,75201,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1025,297,629,2,618,180,61,88,47,76,0,146,0,20,11
+335,2017,Bundestagswahl,75202,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1252,317,707,0,695,197,70,95,33,76,3,200,3,18,12
+336,2017,Bundestagswahl,75300,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,834,100,323,1,319,45,38,76,11,9,6,121,1,12,4
+337,2017,Bundestagswahl,75500,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1032,259,647,1,644,161,53,78,57,70,4,171,0,50,3
+338,2017,Bundestagswahl,75600,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1110,288,638,2,634,124,70,97,32,78,8,196,0,29,4
+339,2017,Bundestagswahl,75700,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1224,258,712,0,702,158,71,119,36,45,12,218,4,39,10
+340,2017,Bundestagswahl,75800,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1348,299,775,4,762,187,76,147,27,67,4,206,7,41,13
+341,2017,Bundestagswahl,75901,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,753,234,422,3,416,106,44,64,22,58,0,99,3,20,6
+342,2017,Bundestagswahl,75902,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,985,310,550,1,545,136,53,75,49,72,6,125,5,24,5
+343,2017,Bundestagswahl,75903,75 Leubnitz-Neuostra,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,924,277,515,2,509,108,49,63,32,80,5,148,1,23,6
+344,2017,Bundestagswahl,76001,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,1022,1022,1018,224,118,139,189,124,1,129,9,85,4
+345,2017,Bundestagswahl,76011,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,233,233,231,63,29,38,19,24,0,43,2,14,2
+346,2017,Bundestagswahl,76012,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,618,618,613,167,76,100,51,62,1,115,4,36,5
+347,2017,Bundestagswahl,76100,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1350,443,693,2,690,165,86,130,82,88,1,88,2,48,3
+348,2017,Bundestagswahl,76200,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1308,333,765,4,761,196,52,144,90,83,6,139,7,44,4
+349,2017,Bundestagswahl,76300,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1153,305,670,3,668,116,86,144,107,44,7,114,7,43,2
+350,2017,Bundestagswahl,76400,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,542,153,291,2,288,69,44,60,12,31,0,62,2,8,3
+351,2017,Bundestagswahl,76500,76 Strehlen,"12 Niedersedlitz, Leubnitz, Strehlen (ohne Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1507,443,790,2,785,194,69,144,58,83,12,178,11,36,5
+352,2017,Bundestagswahl,76600,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1172,209,562,1,554,97,37,133,24,45,9,179,3,27,8
+353,2017,Bundestagswahl,76700,76 Strehlen,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1019,82,397,5,390,41,41,82,18,14,17,144,5,28,7
+354,2017,Bundestagswahl,77000,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Brief,0,0,836,836,826,229,86,160,23,84,3,181,3,57,10
+355,2017,Bundestagswahl,77100,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1357,307,723,0,715,129,75,109,21,73,7,253,3,45,8
+356,2017,Bundestagswahl,77200,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1670,412,868,0,860,209,97,129,33,94,7,249,6,36,8
+357,2017,Bundestagswahl,77300,77 Reick,"11 Prohlis, Reick (mit Sternh_user, Am Koitschgraben)",StB 7 Prohlis,Wahlbezirk_Urne,1121,148,536,0,528,89,65,77,25,30,17,192,2,31,8
+358,2017,Bundestagswahl,81001,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,920,920,916,214,104,198,113,84,4,120,9,70,4
+359,2017,Bundestagswahl,81002,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,734,734,732,172,69,146,93,103,1,72,7,69,2
+360,2017,Bundestagswahl,81003,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,993,993,990,236,129,168,127,117,1,122,9,81,3
+361,2017,Bundestagswahl,81100,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,897,186,461,5,456,75,51,86,32,36,3,142,2,29,5
+362,2017,Bundestagswahl,81200,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1708,442,915,2,894,225,108,201,60,81,2,173,7,37,21
+363,2017,Bundestagswahl,81400,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1577,486,764,1,759,152,91,142,66,81,6,165,1,55,5
+364,2017,Bundestagswahl,81500,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1162,329,620,2,613,112,59,136,61,60,2,136,6,41,7
+365,2017,Bundestagswahl,81700,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1768,641,854,11,848,162,86,156,107,109,3,165,15,45,6
+366,2017,Bundestagswahl,81800,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1024,289,560,1,553,127,70,89,67,60,2,100,6,32,7
+367,2017,Bundestagswahl,81900,81 Sôdvorstadt-West,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1097,396,516,3,511,120,64,109,67,33,5,92,4,17,5
+368,2017,Bundestagswahl,82001,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,917,917,916,201,123,166,110,117,5,113,9,72,1
+369,2017,Bundestagswahl,82002,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,790,790,789,193,98,126,120,116,2,61,11,62,1
+370,2017,Bundestagswahl,82100,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,830,218,404,1,402,66,46,106,31,40,3,61,8,41,2
+371,2017,Bundestagswahl,82200,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1184,361,599,1,590,114,78,104,44,66,2,138,10,34,9
+372,2017,Bundestagswahl,82300,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1169,376,572,0,570,128,66,103,62,78,0,101,4,28,2
+373,2017,Bundestagswahl,82400,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1345,401,744,6,738,133,78,127,72,109,1,156,5,57,6
+374,2017,Bundestagswahl,82500,82 Sôdvorstadt-Ost,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1021,462,388,7,388,52,53,87,51,71,0,22,7,45,0
+375,2017,Bundestagswahl,83001,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,931,931,924,267,103,149,83,109,0,152,7,54,7
+376,2017,Bundestagswahl,83002,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Brief,0,0,1118,1118,1109,324,132,201,62,107,11,202,6,64,9
+377,2017,Bundestagswahl,83100,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1049,327,581,1,577,127,63,87,62,73,2,120,9,34,4
+378,2017,Bundestagswahl,83200,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,822,189,461,0,453,90,51,83,20,43,2,139,5,20,8
+379,2017,Bundestagswahl,83300,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1199,350,645,0,642,141,55,133,21,53,12,188,6,33,3
+380,2017,Bundestagswahl,83400,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1466,412,839,0,831,186,96,151,33,76,5,248,2,34,8
+381,2017,Bundestagswahl,83500,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1087,225,571,1,564,100,61,124,41,50,7,143,5,33,7
+382,2017,Bundestagswahl,83700,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,972,253,559,0,552,143,70,103,28,34,2,151,4,17,7
+383,2017,Bundestagswahl,83800,83 R_cknitz/Zschertnitz,"13 Sôdvorstadt, Zschertnitz",StB 8 Plauen,Wahlbezirk_Urne,1122,350,596,0,585,141,56,117,46,47,2,145,2,29,11
+384,2017,Bundestagswahl,84001,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,690,690,689,163,75,136,25,65,2,171,2,50,1
+385,2017,Bundestagswahl,84002,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,762,762,760,249,68,113,66,74,4,142,1,43,2
+386,2017,Bundestagswahl,84100,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1251,264,741,0,728,178,73,120,24,63,0,238,2,30,13
+387,2017,Bundestagswahl,84200,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,891,191,514,1,505,94,61,102,22,35,2,156,6,27,9
+388,2017,Bundestagswahl,84300,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1150,261,670,2,664,146,80,117,25,53,0,208,4,31,6
+389,2017,Bundestagswahl,84400,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,562,128,341,0,340,93,17,37,25,50,2,99,1,16,1
+390,2017,Bundestagswahl,84501,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1281,317,834,1,829,227,90,110,62,82,1,220,2,35,5
+391,2017,Bundestagswahl,84502,84 Kleinpestitz/Mockritz,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1052,341,553,0,543,143,50,56,35,59,2,170,4,24,10
+392,2017,Bundestagswahl,85000,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,1157,1157,1151,339,139,155,98,117,6,218,5,74,6
+393,2017,Bundestagswahl,85100,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1405,427,704,2,701,151,70,125,36,81,6,193,3,36,3
+394,2017,Bundestagswahl,85200,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1429,445,771,0,762,220,65,81,63,101,3,185,6,38,9
+395,2017,Bundestagswahl,85301,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,880,174,559,0,557,124,45,75,37,51,3,184,2,36,2
+396,2017,Bundestagswahl,85302,85 Coschôtz/Gittersee,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,908,155,567,0,559,124,39,74,27,68,7,199,4,17,8
+397,2017,Bundestagswahl,86001,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,792,792,787,200,106,117,116,89,2,94,8,55,5
+398,2017,Bundestagswahl,86002,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,974,974,967,223,123,173,157,125,3,82,5,76,7
+399,2017,Bundestagswahl,86003,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Brief,0,0,842,842,839,228,104,122,127,100,1,112,1,44,3
+400,2017,Bundestagswahl,86100,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1442,428,815,1,810,170,109,128,84,101,3,146,4,65,5
+401,2017,Bundestagswahl,86200,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1155,388,638,1,632,166,64,105,82,68,3,110,3,31,6
+402,2017,Bundestagswahl,86300,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1258,374,690,3,685,122,70,141,70,79,2,143,2,56,5
+403,2017,Bundestagswahl,86400,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,968,272,602,1,600,140,85,113,70,55,4,101,2,30,2
+404,2017,Bundestagswahl,86500,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1219,362,683,5,678,146,75,142,93,59,4,96,8,55,5
+405,2017,Bundestagswahl,86600,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1112,285,629,6,625,150,69,96,77,84,1,107,6,35,4
+406,2017,Bundestagswahl,86700,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,700,229,424,0,421,113,50,68,58,38,1,72,0,21,3
+407,2017,Bundestagswahl,86800,86 Plauen,"14 Mockritz, Coschôtz, Plauen",StB 8 Plauen,Wahlbezirk_Urne,1132,364,600,0,596,157,97,81,67,60,0,112,0,22,4
+408,2017,Bundestagswahl,90010,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1191,1191,1188,337,95,165,80,132,13,283,7,76,3
+409,2017,Bundestagswahl,90110,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1547,256,928,0,918,219,84,124,33,79,16,309,5,49,10
+410,2017,Bundestagswahl,90210,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1187,327,687,0,684,170,62,65,33,86,2,226,8,32,3
+411,2017,Bundestagswahl,90311,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,622,120,408,0,402,90,29,47,25,52,1,142,0,16,6
+412,2017,Bundestagswahl,90312,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,924,175,578,0,572,153,54,71,26,56,6,186,0,20,6
+413,2017,Bundestagswahl,90410,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,339,64,215,0,214,65,17,30,14,18,1,62,2,5,1
+414,2017,Bundestagswahl,90510,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,332,40,225,0,224,53,21,30,8,16,3,82,4,7,1
+415,2017,Bundestagswahl,90610,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,782,178,509,0,506,131,46,47,27,53,2,180,0,20,3
+416,2017,Bundestagswahl,90710,90 Cossebaude/Mobschatz/Oberw.,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,394,62,279,0,277,91,15,27,11,24,2,105,0,2,2
+417,2017,Bundestagswahl,91001,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1118,1118,1109,310,124,194,86,100,9,189,9,88,9
+418,2017,Bundestagswahl,91002,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,799,799,795,226,87,129,61,75,6,132,14,65,4
+419,2017,Bundestagswahl,91101,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1006,182,623,0,620,108,65,86,51,57,6,192,3,52,3
+420,2017,Bundestagswahl,91102,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1066,256,597,1,595,120,60,88,38,62,12,171,1,43,2
+421,2017,Bundestagswahl,91200,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1656,355,921,0,908,193,85,143,58,86,8,262,8,65,13
+422,2017,Bundestagswahl,91300,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1553,376,847,2,842,159,90,149,63,77,7,215,10,72,5
+423,2017,Bundestagswahl,91400,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1003,199,548,3,543,105,66,97,18,48,6,170,4,29,5
+424,2017,Bundestagswahl,91501,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1366,299,745,1,739,131,82,128,46,76,3,214,10,49,6
+425,2017,Bundestagswahl,91502,91 Cotta,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1345,339,685,4,681,128,77,126,36,76,3,174,7,54,4
+426,2017,Bundestagswahl,92001,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,956,956,955,211,128,174,134,104,4,96,11,93,1
+427,2017,Bundestagswahl,92002,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,901,901,891,204,89,177,114,100,3,110,15,79,10
+428,2017,Bundestagswahl,92100,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1890,565,930,3,924,158,101,193,107,100,6,157,10,92,6
+429,2017,Bundestagswahl,92200,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1654,435,821,1,814,152,102,136,73,85,7,178,16,65,7
+430,2017,Bundestagswahl,92300,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1519,427,784,0,776,135,73,164,85,76,5,150,14,74,8
+431,2017,Bundestagswahl,92400,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,916,235,507,1,504,91,50,96,51,47,4,123,6,36,3
+432,2017,Bundestagswahl,92500,92 L_btau-Nord,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1303,271,751,3,742,141,88,170,79,68,3,130,5,58,9
+433,2017,Bundestagswahl,93001,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,606,606,603,135,77,92,105,65,3,52,5,69,3
+434,2017,Bundestagswahl,93002,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,923,923,921,209,97,177,165,81,2,96,11,83,2
+435,2017,Bundestagswahl,93003,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,763,763,762,181,104,125,109,75,2,79,11,76,1
+436,2017,Bundestagswahl,93101,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1294,321,709,4,704,127,77,162,67,78,3,128,2,60,5
+437,2017,Bundestagswahl,93102,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1160,315,611,3,610,105,77,117,63,62,2,130,6,48,1
+438,2017,Bundestagswahl,93200,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1654,432,883,1,876,178,102,142,107,102,7,157,11,70,7
+439,2017,Bundestagswahl,93300,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,988,297,501,3,499,97,52,109,57,48,2,87,9,38,2
+440,2017,Bundestagswahl,93400,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,961,228,580,0,570,130,61,96,64,54,6,120,9,30,10
+441,2017,Bundestagswahl,93500,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1394,364,754,7,747,130,86,140,76,73,10,157,10,65,7
+442,2017,Bundestagswahl,93600,93 L_btau-Sôd,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1662,432,885,6,876,185,86,179,107,92,8,147,9,63,9
+443,2017,Bundestagswahl,94001,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,974,974,974,267,96,175,84,94,7,181,3,67,0
+444,2017,Bundestagswahl,94002,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,738,738,736,217,91,94,52,88,3,134,3,54,2
+445,2017,Bundestagswahl,94101,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,955,189,515,1,510,103,58,95,28,36,7,146,6,31,5
+446,2017,Bundestagswahl,94102,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,968,187,533,0,526,109,63,70,25,44,5,175,4,31,7
+447,2017,Bundestagswahl,94200,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1272,340,722,0,715,169,63,119,39,49,4,212,6,54,7
+448,2017,Bundestagswahl,94400,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1098,307,620,2,618,159,45,73,31,82,4,186,4,34,2
+449,2017,Bundestagswahl,94501,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1023,300,605,2,603,153,56,99,47,72,0,147,2,27,2
+450,2017,Bundestagswahl,94502,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,858,159,593,3,591,165,64,82,43,70,2,136,6,23,2
+451,2017,Bundestagswahl,94600,94 Nau_litz,"15 Cotta, L_btau, Nau_litz, D_lzschen",StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1479,311,895,0,887,180,80,120,60,89,3,300,5,50,8
+452,2017,Bundestagswahl,95000,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,844,844,840,217,86,160,29,73,8,219,8,40,4
+453,2017,Bundestagswahl,95100,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1630,191,748,1,736,121,68,144,22,32,24,276,4,45,12
+454,2017,Bundestagswahl,95200,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1099,125,460,1,452,73,45,74,16,15,13,179,4,33,8
+455,2017,Bundestagswahl,95400,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,877,113,462,0,452,124,62,90,9,16,8,126,0,17,10
+456,2017,Bundestagswahl,95500,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1394,283,743,3,735,123,62,99,21,66,11,292,10,51,8
+457,2017,Bundestagswahl,95600,95 Gorbitz-Sôd,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1157,176,572,3,563,88,50,88,16,22,19,247,4,29,9
+458,2017,Bundestagswahl,96000,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,840,840,832,236,85,179,42,64,6,166,1,53,8
+459,2017,Bundestagswahl,96100,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1456,277,711,1,700,121,64,144,25,60,7,232,9,38,11
+460,2017,Bundestagswahl,96300,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1737,329,788,1,776,146,56,144,26,54,11,275,0,64,12
+461,2017,Bundestagswahl,96600,96 Gorbitz-Ost,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1693,274,778,3,762,114,76,131,21,48,17,306,8,41,16
+462,2017,Bundestagswahl,97000,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,718,718,711,167,86,157,32,45,10,157,10,47,7
+463,2017,Bundestagswahl,97100,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1547,270,840,0,823,141,90,141,33,49,12,304,7,46,17
+464,2017,Bundestagswahl,97300,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1675,232,842,0,829,140,75,134,24,61,18,307,6,64,13
+465,2017,Bundestagswahl,97600,97 Gorbitz-Nord/Neu-Omsewitz,16 Gorbitz,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1241,250,594,1,592,110,61,116,15,27,11,222,6,24,2
+466,2017,Bundestagswahl,98001,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,1122,1122,1117,332,98,151,66,106,4,281,4,75,5
+467,2017,Bundestagswahl,98002,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,898,898,893,243,76,139,70,112,7,194,4,48,5
+468,2017,Bundestagswahl,98100,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1440,288,894,1,882,216,66,115,49,95,6,291,2,42,12
+469,2017,Bundestagswahl,98200,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1442,360,865,0,858,194,86,117,44,70,6,294,4,43,7
+470,2017,Bundestagswahl,98300,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1327,299,819,2,812,208,67,104,35,82,2,272,9,33,7
+471,2017,Bundestagswahl,98401,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1004,233,549,0,538,126,56,75,32,49,5,148,7,40,11
+472,2017,Bundestagswahl,98402,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,974,207,530,0,523,90,41,84,27,56,6,180,6,33,7
+473,2017,Bundestagswahl,98500,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1460,414,850,1,841,209,76,132,62,71,2,245,3,41,9
+474,2017,Bundestagswahl,98600,98 Briesnitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1253,308,734,2,726,179,61,92,56,70,5,221,5,37,8
+475,2017,Bundestagswahl,99010,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Brief,0,0,771,771,768,252,57,95,25,82,6,205,4,42,3
+476,2017,Bundestagswahl,99110,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1507,392,930,0,926,255,80,100,51,101,5,277,5,52,4
+477,2017,Bundestagswahl,99310,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,1139,221,742,0,736,184,72,79,21,83,12,258,1,26,6
+478,2017,Bundestagswahl,99810,99 Altfranken/Gompitz,17 Briesnitz und westliche OS,StB 9 Cotta/westliche Ortschaften,Wahlbezirk_Urne,881,171,633,0,629,177,49,85,14,90,2,195,4,13,4
