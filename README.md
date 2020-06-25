@@ -18,13 +18,13 @@ The second data set was downloaded with the following link: https://www.statisti
 
 For the Clustering the following dataset were used: <br>
 
-For the logistic regression the following datasets were used: Frankfurt2017Prozente.csv, Dresden2017Prozente.csv, München2017Prozente.csv, Hamburg2017Prozente.csv <br>
+For the logistic regression the following dataset was used: DataLogisticRegression.csv <br>
 
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
 1. Merging data sets: DataMergingBundestagswahl2017.ipynb
 2. Training and evalutation of the data: <br>
-    Logistic Regression: LogisticRegressionFrankfurtDresden.ipynb <br>
+    Logistic Regression: LogisticRegression.ipynb <br>
     k-mean Clustering:
 
 
