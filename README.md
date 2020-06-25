@@ -22,7 +22,7 @@ For the logistic regression the following datasets were used: Frankfurt2017Proze
 
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
-1. Merging data sets: 
+1. Merging data sets: DataMergingBundestagswahl2017.ipynb
 2. Training and evalutation of the data: <br>
     Logistic Regression: LogisticRegressionFrankfurtDresden.ipynb <br>
     k-mean Clustering:
