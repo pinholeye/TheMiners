@@ -15,8 +15,11 @@ The third data set was downloaded with the following link: https://www.muenchen.
 4. The Hamburg data set <br>
 The second data set was downloaded with the following link: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bundestagswahlen/2017
 
-4. The Köln data set <br>
-The second data set was downloaded with the following link: https://offenedaten-koeln.de/dataset/bundestagswahl-2017-koeln
+5. The Köln data set <br>
+The first prediction data set was downloaded with the following link: https://offenedaten-koeln.de/dataset/bundestagswahl-2017-koeln
+
+6. The  data set <br>
+The second prediction data set was downloaded with the following link: 
 
 For the Clustering the following dataset were used: <br>
 
