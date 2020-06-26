@@ -1,6 +1,6 @@
 # Data Science Project: TheMiners
-The aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.
-The aim of this project is to analyse the german election 2017 in Dresden and Frankfurt
+The aim of this project is to analyse the german election 2017 in Dresden and Frankfurt.
+(Former Project: the aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.)
 
 # Data sets
 1. The Frankfurt dataset <br>
