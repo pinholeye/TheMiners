@@ -1,5 +1,5 @@
 # Data Science Project: TheMiners
-The aim of this project is to analyse the german election 2017 in Dresden and Frankfurt.
+The aim of this project is to analyse the german election 2017 in differnt German cities.
 (Former Project: the aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.)
 
 # Data sets
@@ -19,7 +19,7 @@ The second data set was downloaded with the following link: https://www.statisti
 The first prediction data set was downloaded with the following link: https://offenedaten-koeln.de/dataset/bundestagswahl-2017-koeln
 
 
-For the Clustering the following dataset were used: <br>
+For the Clustering the following dataset were used: Munchen2017Prozente.csv, Hamburg2017Prozente.csv, Frankfurt2017Prozente.csv, Dresden2017Prozente.csv
 
 For the logistic regression the following dataset was used: DataLogisticRegression.csv and for the prediction: Köln2017Prozente.csv <br>
 
@@ -28,7 +28,8 @@ The Code is aviable via Jupyter Nodebooks: <br>
 1. Merging data sets: DataMergingBundestagswahl2017.ipynb
 2. Training and evalutation of the data: <br>
     Logistic Regression: LogisticRegression.ipynb <br>
-    k-mean Clustering:
+    k-mean Clustering: agglomerative_clustering.ipynb
 
 
 # References
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html
