@@ -15,10 +15,12 @@ The third data set was downloaded with the following link: https://www.muenchen.
 4. The Hamburg data set <br>
 The second data set was downloaded with the following link: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bundestagswahlen/2017
 
+4. The Köln data set <br>
+The second data set was downloaded with the following link: https://offenedaten-koeln.de/dataset/bundestagswahl-2017-koeln
 
 For the Clustering the following dataset were used: <br>
 
-For the logistic regression the following dataset was used: DataLogisticRegression.csv <br>
+For the logistic regression the following dataset was used: DataLogisticRegression.csv and for the prediction: Köln2017Prozente.csv,  <br>
 
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
