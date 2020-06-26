@@ -1,5 +1,5 @@
 # Data Science Project: TheMiners
-The aim of this project is to analyse the german election 2017 in differnt German cities.
+The aim of this project is to analyse the german election 2017 in differnt German cities. <br>
 (Former Project: the aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.)
 
 # Data sets
