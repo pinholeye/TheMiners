@@ -1,6 +1,6 @@
 # Data Science Project: TheMiners
-The aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.
-The aim of this project is to analyse the german election 2017 in Dresden and Frankfurt
+The aim of this project is to analyse the german election 2017 in Dresden and Frankfurt.
+(Former Project: the aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.)
 
 # Data sets
 1. The Frankfurt dataset <br>
@@ -15,16 +15,19 @@ The third data set was downloaded with the following link: https://www.muenchen.
 4. The Hamburg data set <br>
 The second data set was downloaded with the following link: https://www.statistik-nord.de/wahlen/wahlen-in-hamburg/bundestagswahlen/2017
 
+5. The Köln data set <br>
+The first prediction data set was downloaded with the following link: https://offenedaten-koeln.de/dataset/bundestagswahl-2017-koeln
+
 
 For the Clustering the following dataset were used: <br>
 
-For the logistic regression the following datasets were used: Frankfurt2017Prozente.csv, Dresden2017Prozente.csv, München2017Prozente.csv, Hamburg2017Prozente.csv <br>
+For the logistic regression the following dataset was used: DataLogisticRegression.csv and for the prediction: Köln2017Prozente.csv <br>
 
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
 1. Merging data sets: DataMergingBundestagswahl2017.ipynb
 2. Training and evalutation of the data: <br>
-    Logistic Regression: LogisticRegressionFrankfurtDresden.ipynb <br>
+    Logistic Regression: LogisticRegression.ipynb <br>
     k-mean Clustering:
 
 
