@@ -18,12 +18,10 @@ The second data set was downloaded with the following link: https://www.statisti
 5. The Köln data set <br>
 The first prediction data set was downloaded with the following link: https://offenedaten-koeln.de/dataset/bundestagswahl-2017-koeln
 
-6. The Erfurt data set <br>
-The second prediction data set was downloaded with the following link: https://statistik.thueringen.de/datenbank/portrait.asp?TabelleID=KR000252&auswahl=krs&nr=51&Aevas2=Aevas2&daten=jahr&ersterAufruf=x&tit2=&SZDT=
 
 For the Clustering the following dataset were used: <br>
 
-For the logistic regression the following dataset was used: DataLogisticRegression.csv and for the prediction: Köln2017Prozente.csv, Erfurt2017Prozente.csv <br>
+For the logistic regression the following dataset was used: DataLogisticRegression.csv and for the prediction: Köln2017Prozente.csv <br>
 
 # Code
 The Code is aviable via Jupyter Nodebooks: <br>
