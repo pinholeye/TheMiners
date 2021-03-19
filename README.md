@@ -1,6 +1,5 @@
 # Data Science Project: TheMiners
-The aim of this project is to analyse the german election 2017 in differnt German cities. <br>
-(Former Project: the aim of this project is to analyse skin lesions images and use a clissifer for the detection of differnet skin cancers.)
+The aim of this project is to analyse the german election 2017 in different German cities. <br>
 
 # Data sets
 1. The Frankfurt dataset <br>
@@ -33,4 +32,3 @@ The Code is aviable via Jupyter Nodebooks: <br>
 
 # References
 https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html <br>
-https://github.com/IBM/AIX360 <br>
